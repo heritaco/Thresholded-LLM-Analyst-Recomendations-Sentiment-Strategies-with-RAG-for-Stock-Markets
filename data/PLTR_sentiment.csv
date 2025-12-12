@@ -1,0 +1,1097 @@
+title,date_raw,source_code,body,sentiment,sentiment_score,sentiment_confidence,sentiment_rationale,sentiment_raw
+"Palantir Technologies on 'Golden Path' to Trillion-Dollar Market Cap, Wedbush Securities Says",Dec. 05,MT,"Palantir Technologies on 'Golden Path' to Trillion-Dollar Market Cap, Wedbush Securities Says",bullish,0.7,0.9,"The headline highlights Palantir's significant growth potential and market capitalization, suggesting a substantial positive impact on the stock price. 'Golden Path' implies a successful, expansive growth strategy, which is generally viewed favorably.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights Palantir's significant growth potential and market capitalization, suggesting a substantial positive impact on the stock price. 'Golden Path' implies a successful, expansive growth strategy, which is generally viewed favorably.""
+}
+```"
+"Nvidia Sell-Off a 'DeepSeek Moment,' AI Revolution Just Beginning, Wedbush Says",Nov. 21,MT,"Nvidia Sell-Off a 'DeepSeek Moment,' AI Revolution Just Beginning, Wedbush Says",bearish,-0.6,0.8,"The headline emphasizes a significant sell-off of PLTR, suggesting a negative outlook for the company's future due to a 'DeepSeek Moment' and a perceived AI revolution. This suggests a potential downturn in the stock's performance.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline emphasizes a significant sell-off of PLTR, suggesting a negative outlook for the company's future due to a 'DeepSeek Moment' and a perceived AI revolution. This suggests a potential downturn in the stock's performance.""
+}
+```"
+"CICC Adjusts Price Target on Palantir Technologies to $150 From $128, Maintains Neutral Rating",Nov. 12,MT,"CICC Adjusts Price Target on Palantir Technologies to $150 From $128, Maintains Neutral Rating",bullish,0.6,0.8,"The headline indicates a price increase (from $128 to $150) for Palantir Technologies by CICC, suggesting a positive outlook for the stock. The maintaining neutral rating reinforces this positive signal.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase (from $128 to $150) for Palantir Technologies by CICC, suggesting a positive outlook for the stock. The maintaining neutral rating reinforces this positive signal.""
+}
+```"
+Nvidia Shares Decline After SoftBank Exit as Markets Assess Investor Michael Burry's Claims,Nov. 11,MT,Nvidia Shares Decline After SoftBank Exit as Markets Assess Investor Michael Burry's Claims,bearish,-0.6,0.8,"The headline highlights a significant negative impact – a decline in Nvidia shares following SoftBank's exit. This suggests potential concerns about investor confidence and the validity of SoftBank’s claims, which is generally a bearish indicator for a stock.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights a significant negative impact – a decline in Nvidia shares following SoftBank's exit. This suggests potential concerns about investor confidence and the validity of SoftBank’s claims, which is generally a bearish indicator for a stock.""
+}
+```"
+America's markets lose their nerve,Nov. 07,Zonebourse,America's markets lose their nerve,bearish,-0.8,0.7,"The headline 'America's markets lose their nerve' indicates significant market weakness, suggesting a potential decline in the stock price of PLTR.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline 'America's markets lose their nerve' indicates significant market weakness, suggesting a potential decline in the stock price of PLTR.""
+}
+```"
+"Daiwa Securities Adjusts Price Target on Palantir Technologies to $200 From $178, Maintains Neutral Rating",Nov. 06,MT,"Daiwa Securities Adjusts Price Target on Palantir Technologies to $200 From $178, Maintains Neutral Rating",bullish,0.6,0.8,"The headline indicates a price increase (from $178 to $200) for Palantir Technologies, which is a positive signal for the stock.  The neutral rating suggests a cautious outlook, but the substantial increase outweighs the uncertainty, leading to a positive sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase (from $178 to $200) for Palantir Technologies, which is a positive signal for the stock.  The neutral rating suggests a cautious outlook, but the substantial increase outweighs the uncertainty, leading to a positive sentiment.""
+}
+```"
+"HSBC Adjusts Price Target on Palantir Technologies to $197 From $181, Maintains Hold Rating",Nov. 05,MT,"HSBC Adjusts Price Target on Palantir Technologies to $197 From $181, Maintains Hold Rating",bullish,0.6,0.9,"The headline indicates an increase in the price target for Palantir Technologies (PLTR) from $181 to $197. This suggests positive expectations for the stock's future performance, driven by the revised target.  The maintain of a hold rating further reinforces this bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates an increase in the price target for Palantir Technologies (PLTR) from $181 to $197. This suggests positive expectations for the stock's future performance, driven by the revised target.  The maintain of a hold rating further reinforces this bullish outlook.""
+}
+```"
+"Citigroup Adjusts Price Target on Palantir Technologies to $210 From $190, Maintains Neutral Rating",Nov. 05,MT,"Citigroup Adjusts Price Target on Palantir Technologies to $210 From $190, Maintains Neutral Rating",bullish,0.6,0.8,"The headline indicates a price increase (from $190 to $210) for Palantir Technologies (PLTR). This suggests positive expectations for the stock's future performance, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase (from $190 to $210) for Palantir Technologies (PLTR). This suggests positive expectations for the stock's future performance, indicating a bullish outlook.""
+}
+```"
+"Analyst recommendations: Fiserv, Alphabet, AMD, Dupont De Nemours, Palantir…",Nov. 05,Zonebourse,"Analyst recommendations: Fiserv, Alphabet, AMD, Dupont De Nemours, Palantir…",neutral,0.1,0.9,"The headline discusses industry analysts' recommendations, which are generally positive for several companies but doesn't explicitly predict or suggest any significant changes for PLTR (Palantir). It's a broad update rather than a directional forecast.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses industry analysts' recommendations, which are generally positive for several companies but doesn't explicitly predict or suggest any significant changes for PLTR (Palantir). It's a broad update rather than a directional forecast.""
+}
+```"
+"Palantir Raises Outlook, But Valuation Concerns Grow",Nov. 04,MT,"Palantir Raises Outlook, But Valuation Concerns Grow",bearish,-0.6,0.7,"The headline highlights both an optimistic outlook for Palantir and growing valuation concerns, suggesting a potential for a negative impact on the stock's price. This combination indicates a cautious outlook rather than a strong bullish signal.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline highlights both an optimistic outlook for Palantir and growing valuation concerns, suggesting a potential for a negative impact on the stock's price. This combination indicates a cautious outlook rather than a strong bullish signal.""
+}
+```"
+"Palantir, Nvidia Shares Fall Amid Bearish Bets by Investor Michael Burry",Nov. 04,MT,"Palantir, Nvidia Shares Fall Amid Bearish Bets by Investor Michael Burry",bearish,-0.7,0.8,"The headline explicitly mentions ‘Investor Michael Burry,’ a prominent bearish analyst. The mention of ‘bearish bets’ strongly suggests a negative outlook for Palantir's stock, potentially leading to a decline in its price.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline explicitly mentions ‘Investor Michael Burry,’ a prominent bearish analyst. The mention of ‘bearish bets’ strongly suggests a negative outlook for Palantir's stock, potentially leading to a decline in its price.""
+}
+```"
+"Palantir Technologies' Growth Remains Heavily US-Focused, RBC Says",Nov. 04,MT,"Palantir Technologies' Growth Remains Heavily US-Focused, RBC Says",bearish,-0.6,0.8,"The headline emphasizes the company's reliance on the US market, which often signals potential challenges and reduced growth prospects. While growth is mentioned, the focus on US-centricity raises concerns about its long-term potential.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline emphasizes the company's reliance on the US market, which often signals potential challenges and reduced growth prospects. While growth is mentioned, the focus on US-centricity raises concerns about its long-term potential.""
+}
+```"
+Northland Securities Adjusts Palantir Technologies Price Target to $185 From $140,Nov. 04,MT,Northland Securities Adjusts Palantir Technologies Price Target to $185 From $140,bullish,0.8,0.9,"The headline indicates a price increase for Palantir Technologies, suggesting a positive outlook for the stock. The adjusted price target is a significant jump, indicating increased investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase for Palantir Technologies, suggesting a positive outlook for the stock. The adjusted price target is a significant jump, indicating increased investor confidence.""
+}
+```"
+"Palantir Emerging as Enterprise AI Standard After Strong Q3, Morgan Stanley Says",Nov. 04,MT,"Palantir Emerging as Enterprise AI Standard After Strong Q3, Morgan Stanley Says",bullish,0.7,0.8,"The mention of 'enterprise AI standard' and 'strong Q3' strongly suggests a positive outlook for PLTR, indicating increased market value and potential growth due to its position as a leading AI solution.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The mention of 'enterprise AI standard' and 'strong Q3' strongly suggests a positive outlook for PLTR, indicating increased market value and potential growth due to its position as a leading AI solution.""
+}
+```"
+"Palantir Reaping 'Measurable' Returns From Artificial Intelligence, BofA Says",Nov. 04,MT,"Palantir Reaping 'Measurable' Returns From Artificial Intelligence, BofA Says",bullish,0.7,0.8,"The phrase 'Measurable returns' indicates significant financial gains, suggesting a positive outlook for PLTR's stock price.  BofA's positive commentary further strengthens this assessment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The phrase 'Measurable returns' indicates significant financial gains, suggesting a positive outlook for PLTR's stock price.  BofA's positive commentary further strengthens this assessment.""
+}
+```"
+"UBS Adjusts Palantir Technologies Price Target to $205 From $165, Maintains Neutral Rating",Nov. 04,MT,"UBS Adjusts Palantir Technologies Price Target to $205 From $165, Maintains Neutral Rating",bearish,-0.6,0.8,"The headline explicitly mentions a price adjustment by UBS, which is a negative signal for PLTR.  The 'Neutral Rating' suggests the impact is expected to be minimal, indicating potential for a decline in the stock's price.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline explicitly mentions a price adjustment by UBS, which is a negative signal for PLTR.  The 'Neutral Rating' suggests the impact is expected to be minimal, indicating potential for a decline in the stock's price.""
+}
+```"
+"Piper Sandler Adjusts Price Target on Palantir Technologies to $225 From $201, Maintains Overweight Rating",Nov. 04,MT,"Piper Sandler Adjusts Price Target on Palantir Technologies to $225 From $201, Maintains Overweight Rating",bullish,0.7,0.9,"The headline indicates a price increase target for Palantir Technologies (PLTR) from $201 to $225. This represents a positive outlook for the stock, suggesting increased investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase target for Palantir Technologies (PLTR) from $201 to $225. This represents a positive outlook for the stock, suggesting increased investor confidence.""
+}
+```"
+"Goldman Sachs Adjusts Price Target on Palantir Technologies to $188 From $141, Maintains Neutral Rating",Nov. 04,MT,"Goldman Sachs Adjusts Price Target on Palantir Technologies to $188 From $141, Maintains Neutral Rating",bullish,0.6,0.8,"The headline indicates a positive adjustment to the price target – a substantial increase ($188) – suggesting optimism about Palantir's future earnings and valuation.  The 'Neutral' rating implies a lack of strong conviction either way, but the significant price uplift warrants a positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a positive adjustment to the price target – a substantial increase ($188) – suggesting optimism about Palantir's future earnings and valuation.  The 'Neutral' rating implies a lack of strong conviction either way, but the significant price uplift warrants a positive outlook.""
+}
+```"
+"Loop Capital Adjusts Price Target on Palantir Technologies to $230 From $180, Maintains Buy Rating",Nov. 04,MT,"Loop Capital Adjusts Price Target on Palantir Technologies to $230 From $180, Maintains Buy Rating",bullish,0.7,0.9,"The headline indicates a price increase target adjustment for Palantir Technologies (PLTR). This suggests increased confidence in the stock's future performance, making it a positive indicator.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase target adjustment for Palantir Technologies (PLTR). This suggests increased confidence in the stock's future performance, making it a positive indicator.""
+}
+```"
+"Baird Adjusts Price Target on Palantir Technologies to $200 From $170, Maintains Neutral Rating",Nov. 04,MT,"Baird Adjusts Price Target on Palantir Technologies to $200 From $170, Maintains Neutral Rating",bullish,0.7,0.9,"The headline indicates a positive revision of the price target, suggesting increased investor optimism about Palantir Technologies' future performance. The neutral rating implies the revised target doesn't significantly impact the stock's value, but is a positive step.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive revision of the price target, suggesting increased investor optimism about Palantir Technologies' future performance. The neutral rating implies the revised target doesn't significantly impact the stock's value, but is a positive step.""
+}
+```"
+"DA Davidson Adjusts Price Target on Palantir Technologies to $215 From $170, Maintains Neutral Rating",Nov. 04,MT,"DA Davidson Adjusts Price Target on Palantir Technologies to $215 From $170, Maintains Neutral Rating",bullish,0.4,0.8,"The headline indicates a price increase (to $215) for Palantir Technologies (PLTR) by DA Davidson, suggesting a positive outlook for the stock.  The neutral rating reinforces this positive expectation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.4,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase (to $215) for Palantir Technologies (PLTR) by DA Davidson, suggesting a positive outlook for the stock.  The neutral rating reinforces this positive expectation.""
+}
+```"
+"Cantor Fitzgerald Adjusts Price Target on Palantir Technologies to $198 From $155, Maintains Neutral Rating",Nov. 04,MT,"Cantor Fitzgerald Adjusts Price Target on Palantir Technologies to $198 From $155, Maintains Neutral Rating",bullish,0.6,0.9,"The headline indicates a price increase ($198 from $155) suggests positive expectations for Palantir Technologies, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase ($198 from $155) suggests positive expectations for Palantir Technologies, indicating a bullish outlook.""
+}
+```"
+"Deutsche Bank Adjusts Price Target on Palantir Technologies to $200 From $160, Maintains Hold Rating",Nov. 04,MT,"Deutsche Bank Adjusts Price Target on Palantir Technologies to $200 From $160, Maintains Hold Rating",bullish,0.7,0.9,"The headline indicates a significant price increase (from $160 to $200) for Palantir Technologies (PLTR), suggesting a positive outlook for the stock's future performance.  The ‘Maintain Hold’ rating further reinforces this expectation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (from $160 to $200) for Palantir Technologies (PLTR), suggesting a positive outlook for the stock's future performance.  The ‘Maintain Hold’ rating further reinforces this expectation.""
+}
+```"
+"Jefferies Adjusts Price Target on Palantir Technologies to $70 From $60, Maintains Underperform Rating",Nov. 04,MT,"Jefferies Adjusts Price Target on Palantir Technologies to $70 From $60, Maintains Underperform Rating",bullish,0.6,0.8,The headline indicates a positive price adjustment – a price target increase suggests increased investor confidence and a potential upward trend for PLTR's stock.  The 'Maintain Underperform Rating' adds further positive signal.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a positive price adjustment – a price target increase suggests increased investor confidence and a potential upward trend for PLTR's stock.  The 'Maintain Underperform Rating' adds further positive signal.""
+}
+```"
+"Mizuho Adjusts Price Target on Palantir Technologies to $205 From $165, Maintains Neutral Rating",Nov. 04,MT,"Mizuho Adjusts Price Target on Palantir Technologies to $205 From $165, Maintains Neutral Rating",bullish,0.6,0.8,"The headline indicates a positive adjustment to the price target, suggesting increased investor confidence in Palantir Technologies.  The 'neutral rating' suggests a relatively stable outlook, yet the substantial price increase underscores a favorable outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a positive adjustment to the price target, suggesting increased investor confidence in Palantir Technologies.  The 'neutral rating' suggests a relatively stable outlook, yet the substantial price increase underscores a favorable outlook.""
+}
+```"
+"Deutsche Bank Adjusts Palantir Technologies Price Target to $200 From $160, Maintains Hold Rating",Nov. 04,MT,"Deutsche Bank Adjusts Palantir Technologies Price Target to $200 From $160, Maintains Hold Rating",bearish,-0.8,0.7,"The headline indicates a downgrade of the investment rating for Palantir Technologies. This suggests a potential negative outlook for the stock's future performance, signaling a significant decline in the stock's value.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downgrade of the investment rating for Palantir Technologies. This suggests a potential negative outlook for the stock's future performance, signaling a significant decline in the stock's value.""
+}
+```"
+"RBC Raises Price Target on Palantir Technologies to $50 From $45, Keeps Underperform Rating",Nov. 04,MT,"RBC Raises Price Target on Palantir Technologies to $50 From $45, Keeps Underperform Rating",bullish,0.7,0.8,"The headline indicates a significant increase in the price target, suggesting strong positive future performance for Palantir Technologies (PLTR). The 'Raises Price Target' implies a favorable outlook and increased value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant increase in the price target, suggesting strong positive future performance for Palantir Technologies (PLTR). The 'Raises Price Target' implies a favorable outlook and increased value.""
+}
+```"
+"Morgan Stanley Raises Price Target on Palantir Technologies to $205 From $155, Keeps Equalweight Rating",Nov. 04,MT,"Morgan Stanley Raises Price Target on Palantir Technologies to $205 From $155, Keeps Equalweight Rating",bullish,0.7,0.8,"The Morgan Stanley price target increase significantly boosts investor confidence in Palantir's future prospects, suggesting a potential rise in the stock's price. The elevated rating also indicates a favorable outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The Morgan Stanley price target increase significantly boosts investor confidence in Palantir's future prospects, suggesting a potential rise in the stock's price. The elevated rating also indicates a favorable outlook.""
+}
+```"
+MORNING BID AMERICAS-Nerves rising about frothy valuations,Nov. 04,RE,MORNING BID AMERICAS-Nerves rising about frothy valuations,bearish,-0.6,0.8,"The headline indicates concerns about 'frothy valuations,' suggesting a potential downturn in the stock's price.  This points towards a negative outlook for the future.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates concerns about 'frothy valuations,' suggesting a potential downturn in the stock's price.  This points towards a negative outlook for the future.""
+}
+```"
+"Analysts recommendations: Apple, Comcast, Crocs, Eli Lilly, Palantir…",Nov. 04,Zonebourse,"Analysts recommendations: Apple, Comcast, Crocs, Eli Lilly, Palantir…",neutral,0.2,0.9,"The headline discusses several major companies, including Apple, Comcast, and Palantir. There’s no specific bullish or bearish commentary regarding PLTR's stock performance. It’s a general overview of the market, not a prediction or analysis of the stock.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses several major companies, including Apple, Comcast, and Palantir. There’s no specific bullish or bearish commentary regarding PLTR's stock performance. It’s a general overview of the market, not a prediction or analysis of the stock.""
+}
+```"
+"Palantir Just Keeps Raising the Bar, Says Luria",Nov. 03,MT,"Palantir Just Keeps Raising the Bar, Says Luria",bullish,0.7,0.8,"The headline indicates increased expectations for Palantir's future performance due to Luria's involvement, suggesting a positive outlook for the company's growth and valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates increased expectations for Palantir's future performance due to Luria's involvement, suggesting a positive outlook for the company's growth and valuation.""
+}
+```"
+"Palantir's Q3 Results Likely to be Major Step in 'Right Direction' in AI Revolution, Wedbush Says",Nov. 03,MT,"Palantir's Q3 Results Likely to be Major Step in 'Right Direction' in AI Revolution, Wedbush Says",bullish,0.7,0.9,"The phrase 'Right Direction' suggests a positive outlook for Palantir's AI capabilities, indicating a strong investment and potential growth, thus indicating bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The phrase 'Right Direction' suggests a positive outlook for Palantir's AI capabilities, indicating a strong investment and potential growth, thus indicating bullish sentiment.""
+}
+```"
+"Wedbush Raises Price Target on Palantir Technologies to $230 From $200, Keeps Outperform Rating",Nov. 03,MT,"Wedbush Raises Price Target on Palantir Technologies to $230 From $200, Keeps Outperform Rating",bullish,0.7,0.9,"The headline indicates a significant price increase target, suggesting strong positive expectations for Palantir Technologies' stock performance. The 'Keeps Outperform Rating' further reinforces this positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase target, suggesting strong positive expectations for Palantir Technologies' stock performance. The 'Keeps Outperform Rating' further reinforces this positive outlook.""
+}
+```"
+Nvidia reaches $5 trillion in market capitalization,Oct. 29,Zonebourse,Nvidia reaches $5 trillion in market capitalization,bullish,0.8,0.9,"The headline explicitly mentions reaching a market capitalization of $5 trillion, which is a significant and positive milestone for a company like Nvidia. This suggests strong growth potential and increased value, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions reaching a market capitalization of $5 trillion, which is a significant and positive milestone for a company like Nvidia. This suggests strong growth potential and increased value, indicating a bullish outlook.""
+}
+```"
+"Citigroup Adjusts Price Target on Palantir Technologies to $190 From $177, Maintains Neutral Rating",Oct. 28,MT,"Citigroup Adjusts Price Target on Palantir Technologies to $190 From $177, Maintains Neutral Rating",bullish,0.6,0.8,"The headline indicates a positive adjustment to a price target, suggesting a bullish outlook on Palantir Technologies.  The 'Neutral' rating further reinforces this positive expectation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a positive adjustment to a price target, suggesting a bullish outlook on Palantir Technologies.  The 'Neutral' rating further reinforces this positive expectation.""
+}
+```"
+"Microsoft, Alphabet, Amazon Seen Leading 'Very Strong' Tech Earnings Season Next Week, Wedbush Says",Oct. 24,MT,"Microsoft, Alphabet, Amazon Seen Leading 'Very Strong' Tech Earnings Season Next Week, Wedbush Says",bullish,0.7,0.8,"The headline explicitly mentions 'Very Strong' earnings, a positive signal generally viewed as bullish.  The mention of leading companies suggests a positive outlook for Microsoft (PLTR) and Alphabet (GOOGL) which are heavily invested in the tech sector.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline explicitly mentions 'Very Strong' earnings, a positive signal generally viewed as bullish.  The mention of leading companies suggests a positive outlook for Microsoft (PLTR) and Alphabet (GOOGL) which are heavily invested in the tech sector.""
+}
+```"
+"Big Tech Poised for Strong Quarterly Results Amid AI Spending Boom, Wedbush Says",Oct. 08,MT,"Big Tech Poised for Strong Quarterly Results Amid AI Spending Boom, Wedbush Says",bullish,0.7,0.9,"The headline explicitly mentions 'strong quarterly results' and a 'AI spending boom,' indicating significant positive expectations for PLTR's stock performance.  It’s a generally optimistic outlook, suggesting a favorable future for the company.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions 'strong quarterly results' and a 'AI spending boom,' indicating significant positive expectations for PLTR's stock performance.  It’s a generally optimistic outlook, suggesting a favorable future for the company.""
+}
+```"
+Sector Update: Tech,Sep. 23,MT,Sector Update: Tech,neutral,0.2,0.9,"The headline mentions ‘Sector Update’ which is a general update, not a specific analysis of PLTR. It doesn’t convey a clear bullish or bearish outlook on the stock.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline mentions ‘Sector Update’ which is a general update, not a specific analysis of PLTR. It doesn’t convey a clear bullish or bearish outlook on the stock.""
+}
+```"
+"Palantir Technologies Leveraging AI to Expand Growth, BofA Says",Sep. 23,MT,"Palantir Technologies Leveraging AI to Expand Growth, BofA Says",bullish,0.6,0.8,"The mention of 'AI' and 'expansion' suggests a positive outlook for PLTR, indicating increased growth potential. BofA's comment adds further positive validation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The mention of 'AI' and 'expansion' suggests a positive outlook for PLTR, indicating increased growth potential. BofA's comment adds further positive validation.""
+}
+```"
+"With Palantir back to its highs, BofA is optimistic about the future",Sep. 23,Zonebourse,"With Palantir back to its highs, BofA is optimistic about the future",bullish,0.7,0.8,"The headline highlights Palantir's recent resurgence, suggesting a positive outlook for the company's stock (PLTR). This indicates optimism regarding future performance, positioning the stock for a bullish trend.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights Palantir's recent resurgence, suggesting a positive outlook for the company's stock (PLTR). This indicates optimism regarding future performance, positioning the stock for a bullish trend.""
+}
+```"
+"BofA Raises PT on Palantir Technologies to $215 From $180, Due to 'Stronger Growth Across Applications', Maintains Buy Rating",Sep. 23,MT,"BofA Raises PT on Palantir Technologies to $215 From $180, Due to 'Stronger Growth Across Applications', Maintains Buy Rating",bullish,0.7,0.9,"The headline explicitly states a price increase ($215 from $180) and a positive outlook for Palantir Technologies, driven by stronger growth across applications. This suggests a significant bullish event for the stock and indicates a favorable future outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price increase ($215 from $180) and a positive outlook for Palantir Technologies, driven by stronger growth across applications. This suggests a significant bullish event for the stock and indicates a favorable future outlook.""
+}
+```"
+"BofA Raises Price Target on Palantir Technologies to $215 From $180, Reflecting 'Stronger Growth Across Applications', Maintains Buy Rating",Sep. 23,MT,"BofA Raises Price Target on Palantir Technologies to $215 From $180, Reflecting 'Stronger Growth Across Applications', Maintains Buy Rating",bullish,0.7,0.9,The headline explicitly states a price target increase ($215) and positive factors driving growth across Palantir's applications. This indicates strong optimism about the company's future prospects and a significant potential for upward price movement.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase ($215) and positive factors driving growth across Palantir's applications. This indicates strong optimism about the company's future prospects and a significant potential for upward price movement.""
+}
+```"
+PALANTIR : BofA still a buyer after AIPCon 8,Sep. 08,Zonebourse,PALANTIR : BofA still a buyer after AIPCon 8,bullish,0.7,0.9,"The headline indicates a continued positive outlook for PLTR's stock price, based on BofA's continued support. This suggests a strong belief that the AIPCon event will lead to continued investment activity, boosting the stock's value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a continued positive outlook for PLTR's stock price, based on BofA's continued support. This suggests a strong belief that the AIPCon event will lead to continued investment activity, boosting the stock's value.""
+}
+```"
+The Bubble Flickers,Aug. 21,Zonebourse,The Bubble Flickers,bearish,-0.8,0.7,"The phrase 'bubble flickers' suggests a potential decline in the stock's value. Bubbles are known for unstable price fluctuations, raising concerns about future performance.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The phrase 'bubble flickers' suggests a potential decline in the stock's value. Bubbles are known for unstable price fluctuations, raising concerns about future performance.""
+}
+```"
+"Analyst recommendations: Arista Networks, Caterpillar, Pfizer, Broadcom, Nvidia…",Aug. 19,Zonebourse,"Analyst recommendations: Arista Networks, Caterpillar, Pfizer, Broadcom, Nvidia…",neutral,0.1,0.9,"The headline discusses several major technology and pharmaceutical companies, but doesn't explicitly indicate a positive or negative outlook for PLTR (Arista Networks, Caterpillar, Pfizer, Broadcom, Nvidia). It’s a general market overview.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses several major technology and pharmaceutical companies, but doesn't explicitly indicate a positive or negative outlook for PLTR (Arista Networks, Caterpillar, Pfizer, Broadcom, Nvidia). It’s a general market overview.""
+}
+```"
+"CICC Research Adjusts Palantir Technologies Price Target to $128 From $83, Maintains Neutral Rating",Aug. 07,MT,"CICC Research Adjusts Palantir Technologies Price Target to $128 From $83, Maintains Neutral Rating",bullish,0.6,0.8,"The headline indicates a positive outlook on Palantir Technologies, specifically a price target increase by CICC Research. This suggests increased investor confidence and a potential upward trend in the stock's price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a positive outlook on Palantir Technologies, specifically a price target increase by CICC Research. This suggests increased investor confidence and a potential upward trend in the stock's price.""
+}
+```"
+"Daiwa Securities Adjusts Palantir Technologies Price Target to $178 From $118, Maintains Neutral Rating",Aug. 07,MT,"Daiwa Securities Adjusts Palantir Technologies Price Target to $178 From $118, Maintains Neutral Rating",neutral,0.2,0.9,"The headline reports a price adjustment by Daiwa Securities, but doesn't express a strong bullish or bearish outlook for PLTR. It simply states a revised target, leaving the future performance uncertain.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline reports a price adjustment by Daiwa Securities, but doesn't express a strong bullish or bearish outlook for PLTR. It simply states a revised target, leaving the future performance uncertain.""
+}
+```"
+"HSBC Adjusts Price Target on Palantir Technologies to $181 From $111, Maintains Hold Rating",Aug. 06,MT,"HSBC Adjusts Price Target on Palantir Technologies to $181 From $111, Maintains Hold Rating",bearish,-0.6,0.8,"The headline indicates a downward revision of the price target. Maintaining a 'Hold' rating suggests a concern about the company's future prospects, implying a negative outlook for PLTR's stock price.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a downward revision of the price target. Maintaining a 'Hold' rating suggests a concern about the company's future prospects, implying a negative outlook for PLTR's stock price.""
+}
+```"
+PALANTIR : HSBC raises TP significantly,Aug. 06,Zonebourse,PALANTIR : HSBC raises TP significantly,bearish,-0.8,0.7,"The headline indicates a significant reduction in the TP (Target Price) assigned to PALANTIR's stock. This suggests potential risk and concerns for the company's future valuation, pointing towards a bearish outlook.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a significant reduction in the TP (Target Price) assigned to PALANTIR's stock. This suggests potential risk and concerns for the company's future valuation, pointing towards a bearish outlook.""
+}
+```"
+"Analyst recommendations: AMD, Chevron, Snap, Boeing, Palantir…",Aug. 06,Zonebourse,"Analyst recommendations: AMD, Chevron, Snap, Boeing, Palantir…",neutral,0.1,0.9,"The headline discusses several major industry players, with no specific mention of PLTR’s stock performance. It’s a general market overview rather than a positive or negative outlook.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses several major industry players, with no specific mention of PLTR’s stock performance. It’s a general market overview rather than a positive or negative outlook.""
+}
+```"
+"UBS Adjusts Price Target on Palantir Technologies to $165 From $110, Maintains Neutral Rating",Aug. 05,MT,"UBS Adjusts Price Target on Palantir Technologies to $165 From $110, Maintains Neutral Rating",bearish,-0.6,0.8,"The headline indicates a downward revision of the price target, suggesting a negative outlook for the stock. Maintaining a neutral rating despite a price adjustment signals potential concern about the company's future performance.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a downward revision of the price target, suggesting a negative outlook for the stock. Maintaining a neutral rating despite a price adjustment signals potential concern about the company's future performance.""
+}
+```"
+"BofA Securities Adjusts Price Target on Palantir Technologies to $180 From $150, Maintains Buy Rating",Aug. 05,MT,"BofA Securities Adjusts Price Target on Palantir Technologies to $180 From $150, Maintains Buy Rating",bullish,0.8,0.9,"The headline indicates a significant increase in Palantir Technologies' stock price target, suggesting a positive outlook for the company's future value. The adjusted target is a substantial increase, signaling increased investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant increase in Palantir Technologies' stock price target, suggesting a positive outlook for the company's future value. The adjusted target is a substantial increase, signaling increased investor confidence.""
+}
+```"
+Northland Securities Adjusts Palantir Technologies Price Target to $140 From $95,Aug. 05,MT,Northland Securities Adjusts Palantir Technologies Price Target to $140 From $95,bullish,0.8,0.9,"The headline indicates a positive adjustment to the price target for Palantir Technologies, suggesting increased investor confidence and a potential rise in the stock's price.  The adjustment from $95 to $140 represents a favorable outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive adjustment to the price target for Palantir Technologies, suggesting increased investor confidence and a potential rise in the stock's price.  The adjustment from $95 to $140 represents a favorable outlook.""
+}
+```"
+Citigroup Adjusts Palantir Technologies Price Target to $177 From $158,Aug. 05,MT,Citigroup Adjusts Palantir Technologies Price Target to $177 From $158,bullish,0.8,0.9,"The headline indicates a significant increase in the price target for Palantir Technologies (PLTR). A price target increase usually signals optimism regarding the company's future prospects, suggesting potential for increased value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant increase in the price target for Palantir Technologies (PLTR). A price target increase usually signals optimism regarding the company's future prospects, suggesting potential for increased value.""
+}
+```"
+PALANTIR : Wedbush raises TP,Aug. 05,Zonebourse,PALANTIR : Wedbush raises TP,bearish,-0.8,0.7,"The headline indicates a potential reduction in trading volume for PLTR, which is generally considered a negative indicator for stock performance. Raising TP suggests a decrease in value, signaling potential market concern.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a potential reduction in trading volume for PLTR, which is generally considered a negative indicator for stock performance. Raising TP suggests a decrease in value, signaling potential market concern.""
+}
+```"
+Goldman Sachs Adjusts Price Target on Palantir Technologies to $141 From $90,Aug. 05,MT,Goldman Sachs Adjusts Price Target on Palantir Technologies to $141 From $90,bullish,0.7,0.85,"The headline indicates a significant price increase for Palantir Technologies (PLTR) due to Goldman Sachs' revised price target. This suggests a positive outlook for the stock, potentially driving up its value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.85,
+  ""rationale"": ""The headline indicates a significant price increase for Palantir Technologies (PLTR) due to Goldman Sachs' revised price target. This suggests a positive outlook for the stock, potentially driving up its value.""
+}
+```"
+"Wedbush Raises Price Target on Palantir Technologies to $200 From $160, Keeps Outperform Rating",Aug. 05,MT,"Wedbush Raises Price Target on Palantir Technologies to $200 From $160, Keeps Outperform Rating",bullish,0.6,0.8,"The headline indicates a significant price increase for Palantir Technologies (PLTR) – a substantial rise from the previous target. This suggests strong investor optimism about the stock's future, indicating a positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price increase for Palantir Technologies (PLTR) – a substantial rise from the previous target. This suggests strong investor optimism about the stock's future, indicating a positive outlook.""
+}
+```"
+"RBC Raises Price Target on Palantir Technologies to $45 From $40, Keeps Underperform Rating",Aug. 05,MT,"RBC Raises Price Target on Palantir Technologies to $45 From $40, Keeps Underperform Rating",bullish,0.6,0.8,"The headline indicates a significant price increase target ($45 from $40) for Palantir Technologies.  This suggests a positive outlook for the stock, potentially driven by increased investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price increase target ($45 from $40) for Palantir Technologies.  This suggests a positive outlook for the stock, potentially driven by increased investor confidence.""
+}
+```"
+"Deutsche Bank Upgrades Palantir Technologies to Hold From Sell, Adjusts Price Target to $160 From $80",Aug. 05,MT,"Deutsche Bank Upgrades Palantir Technologies to Hold From Sell, Adjusts Price Target to $160 From $80",bullish,0.8,0.9,"The headline indicates a positive upgrade by Deutsche Bank, suggesting a stronger outlook for Palantir Technologies (PLTR). This often correlates with bullish sentiment regarding a stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive upgrade by Deutsche Bank, suggesting a stronger outlook for Palantir Technologies (PLTR). This often correlates with bullish sentiment regarding a stock.""
+}
+```"
+Morgan Stanley Raises Price Target on Palantir Technologies to $155 From $98,Aug. 05,MT,Morgan Stanley Raises Price Target on Palantir Technologies to $155 From $98,bullish,0.8,0.9,"Morgan Stanley's price increase suggests positive expectations for Palantir's future earnings and valuation, indicating a favorable outlook for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""Morgan Stanley's price increase suggests positive expectations for Palantir's future earnings and valuation, indicating a favorable outlook for the stock.""
+}
+```"
+Palantir shares jump as soaring AI demand powers forecast upgrade,Aug. 05,RE,Palantir shares jump as soaring AI demand powers forecast upgrade,bullish,0.7,0.9,"The headline explicitly mentions ‘soaring AI demand’ which is a significant driver of growth for Palantir’s shares, indicating a positive outlook for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions ‘soaring AI demand’ which is a significant driver of growth for Palantir’s shares, indicating a positive outlook for the stock.""
+}
+```"
+"Loop Capital Adjusts Price Target on Palantir Technologies to $180 From $178, Maintains Buy Rating",Aug. 05,MT,"Loop Capital Adjusts Price Target on Palantir Technologies to $180 From $178, Maintains Buy Rating",bullish,0.7,0.9,"The headline indicates a price increase (from $178 to $180) for Palantir Technologies, suggesting a positive outlook for the stock's future performance. The 'maintain buy rating' further reinforces this positive signal.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase (from $178 to $180) for Palantir Technologies, suggesting a positive outlook for the stock's future performance. The 'maintain buy rating' further reinforces this positive signal.""
+}
+```"
+"Mizuho Adjusts Price Target on Palantir Technologies to $165 From $135, Maintains Neutral Rating",Aug. 05,MT,"Mizuho Adjusts Price Target on Palantir Technologies to $165 From $135, Maintains Neutral Rating",bullish,0.7,0.8,"The headline indicates a price increase (from $135 to $165) for Palantir Technologies, suggesting positive expectations for the stock. While there’s a price target adjustment, the overall statement leans toward optimistic prospects, making it a bullish signal.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase (from $135 to $165) for Palantir Technologies, suggesting positive expectations for the stock. While there’s a price target adjustment, the overall statement leans toward optimistic prospects, making it a bullish signal.""
+}
+```"
+"DA Davidson Adjusts Price Target on Palantir Technologies to $170 From $115, Maintains Neutral Rating",Aug. 05,MT,"DA Davidson Adjusts Price Target on Palantir Technologies to $170 From $115, Maintains Neutral Rating",bullish,0.6,0.9,"The headline indicates a positive revision of the price target by Davidson, suggesting increased investor confidence in Palantir's future value. The mention of 'Maintain Neutral Rating' implies a cautious optimism, but the price adjustment itself indicates a favorable outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive revision of the price target by Davidson, suggesting increased investor confidence in Palantir's future value. The mention of 'Maintain Neutral Rating' implies a cautious optimism, but the price adjustment itself indicates a favorable outlook.""
+}
+```"
+"Cantor Fitzgerald Adjusts PT on Palantir Technologies to $155 From $110, Maintains Neutral Rating",Aug. 05,MT,"Cantor Fitzgerald Adjusts PT on Palantir Technologies to $155 From $110, Maintains Neutral Rating",neutral,0.2,0.9,"The headline describes a small adjustment to the stock price (from $110 to $155) without any significant positive or negative indicators. It simply reports a change, maintaining a neutral rating, suggesting a lack of strong sentiment.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline describes a small adjustment to the stock price (from $110 to $155) without any significant positive or negative indicators. It simply reports a change, maintaining a neutral rating, suggesting a lack of strong sentiment.""
+}
+```"
+"Baird Adjusts Price Target on Palantir Technologies to $170 From $100, Maintains Neutral Rating",Aug. 05,MT,"Baird Adjusts Price Target on Palantir Technologies to $170 From $100, Maintains Neutral Rating",bullish,0.6,0.8,"The headline indicates a significant price increase for Palantir Technologies (PLTR) from a $100 target to $170. This suggests strong positive expectations for the stock's future performance, leading to a bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price increase for Palantir Technologies (PLTR) from a $100 target to $170. This suggests strong positive expectations for the stock's future performance, leading to a bullish sentiment.""
+}
+```"
+"Morgan Stanley Adjusts PT on Palantir Technologies to $155 From $98, Maintains Equalweight Rating",Aug. 05,MT,"Morgan Stanley Adjusts PT on Palantir Technologies to $155 From $98, Maintains Equalweight Rating",bearish,-0.6,0.8,"The downgrade from $98 to $155 suggests a significant decline in the stock's potential, indicating concern about the company's future performance. This downgrade, combined with the 'Equalweight' rating, suggests a pessimistic outlook.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The downgrade from $98 to $155 suggests a significant decline in the stock's potential, indicating concern about the company's future performance. This downgrade, combined with the 'Equalweight' rating, suggests a pessimistic outlook.""
+}
+```"
+"Piper Sandler Adjusts PT on Palantir Technologies to $182 From $170, Maintains Overweight Rating",Aug. 05,MT,"Piper Sandler Adjusts PT on Palantir Technologies to $182 From $170, Maintains Overweight Rating",bullish,0.7,0.9,"The headline indicates a positive adjustment to Palantir's stock price, increasing its PT from $170 to $182. This suggests a bullish outlook for the stock based on a favorable valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive adjustment to Palantir's stock price, increasing its PT from $170 to $182. This suggests a bullish outlook for the stock based on a favorable valuation.""
+}
+```"
+Palantir shares jump as soaring AI demand powers forecast upgrade,Aug. 05,RE,Palantir shares jump as soaring AI demand powers forecast upgrade,bullish,0.7,0.9,"The headline indicates a significant increase in demand for Palantir's AI capabilities, which is a positive signal for the company's future valuation and growth prospects. This is generally viewed as bullish.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant increase in demand for Palantir's AI capabilities, which is a positive signal for the company's future valuation and growth prospects. This is generally viewed as bullish.""
+}
+```"
+"Analyst recommendations: Block, Dow, Coinbase, Palantir, Zoominfo Technologies…",Aug. 05,Zonebourse,"Analyst recommendations: Block, Dow, Coinbase, Palantir, Zoominfo Technologies…",neutral,0.1,0.9,"The headline discusses a range of companies, including PLTR, without explicitly expressing a positive or negative sentiment towards the stock. It's simply providing a list of investment recommendations.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses a range of companies, including PLTR, without explicitly expressing a positive or negative sentiment towards the stock. It's simply providing a list of investment recommendations.""
+}
+```"
+"Palantir Technologies Poised to Deliver Robust Q2 Results Driven by AI, Wedbush Says",Aug. 01,MT,"Palantir Technologies Poised to Deliver Robust Q2 Results Driven by AI, Wedbush Says",bullish,0.7,0.8,"The headline highlights ‘robust Q2 results’ and ‘AI’ – both indicators of strong performance and future growth for PLTR, suggesting a positive outlook for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights ‘robust Q2 results’ and ‘AI’ – both indicators of strong performance and future growth for PLTR, suggesting a positive outlook for the stock.""
+}
+```"
+"Citigroup Adjusts Price Target on Palantir Technologies to $158 From $115, Maintains Neutral Rating",Jul. 30,MT,"Citigroup Adjusts Price Target on Palantir Technologies to $158 From $115, Maintains Neutral Rating",bullish,0.5,0.9,"The headline indicates a positive outlook for Palantir's stock price. The adjustment of the price target to $158 suggests increased optimism, indicating a favorable future performance for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.5,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive outlook for Palantir's stock price. The adjustment of the price target to $158 suggests increased optimism, indicating a favorable future performance for the stock.""
+}
+```"
+"Loop Capital Adjusts Palantir Technologies Price Target to $178 From $155, Maintains Buy Rating",Jul. 30,MT,"Loop Capital Adjusts Palantir Technologies Price Target to $178 From $155, Maintains Buy Rating",bullish,0.6,0.8,"The headline indicates a price target increase for Palantir Technologies, suggesting a positive outlook for the stock's future performance. The phrase 'Adjusts Price Target' clearly signals optimism.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price target increase for Palantir Technologies, suggesting a positive outlook for the stock's future performance. The phrase 'Adjusts Price Target' clearly signals optimism.""
+}
+```"
+Piper Sandler Initiates Palantir Technologies at Overweight With $170 Price Target,Jul. 25,MT,Piper Sandler Initiates Palantir Technologies at Overweight With $170 Price Target,bullish,0.7,0.9,"The headline explicitly states 'Overweight' – a positive rating indicating strong expectation of future performance. The price target ($170) further reinforces this optimistic outlook, suggesting a significant potential for growth for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states 'Overweight' – a positive rating indicating strong expectation of future performance. The price target ($170) further reinforces this optimistic outlook, suggesting a significant potential for growth for the stock.""
+}
+```"
+Palantir: stock outperforms on analyst upgrade,Jul. 16,Zonebourse,Palantir: stock outperforms on analyst upgrade,bullish,0.7,0.9,"The headline indicates a positive outlook for Palantir's stock due to an analyst upgrade. This suggests increased investor confidence and potential for higher price movement, indicating a bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive outlook for Palantir's stock due to an analyst upgrade. This suggests increased investor confidence and potential for higher price movement, indicating a bullish sentiment.""
+}
+```"
+"Mizuho Upgrades Palantir Technologies to Neutral From Underperform, Adjusts PT to $135 From $116",Jul. 16,MT,"Mizuho Upgrades Palantir Technologies to Neutral From Underperform, Adjusts PT to $135 From $116",neutral,0.2,0.9,"The headline reports a neutral assessment of Palantir Technologies' future performance by Mizuho. It mentions an upgrade and a revised price target, but doesn’t indicate a strong positive or negative trend. It’s a factual update without significant emotional weight.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline reports a neutral assessment of Palantir Technologies' future performance by Mizuho. It mentions an upgrade and a revised price target, but doesn’t indicate a strong positive or negative trend. It’s a factual update without significant emotional weight.""
+}
+```"
+"Palantir May Become Next Oracle in Coming Years, Wedbush Says",Jul. 10,MT,"Palantir May Become Next Oracle in Coming Years, Wedbush Says",bullish,0.6,0.8,"The headline suggests a significant potential for Palantir to surpass Oracle, which is a positive outlook for PLTR's stock price.  'May become' implies growth and increased market share, indicating a favorable future for the company.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline suggests a significant potential for Palantir to surpass Oracle, which is a positive outlook for PLTR's stock price.  'May become' implies growth and increased market share, indicating a favorable future for the company.""
+}
+```"
+"Wedbush Adjusts Price Target on Palantir Technologies to $160 From $140, Maintains Outperform Rating",Jul. 10,MT,"Wedbush Adjusts Price Target on Palantir Technologies to $160 From $140, Maintains Outperform Rating",bullish,0.6,0.8,"The headline indicates a price increase (from $140 to $160) for Palantir Technologies, suggesting a positive outlook for the stock. The 'maintain' of an outperform rating further reinforces this bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase (from $140 to $160) for Palantir Technologies, suggesting a positive outlook for the stock. The 'maintain' of an outperform rating further reinforces this bullish sentiment.""
+}
+```"
+"Analyst recommendations: Netflix, Pinterest, Palantir, Blackrock, Constellation Brands…",Jul. 04,Zonebourse,"Analyst recommendations: Netflix, Pinterest, Palantir, Blackrock, Constellation Brands…",neutral,0.1,0.9,"The headline discusses several major companies, including Netflix, Pinterest, Palantir, Blackrock, and Constellation Brands. There’s no specific indication of a positive or negative outlook for PLTR (Palantir) itself, simply a general overview of investment recommendations.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses several major companies, including Netflix, Pinterest, Palantir, Blackrock, and Constellation Brands. There’s no specific indication of a positive or negative outlook for PLTR (Palantir) itself, simply a general overview of investment recommendations.""
+}
+```"
+"Wall St climbs as oil prices ease, Fed meeting in focus",Jun. 16,RE,"Wall St climbs as oil prices ease, Fed meeting in focus",bullish,0.7,0.8,"The headline highlights a positive shift in oil prices, a key factor in the market's overall movement. The mention of a Fed meeting adds significant weight to the positive outlook, suggesting potential bullish activity for PLTR.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights a positive shift in oil prices, a key factor in the market's overall movement. The mention of a Fed meeting adds significant weight to the positive outlook, suggesting potential bullish activity for PLTR.""
+}
+```"
+Loop Capital Adjusts Price Target on Palantir Technologies to $155 From $130,Jun. 12,MT,Loop Capital Adjusts Price Target on Palantir Technologies to $155 From $130,bearish,-0.6,0.8,"The headline suggests a revised price target lower than previously anticipated, indicating a potential decline in the stock's value.  It’s a cautious adjustment, suggesting potential concerns about the future of the company.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline suggests a revised price target lower than previously anticipated, indicating a potential decline in the stock's value.  It’s a cautious adjustment, suggesting potential concerns about the future of the company.""
+}
+```"
+Mizuho Adjusts Price Target on Palantir Technologies to $116 From $94,Jun. 11,MT,Mizuho Adjusts Price Target on Palantir Technologies to $116 From $94,bullish,0.6,0.8,"The headline indicates a price increase (from $94 to $116) for Palantir Technologies, suggesting a positive outlook for the stock's future performance.  This represents a substantial increase, indicating strong investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase (from $94 to $116) for Palantir Technologies, suggesting a positive outlook for the stock's future performance.  This represents a substantial increase, indicating strong investor confidence.""
+}
+```"
+"Analyst recommendations: Arista Networks, Etsy, Micron Technology, Docusign, Gitlab…",Jun. 11,Zonebourse,"Analyst recommendations: Arista Networks, Etsy, Micron Technology, Docusign, Gitlab…",neutral,0.1,0.9,"The headline discusses several technology companies, suggesting potential market trends but without a specific positive or negative outlook for PLTR. There’s no indication of bullish or bearish implications.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses several technology companies, suggesting potential market trends but without a specific positive or negative outlook for PLTR. There’s no indication of bullish or bearish implications.""
+}
+```"
+"Palantir's 'Unique' AI Strategy a Growth Catalyst as Company Poised to Win More US Government Contracts, Wedbush Says",May. 23,MT,"Palantir's 'Unique' AI Strategy a Growth Catalyst as Company Poised to Win More US Government Contracts, Wedbush Says",bullish,0.7,0.8,"The headline highlights Palantir's 'Unique' AI strategy as a key driver of growth, specifically referencing a significant increase in US government contracts. This suggests strong positive future prospects for the stock, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights Palantir's 'Unique' AI strategy as a key driver of growth, specifically referencing a significant increase in US government contracts. This suggests strong positive future prospects for the stock, indicating a bullish outlook.""
+}
+```"
+"Daiwa Securities Adjusts Price Target on Palantir Technologies to $118 From $90, Maintains Neutral Rating",May. 13,MT,"Daiwa Securities Adjusts Price Target on Palantir Technologies to $118 From $90, Maintains Neutral Rating",bullish,0.4,0.9,"The headline indicates a price increase (from $90 to $118) for Palantir Technologies (PLTR), suggesting positive expectations for its future performance.  The adjustment suggests a favorable outlook for the stock, leading to a bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.4,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase (from $90 to $118) for Palantir Technologies (PLTR), suggesting positive expectations for its future performance.  The adjustment suggests a favorable outlook for the stock, leading to a bullish sentiment.""
+}
+```"
+"Analyst recommendations: Caterpillar, Chevron, Reddit, Tesla, United Airlines…",May. 13,Zonebourse,"Analyst recommendations: Caterpillar, Chevron, Reddit, Tesla, United Airlines…",neutral,0.1,0.8,"The headline discusses several major companies – Caterpillar, Chevron, Reddit, Tesla, and United Airlines – without explicitly focusing on the performance of PLTR (Tesla). It’s a general market overview, not a specific investment recommendation or forecast.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses several major companies – Caterpillar, Chevron, Reddit, Tesla, and United Airlines – without explicitly focusing on the performance of PLTR (Tesla). It’s a general market overview, not a specific investment recommendation or forecast.""
+}
+```"
+"HSBC Adjusts Price Target on Palantir Technologies to $92 From $96, Maintains Hold Rating",May. 07,MT,"HSBC Adjusts Price Target on Palantir Technologies to $92 From $96, Maintains Hold Rating",bearish,-0.5,0.8,"The headline indicates a downgrade of the investment rating ('Maintain Hold Rating') for Palantir Technologies.  Adjusting the price target downwards suggests a lower expectation for future performance, indicating a negative outlook for the stock.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a downgrade of the investment rating ('Maintain Hold Rating') for Palantir Technologies.  Adjusting the price target downwards suggests a lower expectation for future performance, indicating a negative outlook for the stock.""
+}
+```"
+"Palantir Technologies Q1 Strength Driven by US Commercial, Government Growth, Morgan Stanley Says",May. 06,MT,"Palantir Technologies Q1 Strength Driven by US Commercial, Government Growth, Morgan Stanley Says",bullish,0.7,0.9,"The headline highlights strong US commercial and government growth, which is generally positive for Palantir's business model. Morgan Stanley’s positive outlook further strengthens the bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights strong US commercial and government growth, which is generally positive for Palantir's business model. Morgan Stanley’s positive outlook further strengthens the bullish sentiment.""
+}
+```"
+Palantir shares dive after quarterly results fail to impress investors,May. 06,RE,Palantir shares dive after quarterly results fail to impress investors,bearish,-0.8,0.7,"The headline explicitly mentions ‘dive’ and ‘fail to impress investors’, indicating a significant negative outlook for the PLTR stock.  The results are cited as a primary cause of concern, suggesting a downward trend in the stock’s value.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline explicitly mentions ‘dive’ and ‘fail to impress investors’, indicating a significant negative outlook for the PLTR stock.  The results are cited as a primary cause of concern, suggesting a downward trend in the stock’s value.""
+}
+```"
+"UBS Adjusts Price Target on Palantir Technologies to $110 From $105, Neutral Rating Maintained",May. 06,MT,"UBS Adjusts Price Target on Palantir Technologies to $110 From $105, Neutral Rating Maintained",bearish,-0.5,0.8,"The headline indicates a price cut for Palantir Technologies, suggesting potential losses and a negative outlook for the stock. The 'Neutral Rating' is a cautious acknowledgement of the impact, rather than a strong negative signal.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price cut for Palantir Technologies, suggesting potential losses and a negative outlook for the stock. The 'Neutral Rating' is a cautious acknowledgement of the impact, rather than a strong negative signal.""
+}
+```"
+"Deutsche Bank Adjusts Palantir Technologies Price Target to $80 From $50, Maintains Sell Rating",May. 06,MT,"Deutsche Bank Adjusts Palantir Technologies Price Target to $80 From $50, Maintains Sell Rating",bearish,-0.8,0.7,"The headline indicates a downgrade of Palantir's stock price by Deutsche Bank. This suggests a potential decline in the stock’s value, indicating a negative outlook for its future performance.  The ‘sell rating’ adds to the bearish sentiment.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downgrade of Palantir's stock price by Deutsche Bank. This suggests a potential decline in the stock’s value, indicating a negative outlook for its future performance.  The ‘sell rating’ adds to the bearish sentiment.""
+}
+```"
+Palantir shares dive after quarterly results fail to impress investors,May. 06,RE,Palantir shares dive after quarterly results fail to impress investors,bearish,-0.8,0.7,"The headline explicitly states a 'dive' and 'failed to impress investors,' indicating a significant negative outlook for PLTR's stock price.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline explicitly states a 'dive' and 'failed to impress investors,' indicating a significant negative outlook for PLTR's stock price.""
+}
+```"
+"Morgan Stanley Adjusts Price Target on Palantir Technologies to $98 From $90, Maintains Equalweight Rating",May. 06,MT,"Morgan Stanley Adjusts Price Target on Palantir Technologies to $98 From $90, Maintains Equalweight Rating",bullish,0.7,0.9,"The adjusted price target of $98 from $90 indicates a positive outlook for Palantir Technologies, suggesting increased investor confidence and potentially a rise in the stock price. The 'Equalweight' rating implies a favorable assessment, further supporting the bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The adjusted price target of $98 from $90 indicates a positive outlook for Palantir Technologies, suggesting increased investor confidence and potentially a rise in the stock price. The 'Equalweight' rating implies a favorable assessment, further supporting the bullish sentiment.""
+}
+```"
+"Mizuho Adjusts Price Target on Palantir Technologies to $94 From $80, Maintains Underperform Rating",May. 06,MT,"Mizuho Adjusts Price Target on Palantir Technologies to $94 From $80, Maintains Underperform Rating",bullish,0.7,0.8,"The headline indicates a price increase (from $80 to $94) for Palantir Technologies (PLTR). This suggests a positive outlook for the stock, indicating strong investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase (from $80 to $94) for Palantir Technologies (PLTR). This suggests a positive outlook for the stock, indicating strong investor confidence.""
+}
+```"
+"Loop Capital Adjusts Price Target on Palantir Technologies to $130 From $125, Maintains Buy Rating",May. 06,MT,"Loop Capital Adjusts Price Target on Palantir Technologies to $130 From $125, Maintains Buy Rating",bullish,0.6,0.8,"The headline indicates a price increase (from $125 to $130) for Palantir Technologies (PLTR), suggesting a positive outlook for the stock's future performance.  The 'Maintain Buy Rating' further reinforces this optimistic outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase (from $125 to $130) for Palantir Technologies (PLTR), suggesting a positive outlook for the stock's future performance.  The 'Maintain Buy Rating' further reinforces this optimistic outlook.""
+}
+```"
+"Deutsche Bank Adjusts Price Target on Palantir Technologies to $80 From $50, Maintains Sell Rating",May. 06,MT,"Deutsche Bank Adjusts Price Target on Palantir Technologies to $80 From $50, Maintains Sell Rating",bullish,0.7,0.8,"The headline indicates a significant increase in the price target for Palantir Technologies (PLTR) – a substantial increase from $50 to $80 – signaling strong optimism for the stock’s future performance.  The maintainance of a sell rating suggests the analyst believes the increase is justified, pointing to a positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant increase in the price target for Palantir Technologies (PLTR) – a substantial increase from $50 to $80 – signaling strong optimism for the stock’s future performance.  The maintainance of a sell rating suggests the analyst believes the increase is justified, pointing to a positive outlook.""
+}
+```"
+"Wedbush Adjusts Price Target on Palantir Technologies to $140 From $120, Maintains Outperform Rating",May. 06,MT,"Wedbush Adjusts Price Target on Palantir Technologies to $140 From $120, Maintains Outperform Rating",bearish,-0.8,0.7,"The headline indicates a downward revision of the price target, suggesting the market may view Palantir's future performance negatively.  The 'Maintain Outperform Rating' implies a reduced expectation of future growth, which is a signal of potential losses.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downward revision of the price target, suggesting the market may view Palantir's future performance negatively.  The 'Maintain Outperform Rating' implies a reduced expectation of future growth, which is a signal of potential losses.""
+}
+```"
+"Cantor Fitzgerald Adjusts Price Target on Palantir Technologies to $110 From $98, Maintains Neutral Rating",May. 06,MT,"Cantor Fitzgerald Adjusts Price Target on Palantir Technologies to $110 From $98, Maintains Neutral Rating",neutral,0.1,0.9,"The headline reports a price target adjustment by a financial analyst, which is a standard market activity. It doesn't indicate a strong bullish or bearish trend for the stock, hence a neutral sentiment.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline reports a price target adjustment by a financial analyst, which is a standard market activity. It doesn't indicate a strong bullish or bearish trend for the stock, hence a neutral sentiment.""
+}
+```"
+"DA Davidson Adjusts Price Target on Palantir Technologies to $115 From $105, Maintains Neutral Rating",May. 06,MT,"DA Davidson Adjusts Price Target on Palantir Technologies to $115 From $105, Maintains Neutral Rating",bullish,0.6,0.8,"The headline explicitly states a price target increase by DA Davidson, indicating a positive outlook for Palantir Technologies. The ‘neutral’ rating suggests a cautious but generally positive assessment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline explicitly states a price target increase by DA Davidson, indicating a positive outlook for Palantir Technologies. The ‘neutral’ rating suggests a cautious but generally positive assessment.""
+}
+```"
+"Goldman Sachs Adjusts Price Target on Palantir Technologies to $90 From $80, Maintains Neutral Rating",May. 06,MT,"Goldman Sachs Adjusts Price Target on Palantir Technologies to $90 From $80, Maintains Neutral Rating",bullish,0.6,0.8,The headline indicates a positive adjustment to the price target – a $10 increase – suggesting increased optimism regarding Palantir's future performance. The neutral rating reinforces this positive outlook.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a positive adjustment to the price target – a $10 increase – suggesting increased optimism regarding Palantir's future performance. The neutral rating reinforces this positive outlook.""
+}
+```"
+"Analyst recommendations: Block, Chevron, Fortinet, Skechers, Palantir…",May. 06,Zonebourse,"Analyst recommendations: Block, Chevron, Fortinet, Skechers, Palantir…",neutral,0.1,0.9,"The headline discusses analyst recommendations for several companies, including Palantir, but doesn’t indicate a strong positive or negative sentiment specifically regarding PLTR's stock price. It’s a general market update.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses analyst recommendations for several companies, including Palantir, but doesn’t indicate a strong positive or negative sentiment specifically regarding PLTR's stock price. It’s a general market update.""
+}
+```"
+"Morgan Stanley Adjusts Price Target on Palantir Technologies to $90 From $95, Maintains Equalweight Rating",Apr. 16,MT,"Morgan Stanley Adjusts Price Target on Palantir Technologies to $90 From $95, Maintains Equalweight Rating",bearish,-0.5,0.8,"The downgrade to $90 from $95 indicates a significant decrease in the stock's expected future value, suggesting a pessimistic outlook for Palantir Technologies' performance.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.8,
+  ""rationale"": ""The downgrade to $90 from $95 indicates a significant decrease in the stock's expected future value, suggesting a pessimistic outlook for Palantir Technologies' performance.""
+}
+```"
+"Palantir's NATO Deal Represents Additional Tailwind as AI Expands in US, Europe, Wedbush Says",Apr. 14,MT,"Palantir's NATO Deal Represents Additional Tailwind as AI Expands in US, Europe, Wedbush Says",bullish,0.6,0.8,"The phrase 'tailwind' and the mention of AI expansion in key markets (US, Europe) strongly suggest positive growth potential for PLTR, indicating increased demand and opportunities for the company.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The phrase 'tailwind' and the mention of AI expansion in key markets (US, Europe) strongly suggest positive growth potential for PLTR, indicating increased demand and opportunities for the company.""
+}
+```"
+Daiwa Initiates Palantir Technologies at Neutral With $90 Price Target,Apr. 01,MT,Daiwa Initiates Palantir Technologies at Neutral With $90 Price Target,neutral,0.1,0.9,"The headline describes a potential investment by Daiwa, mentioning a $90 price target, but it’s a factual statement about a potential investment without expressing a strongly positive or negative outlook for PLTR's stock price. It’s a neutral update.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline describes a potential investment by Daiwa, mentioning a $90 price target, but it’s a factual statement about a potential investment without expressing a strongly positive or negative outlook for PLTR's stock price. It’s a neutral update.""
+}
+```"
+"Loop Capital Adjusts Palantir Technologies Price Target to $125 From $141, Maintains Buy Rating",Mar. 13,MT,"Loop Capital Adjusts Palantir Technologies Price Target to $125 From $141, Maintains Buy Rating",bearish,-0.6,0.8,"The headline indicates a significant price cut, suggesting potential losses for PLTR. The adjustment to a lower target price from a higher target indicates a negative outlook and a potential downward trajectory for the stock.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price cut, suggesting potential losses for PLTR. The adjustment to a lower target price from a higher target indicates a negative outlook and a potential downward trajectory for the stock.""
+}
+```"
+"Analyst recommendations: Applovin, Palantir, T-Mobile US, Constellation Brands, Viatris…",Mar. 05,Zonebourse,"Analyst recommendations: Applovin, Palantir, T-Mobile US, Constellation Brands, Viatris…",neutral,0.1,0.9,"The headline discusses several major corporations – analysts’ recommendations, app developers, and pharmaceutical companies – with no explicit positive or negative signals towards PLTR. It's a broad market overview.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses several major corporations – analysts’ recommendations, app developers, and pharmaceutical companies – with no explicit positive or negative signals towards PLTR. It's a broad market overview.""
+}
+```"
+William Blair Upgrades Palantir Technologies to Market Perform From Underperform,Mar. 05,MT,William Blair Upgrades Palantir Technologies to Market Perform From Underperform,bullish,0.8,0.9,"The headline indicates a significant positive assessment by William Blair, suggesting increased investor confidence and a potential price increase for Palantir Technologies (PLTR). This is a strong signal of bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant positive assessment by William Blair, suggesting increased investor confidence and a potential price increase for Palantir Technologies (PLTR). This is a strong signal of bullish sentiment.""
+}
+```"
+"Palantir Technologies to Benefit From Streamlined US Government Spending, Wedbush Says",Mar. 03,MT,"Palantir Technologies to Benefit From Streamlined US Government Spending, Wedbush Says",bullish,0.7,0.8,"The headline highlights a positive development – streamlined government spending – which is generally viewed favorably for Palantir Technologies. This suggests increased investment and revenue, implying strong future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights a positive development – streamlined government spending – which is generally viewed favorably for Palantir Technologies. This suggests increased investment and revenue, implying strong future performance.""
+}
+```"
+Loop Capital Initiates Palantir Technologies at Buy With $141 Price Target,Feb. 20,MT,Loop Capital Initiates Palantir Technologies at Buy With $141 Price Target,bullish,0.8,0.9,"The headline indicates a significant price target increase for Palantir Technologies (PLTR). This suggests a positive outlook for the stock's future performance, making it considered bullish.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price target increase for Palantir Technologies (PLTR). This suggests a positive outlook for the stock's future performance, making it considered bullish.""
+}
+```"
+Citigroup Adjusts Palantir Technologies' Price Target to $110 From $42,Feb. 05,MT,Citigroup Adjusts Palantir Technologies' Price Target to $110 From $42,bullish,0.7,0.9,"The headline indicates a positive revision of Palantir’s price target by Citigroup. This suggests increased investor confidence and a higher potential for the stock's value to rise, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive revision of Palantir’s price target by Citigroup. This suggests increased investor confidence and a higher potential for the stock's value to rise, indicating a bullish outlook.""
+}
+```"
+"Analyst recommendations: Alphabet, Flex, Mattel, Snap, Palantir...",Feb. 05,Zonebourse,"Analyst recommendations: Alphabet, Flex, Mattel, Snap, Palantir...",neutral,0.2,0.8,"The headline discusses analyst recommendations for several companies, including Palantir. While there's a positive focus on Alphabet, Flex, Mattel, and Snap, the overall message lacks a strong, clearly bullish or bearish indicator about PLTR's stock performance. It’s a general market update, not a prediction or investment call.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses analyst recommendations for several companies, including Palantir. While there's a positive focus on Alphabet, Flex, Mattel, and Snap, the overall message lacks a strong, clearly bullish or bearish indicator about PLTR's stock performance. It’s a general market update, not a prediction or investment call.""
+}
+```"
+Top Midday Gainers,Feb. 04,MT,Top Midday Gainers,bullish,0.8,0.95,"The headline indicates a significant increase in the value of PLTR, suggesting a positive outlook for the stock. This is a key indicator of bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a significant increase in the value of PLTR, suggesting a positive outlook for the stock. This is a key indicator of bullish sentiment.""
+}
+```"
+"Palantir Technologies' Big Q4 Beat Boosted by AI Demand, US Commercial Segment, UBS Says",Feb. 04,MT,"Palantir Technologies' Big Q4 Beat Boosted by AI Demand, US Commercial Segment, UBS Says",bullish,0.7,0.8,"The headline explicitly mentions 'beat boost' and highlights 'AI demand,' which is a strong positive driver for Palantir's business. UBS’s positive outlook also suggests increased demand, indicating a favorable future for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline explicitly mentions 'beat boost' and highlights 'AI demand,' which is a strong positive driver for Palantir's business. UBS’s positive outlook also suggests increased demand, indicating a favorable future for the stock.""
+}
+```"
+"BofA Securities Raises Price Target on Palantir Technologies to $125 From $90, Keeps Buy Rating",Feb. 04,MT,"BofA Securities Raises Price Target on Palantir Technologies to $125 From $90, Keeps Buy Rating",bullish,0.7,0.9,"The headline indicates a significant price increase (from $90 to $125) for Palantir Technologies, suggesting strong positive expectations for the stock's future performance.  The raised price target signifies increased investor confidence and a potential upward trend in the stock's price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (from $90 to $125) for Palantir Technologies, suggesting strong positive expectations for the stock's future performance.  The raised price target signifies increased investor confidence and a potential upward trend in the stock's price.""
+}
+```"
+"UBS Adjusts Price Target on Palantir Technologies to $105 From $80, Maintains Neutral Rating",Feb. 04,MT,"UBS Adjusts Price Target on Palantir Technologies to $105 From $80, Maintains Neutral Rating",bearish,-0.5,0.8,"The headline indicates a revised price target downward, suggesting a loss of potential value for the stock. Maintaining a neutral rating despite a price adjustment signals a lack of significant concern regarding the stock's future performance.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a revised price target downward, suggesting a loss of potential value for the stock. Maintaining a neutral rating despite a price adjustment signals a lack of significant concern regarding the stock's future performance.""
+}
+```"
+"Palantir: impressive results, soaring share price",Feb. 04,Zonebourse,"Palantir: impressive results, soaring share price",bullish,0.8,0.9,"The headline explicitly mentions a 'soaring share price' which indicates strong positive performance for PLTR, suggesting bullish prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions a 'soaring share price' which indicates strong positive performance for PLTR, suggesting bullish prospects.""
+}
+```"
+Northland Capital Adjusts Price Target on Palantir Technologies to $80 From $38,Feb. 04,MT,Northland Capital Adjusts Price Target on Palantir Technologies to $80 From $38,bullish,0.6,0.9,"The adjustment of the price target suggests increased optimism regarding Palantir Technologies' future, indicating a positive outlook for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.9,
+  ""rationale"": ""The adjustment of the price target suggests increased optimism regarding Palantir Technologies' future, indicating a positive outlook for the stock.""
+}
+```"
+Goldman Sachs Adjusts Palantir Technologies Price Target to $80 From $41,Feb. 04,MT,Goldman Sachs Adjusts Palantir Technologies Price Target to $80 From $41,bullish,0.8,0.9,"The headline indicates a price increase for PLTR, which is a positive signal for the company's valuation and potential future earnings. Goldman Sachs is generally positive about Palantir, suggesting a favorable outlook for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase for PLTR, which is a positive signal for the company's valuation and potential future earnings. Goldman Sachs is generally positive about Palantir, suggesting a favorable outlook for the stock.""
+}
+```"
+"Wedbush Raises Price Target on Palantir Technologies to $120 From $90, Keeps Outperform Rating",Feb. 04,MT,"Wedbush Raises Price Target on Palantir Technologies to $120 From $90, Keeps Outperform Rating",bullish,0.6,0.8,"The headline indicates a significant price increase (increase in target price) for Palantir Technologies (PLTR), suggesting strong investor optimism and potential for upward movement in the stock's price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price increase (increase in target price) for Palantir Technologies (PLTR), suggesting strong investor optimism and potential for upward movement in the stock's price.""
+}
+```"
+Palantir shares jump on upbeat revenue outlook as businesses adopt AI,Feb. 04,RE,Palantir shares jump on upbeat revenue outlook as businesses adopt AI,bullish,0.7,0.9,The headline mentions a positive outlook on revenue ('upbeat revenue outlook') and highlights a significant factor driving the increase – AI adoption. These are strong indicators of bullish sentiment towards PLTR stock.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline mentions a positive outlook on revenue ('upbeat revenue outlook') and highlights a significant factor driving the increase – AI adoption. These are strong indicators of bullish sentiment towards PLTR stock.""
+}
+```"
+"DA Davidson Adjusts Price Target on Palantir Technologies to $105 From $47, Maintains Neutral Rating",Feb. 04,MT,"DA Davidson Adjusts Price Target on Palantir Technologies to $105 From $47, Maintains Neutral Rating",bullish,0.5,0.9,"The headline indicates a positive adjustment to the price target, suggesting increased investor confidence in Palantir's future earnings. The 'Neutral Rating' further reinforces the positive outlook, implying a modest increase in the stock's value, rather than a significant surge.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.5,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive adjustment to the price target, suggesting increased investor confidence in Palantir's future earnings. The 'Neutral Rating' further reinforces the positive outlook, implying a modest increase in the stock's value, rather than a significant surge.""
+}
+```"
+"Mizuho Adjusts Price Target on Palantir Technologies to $80 From $44, Maintains Underperform Rating",Feb. 04,MT,"Mizuho Adjusts Price Target on Palantir Technologies to $80 From $44, Maintains Underperform Rating",bullish,0.6,0.8,"The headline indicates a price increase for Palantir Technologies (PLTR), suggesting a positive outlook for its future stock performance. The adjustment to the price target suggests increased investor confidence and a potential rebound in the stock's value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase for Palantir Technologies (PLTR), suggesting a positive outlook for its future stock performance. The adjustment to the price target suggests increased investor confidence and a potential rebound in the stock's value.""
+}
+```"
+"RBC Adjusts Price Target on Palantir Technologies to $40 From $11, Maintains Underperform Rating",Feb. 04,MT,"RBC Adjusts Price Target on Palantir Technologies to $40 From $11, Maintains Underperform Rating",bearish,-0.6,0.7,"The headline indicates a significant price cut by RBC, suggesting a downward trend for Palantir Technologies' stock. The 'Maintain Underperform Rating' suggests a continued negative outlook despite the price adjustment.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a significant price cut by RBC, suggesting a downward trend for Palantir Technologies' stock. The 'Maintain Underperform Rating' suggests a continued negative outlook despite the price adjustment.""
+}
+```"
+"Deutsche Bank Adjusts Price Target on Palantir Technologies to $50 From $35, Maintains Sell Rating",Feb. 04,MT,"Deutsche Bank Adjusts Price Target on Palantir Technologies to $50 From $35, Maintains Sell Rating",bullish,0.7,0.9,"The headline indicates a positive revision of the price target, suggesting increased investor confidence and a higher potential for stock price appreciation.  The ‘maintain sell rating’ implies a willingness to increase the target, signaling a favorable outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive revision of the price target, suggesting increased investor confidence and a higher potential for stock price appreciation.  The ‘maintain sell rating’ implies a willingness to increase the target, signaling a favorable outlook.""
+}
+```"
+"Cantor Fitzgerald Adjusts Price Target on Palantir Technologies to $98 From $72, Maintains Neutral Rating",Feb. 04,MT,"Cantor Fitzgerald Adjusts Price Target on Palantir Technologies to $98 From $72, Maintains Neutral Rating",bullish,0.4,0.9,"The headline indicates a price increase (from $72 to $98) for Palantir Technologies, which is a positive signal suggesting strong future growth potential.  The 'Neutral Rating' adds to the positive outlook, implying no significant risk or downside.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.4,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase (from $72 to $98) for Palantir Technologies, which is a positive signal suggesting strong future growth potential.  The 'Neutral Rating' adds to the positive outlook, implying no significant risk or downside.""
+}
+```"
+"Jefferies Adjusts Price Target on Palantir Technologies to $60 From $28, Maintains Underperform Rating",Feb. 04,MT,"Jefferies Adjusts Price Target on Palantir Technologies to $60 From $28, Maintains Underperform Rating",bullish,0.6,0.8,"The headline indicates a positive revision of Palantir Technologies' price target by Jefferies. This suggests increased optimism about the stock's future valuation, implying a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a positive revision of Palantir Technologies' price target by Jefferies. This suggests increased optimism about the stock's future valuation, implying a bullish outlook.""
+}
+```"
+"Baird Adjusts Price Target on Palantir Technologies to $100 From $70, Maintains Neutral Rating",Feb. 04,MT,"Baird Adjusts Price Target on Palantir Technologies to $100 From $70, Maintains Neutral Rating",bullish,0.6,0.9,"The headline indicates a significant price increase target (from $70 to $100) for Palantir Technologies, suggesting strong optimism regarding its future performance. The neutral rating adds to the positive sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase target (from $70 to $100) for Palantir Technologies, suggesting strong optimism regarding its future performance. The neutral rating adds to the positive sentiment.""
+}
+```"
+"HSBC Adjusts Price Target on Palantir Technologies to $96 From $38, Maintains Hold Rating",Feb. 04,MT,"HSBC Adjusts Price Target on Palantir Technologies to $96 From $38, Maintains Hold Rating",bearish,-0.6,0.8,"The headline indicates a reduction in the price target, suggesting a potential downgrade. This could negatively impact the stock's value, indicating a bearish outlook.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a reduction in the price target, suggesting a potential downgrade. This could negatively impact the stock's value, indicating a bearish outlook.""
+}
+```"
+"Morgan Stanley Upgrades Palantir Technologies to Equalweight From Underweight, Adjusts Price Target to $95 From $60",Feb. 04,MT,"Morgan Stanley Upgrades Palantir Technologies to Equalweight From Underweight, Adjusts Price Target to $95 From $60",bullish,0.8,0.95,"Morgan Stanley's upgrade and price adjustment signals a positive outlook for Palantir Technologies, suggesting increased investor confidence and potentially higher stock value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.95,
+  ""rationale"": ""Morgan Stanley's upgrade and price adjustment signals a positive outlook for Palantir Technologies, suggesting increased investor confidence and potentially higher stock value.""
+}
+```"
+"Analysts recommendations: Shell, Deliveroo, Astrazeneca, Palantir, Tyson Foods...",Feb. 04,Zonebourse,"Analysts recommendations: Shell, Deliveroo, Astrazeneca, Palantir, Tyson Foods...",neutral,0.1,0.9,"The headline discusses several major companies – including Shell, Deliveroo, Astrazeneca, and Tyson Foods – without explicitly commenting on the performance of PLTR (Shell). It's a general market overview rather than a prediction of specific stock movement.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses several major companies – including Shell, Deliveroo, Astrazeneca, and Tyson Foods – without explicitly commenting on the performance of PLTR (Shell). It's a general market overview rather than a prediction of specific stock movement.""
+}
+```"
+"Analysts recommendations: Columbia, Mastercard, Microsoft, Palantir, Tyson Foods...",Feb. 04,Zonebourse,"Analysts recommendations: Columbia, Mastercard, Microsoft, Palantir, Tyson Foods...",neutral,0.2,0.9,"The headline discusses several large, established companies – Columbia, Mastercard, Microsoft, Palantir, and Tyson Foods – without explicitly predicting any specific movement for PLTR (Palantir).  It's a general market overview rather than a forecast.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses several large, established companies – Columbia, Mastercard, Microsoft, Palantir, and Tyson Foods – without explicitly predicting any specific movement for PLTR (Palantir).  It's a general market overview rather than a forecast.""
+}
+```"
+"Palantir Technologies Q4 Adjusted Earnings, Sales Rise; Sets Q1 Outlook; Shares Up Premarket",Feb. 04,MT,"Palantir Technologies Q4 Adjusted Earnings, Sales Rise; Sets Q1 Outlook; Shares Up Premarket",bullish,0.7,0.9,"The headline explicitly mentions 'Shares Up Premarket,' indicating a positive outlook for PLTR, suggesting increased investor confidence and potential price appreciation. The earnings rise and Q1 outlook also contribute to a bullish narrative.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions 'Shares Up Premarket,' indicating a positive outlook for PLTR, suggesting increased investor confidence and potential price appreciation. The earnings rise and Q1 outlook also contribute to a bullish narrative.""
+}
+```"
+"Wedbush Adjusts Palantir Technologies Price Target to $90 From $75, Maintains Outperform Rating",Jan. 23,MT,"Wedbush Adjusts Palantir Technologies Price Target to $90 From $75, Maintains Outperform Rating",bullish,0.6,0.8,"The headline indicates a significant price increase (from $75 to $90) for Palantir Technologies. This suggests strong optimism regarding the company’s future prospects, which is a positive signal for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price increase (from $75 to $90) for Palantir Technologies. This suggests strong optimism regarding the company’s future prospects, which is a positive signal for the stock.""
+}
+```"
+Cantor Fitzgerald Initiates Palantir Technologies at Neutral With $72 Price Target,Jan. 17,MT,Cantor Fitzgerald Initiates Palantir Technologies at Neutral With $72 Price Target,neutral,0.2,0.9,"The headline reports a price target of $72, indicating a neutral outlook. There's no clear indication of positive or negative sentiment towards the stock's future performance. It simply describes a valuation expectation.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline reports a price target of $72, indicating a neutral outlook. There's no clear indication of positive or negative sentiment towards the stock's future performance. It simply describes a valuation expectation.""
+}
+```"
+Deutsche Bank Adjusts Price Target on Palantir Technologies to $35 From $26,Jan. 08,MT,Deutsche Bank Adjusts Price Target on Palantir Technologies to $35 From $26,bullish,0.6,0.8,"The headline indicates a revised price target upwards for Palantir Technologies (PLTR). This suggests increased optimism regarding the stock's future performance, potentially driving up its price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a revised price target upwards for Palantir Technologies (PLTR). This suggests increased optimism regarding the stock's future performance, potentially driving up its price.""
+}
+```"
+"Analyst recommendations: Adobe, Merck, Take-Two, Palantir, Experian...",Jan. 08,Zonebourse,"Analyst recommendations: Adobe, Merck, Take-Two, Palantir, Experian...",neutral,0.1,0.9,The headline discusses industry analyst recommendations – a general market trend. There’s no explicit positive or negative signal for PLTR’s stock price.,"```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses industry analyst recommendations – a general market trend. There’s no explicit positive or negative signal for PLTR’s stock price.""
+}
+```"
+"Palantir Technologies Stock Offers Limited Upside After Breakout 2024, Morgan Stanley Says",Jan. 06,MT,"Palantir Technologies Stock Offers Limited Upside After Breakout 2024, Morgan Stanley Says",bearish,-0.5,0.8,"The headline indicates a potential pullback after a breakout, suggesting concerns about future growth prospects. Morgan Stanley's statement adds to this negative outlook, reinforcing a cautious view.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a potential pullback after a breakout, suggesting concerns about future growth prospects. Morgan Stanley's statement adds to this negative outlook, reinforcing a cautious view.""
+}
+```"

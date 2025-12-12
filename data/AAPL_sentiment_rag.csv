@@ -1,0 +1,1865 @@
+title,date_raw,source_code,body,sentiment,sentiment_score,sentiment_confidence,sentiment_rationale,sentiment_raw
+"Citigroup Adjusts Price Target on Apple to $330 From $315, Maintains Buy Rating",Dec. 09,MT,"Citigroup Adjusts Price Target on Apple to $330 From $315, Maintains Buy Rating",bullish,0.85,0.9,"The headline explicitly states a price target increase ($330 from $315) which is a positive signal for Apple's future stock performance.  It’s a significant uplift compared to the previous target, suggesting increased investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase ($330 from $315) which is a positive signal for Apple's future stock performance.  It’s a significant uplift compared to the previous target, suggesting increased investor confidence.""
+}
+```"
+"Apple AI Strategy Finally Taking Shape Amid Key Hire, Expected Exclusive Partnership With Google Gemini, Wedbush Says",Dec. 08,MT,"Apple AI Strategy Finally Taking Shape Amid Key Hire, Expected Exclusive Partnership With Google Gemini, Wedbush Says",bullish,0.85,0.95,"The mention of a 'new era' of growth, a key hire, and exclusive partnership with Google Gemini strongly suggests a positive outlook for Apple’s future performance, indicating a bullish trend.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.95,
+  ""rationale"": ""The mention of a 'new era' of growth, a key hire, and exclusive partnership with Google Gemini strongly suggests a positive outlook for Apple’s future performance, indicating a bullish trend.""
+}
+```"
+"Wedbush Ups PT on Apple to $350 From $320 on 'Solid' iPhone 17 Sales, Says AI Efforts to Accelerate; Maintains Outperform Rating",Dec. 08,MT,"Wedbush Ups PT on Apple to $350 From $320 on 'Solid' iPhone 17 Sales, Says AI Efforts to Accelerate; Maintains Outperform Rating",bullish,0.85,0.95,"The headline highlights strong iPhone sales and a focus on AI, which suggests increased investor confidence and positive future growth expectations for Apple's products and overall business. It implies a higher potential for stock price increases.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline highlights strong iPhone sales and a focus on AI, which suggests increased investor confidence and positive future growth expectations for Apple's products and overall business. It implies a higher potential for stock price increases.""
+}
+```"
+"MoffettNathanson Adjusts Price Target on Apple to $234 From $225, Maintains Neutral Rating",Dec. 03,MT,"MoffettNathanson Adjusts Price Target on Apple to $234 From $225, Maintains Neutral Rating",bullish,0.75,0.9,"The headline indicates a revised price target upwards (from $225 to $234), suggesting increased optimism about Apple’s future earnings and growth prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a revised price target upwards (from $225 to $234), suggesting increased optimism about Apple’s future earnings and growth prospects.""
+}
+```"
+"Loop Capital Adjusts Price Target on Apple to $325 From $315, Maintains Buy Rating",Dec. 02,MT,"Loop Capital Adjusts Price Target on Apple to $325 From $315, Maintains Buy Rating",bullish,0.85,0.9,"The headline indicates a positive adjustment to the price target, suggesting increased optimism regarding Apple's future earnings and growth potential. The upgrade from a buy rating to a buy rating signifies a stronger expectation of positive performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive adjustment to the price target, suggesting increased optimism regarding Apple's future earnings and growth potential. The upgrade from a buy rating to a buy rating signifies a stronger expectation of positive performance.""
+}
+```"
+APPLE INC : JP Morgan remains its Buy rating,Nov. 25,ZD,APPLE INC : JP Morgan remains its Buy rating,bullish,0.85,0.9,"The fact that JP Morgan maintains a Buy rating suggests a positive outlook for Apple's future prospects, indicating strong investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The fact that JP Morgan maintains a Buy rating suggests a positive outlook for Apple's future prospects, indicating strong investor confidence.""
+}
+```"
+"Nvidia Sell-Off a 'DeepSeek Moment,' AI Revolution Just Beginning, Wedbush Says",Nov. 21,MT,"Nvidia Sell-Off a 'DeepSeek Moment,' AI Revolution Just Beginning, Wedbush Says",bullish,0.85,0.9,"The headline explicitly discusses a ""DeepSeek Moment"" and an ""AI Revolution Just Beginning,"" which suggests significant positive investment and growth expectations for Apple's AI strategy, indicating bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly discusses a \""DeepSeek Moment\"" and an \""AI Revolution Just Beginning,\"" which suggests significant positive investment and growth expectations for Apple's AI strategy, indicating bullish sentiment.""
+}
+```"
+APPLE INC : Jefferies is Neutral,Nov. 17,ZD,APPLE INC : Jefferies is Neutral,bullish,0.7,0.9,"The headline indicates Jefferies' neutral stance, which suggests a lack of positive outlook for Apple's stock performance.  It’s a cautious observation that could be interpreted as favorable for AAPL's future.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates Jefferies' neutral stance, which suggests a lack of positive outlook for Apple's stock performance.  It’s a cautious observation that could be interpreted as favorable for AAPL's future.""
+}
+```"
+Sector Update: Tech Stocks Mixed Friday,Nov. 14,MT,Sector Update: Tech Stocks Mixed Friday,bullish,0.75,0.9,"The headline mentions 'Mixed' results for Tech Stocks, implying a potential positive outlook for Apple. It doesn't explicitly state a negative outlook, but the mixed sentiment suggests increased investor interest and confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline mentions 'Mixed' results for Tech Stocks, implying a potential positive outlook for Apple. It doesn't explicitly state a negative outlook, but the mixed sentiment suggests increased investor interest and confidence.""
+}
+```"
+Apple Delays Release of Next Year's iPhone Air,Nov. 10,MT,Apple Delays Release of Next Year's iPhone Air,bullish,0.85,0.9,"The headline indicates a delay in the iPhone Air release, which is generally viewed positively for Apple's future product pipeline and revenue projections. It suggests potential missed expectations and investor concerns, thus supporting a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a delay in the iPhone Air release, which is generally viewed positively for Apple's future product pipeline and revenue projections. It suggests potential missed expectations and investor concerns, thus supporting a bullish outlook.""
+}
+```"
+APPLE INC : Jefferies remains Neutral,Nov. 10,ZD,APPLE INC : Jefferies remains Neutral,bullish,0.85,0.9,"The headline indicates Jefferies' neutral assessment, suggesting a lack of positive outlook for Apple's stock performance.  This signals a potential for a favorable market response.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates Jefferies' neutral assessment, suggesting a lack of positive outlook for Apple's stock performance.  This signals a potential for a favorable market response.""
+}
+```"
+America's markets lose their nerve,Nov. 07,Zonebourse,America's markets lose their nerve,bullish,0.7,0.8,"The headline expresses concern about market stability, suggesting a negative outlook for Apple's stock. The context of market losses and economic worries indicates a bearish sentiment, despite a potential for a short-term recovery.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline expresses concern about market stability, suggesting a negative outlook for Apple's stock. The context of market losses and economic worries indicates a bearish sentiment, despite a potential for a short-term recovery.""
+}
+```"
+"DBS Bank Adjusts Price Target on Apple to $273.30 From $210, Maintains Hold Rating",Nov. 06,MT,"DBS Bank Adjusts Price Target on Apple to $273.30 From $210, Maintains Hold Rating",bullish,0.85,0.9,The headline indicates a positive price adjustment – a reduction in the target price. This suggests increased optimism regarding Apple's future earnings and stock value.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive price adjustment – a reduction in the target price. This suggests increased optimism regarding Apple's future earnings and stock value.""
+}
+```"
+"Analyst recommendations: Fiserv, Alphabet, AMD, Dupont De Nemours, Palantir…",Nov. 05,Zonebourse,"Analyst recommendations: Fiserv, Alphabet, AMD, Dupont De Nemours, Palantir…",bullish,0.75,0.8,"The headline mentions 'Apple' but doesn't provide specific positive or negative implications for its future performance. It's a general overview of analyst recommendations, suggesting potential improvements or increased investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline mentions 'Apple' but doesn't provide specific positive or negative implications for its future performance. It's a general overview of analyst recommendations, suggesting potential improvements or increased investor confidence.""
+}
+```"
+"CICC Adjusts Price Target on Apple to $310 From $260, Maintains Outperform Rating",Nov. 04,MT,"CICC Adjusts Price Target on Apple to $310 From $260, Maintains Outperform Rating",bullish,0.95,0.9,"The headline indicates a significant price increase (from $260 to $310) for Apple, suggesting strong optimism about the company's future earnings and growth prospects. This aligns with bullish sentiment regarding Apple's prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (from $260 to $310) for Apple, suggesting strong optimism about the company's future earnings and growth prospects. This aligns with bullish sentiment regarding Apple's prospects.""
+}
+```"
+"New Street Adjusts Price Target on Apple to $270 From $220, Maintains Neutral Rating",Nov. 03,MT,"New Street Adjusts Price Target on Apple to $270 From $220, Maintains Neutral Rating",bullish,0.85,0.9,The headline indicates a price increase (from $220 to $270) which suggests positive expectations for Apple's future earnings and valuation.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase (from $220 to $270) which suggests positive expectations for Apple's future earnings and valuation.""
+}
+```"
+APPLE INC : JP Morgan reaffirms its Buy rating,Nov. 03,ZD,APPLE INC : JP Morgan reaffirms its Buy rating,bullish,0.92,0.95,"The headline explicitly states a reaffirmation of a Buy rating, indicating a positive outlook for Apple's stock performance. This suggests increased confidence in the company's future prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline explicitly states a reaffirmation of a Buy rating, indicating a positive outlook for Apple's stock performance. This suggests increased confidence in the company's future prospects.""
+}
+```"
+"Apple to See Multiple Tailwinds Into 2026 on Impressive Gross Margin Upside, BofA Says",Oct. 31,MT,"Apple to See Multiple Tailwinds Into 2026 on Impressive Gross Margin Upside, BofA Says",bullish,0.85,0.9,"The headline highlights significant revenue growth (multiple tailwinds), strong gross margins, and a positive outlook for the future. This all points to strong future performance, suggesting a bullish outlook for AAPL.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights significant revenue growth (multiple tailwinds), strong gross margins, and a positive outlook for the future. This all points to strong future performance, suggesting a bullish outlook for AAPL.""
+}
+```"
+"HSBC Adjusts Price Target on Apple to $250 From $220, Maintains Hold Rating",Oct. 31,MT,"HSBC Adjusts Price Target on Apple to $250 From $220, Maintains Hold Rating",bullish,0.85,0.9,"The headline indicates a revised price target upward, suggesting positive expectations for Apple’s future performance. The adjustment from $220 to $250 is a significant increase, signaling strong optimism.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a revised price target upward, suggesting positive expectations for Apple’s future performance. The adjustment from $220 to $250 is a significant increase, signaling strong optimism.""
+}
+```"
+APPLE INC : UBS remains Neutral,Oct. 31,ZD,APPLE INC : UBS remains Neutral,bullish,0.75,0.9,"The headline indicates UBS's neutral outlook, suggesting a potential positive outlook for Apple's stock performance. While UBS remains neutral, the context implies a favorable situation for AAPL.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates UBS's neutral outlook, suggesting a potential positive outlook for Apple's stock performance. While UBS remains neutral, the context implies a favorable situation for AAPL.""
+}
+```"
+"Argus Adjusts Price Target on Apple to $325 From $280, Maintains Buy Rating",Oct. 31,MT,"Argus Adjusts Price Target on Apple to $325 From $280, Maintains Buy Rating",bullish,0.85,0.9,"The headline indicates a price increase (from $280 to $325) suggests a positive outlook for Apple's stock, aligning with bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase (from $280 to $325) suggests a positive outlook for Apple's stock, aligning with bullish sentiment.""
+}
+```"
+"Rosenblatt Securities Adjusts Apple Price Target to $250 From $241, Maintains Neutral Rating",Oct. 31,MT,"Rosenblatt Securities Adjusts Apple Price Target to $250 From $241, Maintains Neutral Rating",bullish,0.85,0.9,The headline explicitly states a price target increase ($250 from $241) suggests a positive outlook for Apple's future earnings and valuation.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase ($250 from $241) suggests a positive outlook for Apple's future earnings and valuation.""
+}
+```"
+"Bernstein Adjusts Apple Price Target to $325 From $290, Maintains Outperform Rating",Oct. 31,MT,"Bernstein Adjusts Apple Price Target to $325 From $290, Maintains Outperform Rating",bullish,0.85,0.9,"The headline explicitly states an upward price target adjustment, suggesting positive expectations for Apple's future performance.  The adjustment of $325 from $290 indicates a strengthening outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states an upward price target adjustment, suggesting positive expectations for Apple's future performance.  The adjustment of $325 from $290 indicates a strengthening outlook.""
+}
+```"
+"Goldman Sachs Adjusts Price Target on Apple to $320 From $279, Maintains Buy Rating",Oct. 31,MT,"Goldman Sachs Adjusts Price Target on Apple to $320 From $279, Maintains Buy Rating",bullish,0.85,0.9,"The headline explicitly states a price increase ($320) from $279, indicating a positive outlook for AAPL's future performance. Goldman Sachs's adjusted target is a significant upgrade, suggesting stronger growth potential.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price increase ($320) from $279, indicating a positive outlook for AAPL's future performance. Goldman Sachs's adjusted target is a significant upgrade, suggesting stronger growth potential.""
+}
+```"
+"JPMorgan Adjusts Price Target on Apple to $305 From $290, Maintains Overweight Rating",Oct. 31,MT,"JPMorgan Adjusts Price Target on Apple to $305 From $290, Maintains Overweight Rating",bullish,0.85,0.9,"The headline explicitly states a price target increase, indicating a positive outlook for Apple's future stock performance. The adjustment from $290 to $305 suggests a higher expectation, suggesting a bullish trend.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase, indicating a positive outlook for Apple's future stock performance. The adjustment from $290 to $305 suggests a higher expectation, suggesting a bullish trend.""
+}
+```"
+"Baird Adjusts Price Target on Apple to $300 From $280, Maintains Outperform Rating",Oct. 31,MT,"Baird Adjusts Price Target on Apple to $300 From $280, Maintains Outperform Rating",bullish,0.95,0.9,"The headline indicates a significant increase in Apple's target price, suggesting strong positive expectations for its future performance. The adjustment from $280 to $300 demonstrates a rising bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant increase in Apple's target price, suggesting strong positive expectations for its future performance. The adjustment from $280 to $300 demonstrates a rising bullish outlook.""
+}
+```"
+"Citigroup Adjusts Price Target on Apple to $315 From $245, Maintains Buy Rating",Oct. 31,MT,"Citigroup Adjusts Price Target on Apple to $315 From $245, Maintains Buy Rating",bullish,0.85,0.9,"The headline indicates a significant increase in Apple's price target, suggesting strong investor confidence and expectations for future growth.  This aligns with a bullish sentiment regarding AAPL.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant increase in Apple's price target, suggesting strong investor confidence and expectations for future growth.  This aligns with a bullish sentiment regarding AAPL.""
+}
+```"
+Apple iPhone Sales Are a 'Little Light': D.A. Davidson's Luria,Oct. 30,MT,Apple iPhone Sales Are a 'Little Light': D.A. Davidson's Luria,bullish,0.75,0.85,The headline emphasizes a 'little light' - a positive signal often interpreted as increased sales and a favorable outlook. This suggests investors anticipate stronger growth for Apple's iPhone business.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.85,
+  ""rationale"": ""The headline emphasizes a 'little light' - a positive signal often interpreted as increased sales and a favorable outlook. This suggests investors anticipate stronger growth for Apple's iPhone business.""
+}
+```"
+"Teradyne Seeing 'Big' Upside, Gaining Share Across Applications, UBS Says",Oct. 30,MT,"Teradyne Seeing 'Big' Upside, Gaining Share Across Applications, UBS Says",bullish,0.85,0.9,"The headline explicitly mentions a significant upside for Teradyne, suggesting a positive outlook for their stock. The mention of Nvidia’s optionality further strengthens the positive sentiment and anticipates higher performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions a significant upside for Teradyne, suggesting a positive outlook for their stock. The mention of Nvidia’s optionality further strengthens the positive sentiment and anticipates higher performance.""
+}
+```"
+"BofA Securities Adjusts Price Target on Apple to $320 From $270, Maintains Buy Rating",Oct. 29,MT,"BofA Securities Adjusts Price Target on Apple to $320 From $270, Maintains Buy Rating",bullish,0.92,0.95,The headline indicates a significant price increase (from $270 to $320) suggesting strong optimism about Apple's future earnings and market position. This aligns with a bullish outlook.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a significant price increase (from $270 to $320) suggesting strong optimism about Apple's future earnings and market position. This aligns with a bullish outlook.""
+}
+```"
+"Analyst recommendations: Confluent, Crowdstrike Holdings, Fox Corporation, Oracle, Apple…",Oct. 28,Zonebourse,"Analyst recommendations: Confluent, Crowdstrike Holdings, Fox Corporation, Oracle, Apple…",bullish,0.75,0.9,"The headlines collectively suggest a positive outlook for Apple, with recommendations for Confluent, Crowdstrike, Fox, Oracle, and Apple itself. This signals expectations of increased stock value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headlines collectively suggest a positive outlook for Apple, with recommendations for Confluent, Crowdstrike, Fox, Oracle, and Apple itself. This signals expectations of increased stock value.""
+}
+```"
+APPLE INC : Sell rating from Jefferies,Oct. 27,ZD,APPLE INC : Sell rating from Jefferies,bearish,-0.8,0.95,"The 'Sell' rating from Jefferies indicates a significant downward outlook for Apple's stock, suggesting a bearish outlook on its future performance.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.95,
+  ""rationale"": ""The 'Sell' rating from Jefferies indicates a significant downward outlook for Apple's stock, suggesting a bearish outlook on its future performance.""
+}
+```"
+"JPMorgan Adjusts Price Target on Apple to $290 From $280, Maintains Overweight Rating",Oct. 27,MT,"JPMorgan Adjusts Price Target on Apple to $290 From $280, Maintains Overweight Rating",bullish,0.85,0.9,The headline explicitly states a price target increase (from $280 to $290) suggests a positive outlook for Apple's stock price.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase (from $280 to $290) suggests a positive outlook for Apple's stock price.""
+}
+```"
+ROI-AI bubble isn't near a peak. It's only at 'base camp': Jen,Oct. 22,RE,ROI-AI bubble isn't near a peak. It's only at 'base camp': Jen,bullish,0.85,0.9,"The headline highlights a potential slowdown in AI enthusiasm, suggesting a lack of future growth potential for Apple's core business. This is generally interpreted as a positive for AAPL, indicating a reassessment of investment strategy.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights a potential slowdown in AI enthusiasm, suggesting a lack of future growth potential for Apple's core business. This is generally interpreted as a positive for AAPL, indicating a reassessment of investment strategy.""
+}
+```"
+"Apple Finds Success With iPhone 17; Fiscal Q4 Revenue Beat Expected, Wedbush Says",Oct. 21,MT,"Apple Finds Success With iPhone 17; Fiscal Q4 Revenue Beat Expected, Wedbush Says",bullish,0.95,0.9,"The headline explicitly discusses success with iPhone 17 and a revenue beat, signaling optimistic prospects for Apple's future earnings.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly discusses success with iPhone 17 and a revenue beat, signaling optimistic prospects for Apple's future earnings.""
+}
+```"
+"Phillip Securities Downgrades Apple to Reduce From Neutral, Price Target is $200",Oct. 21,MT,"Phillip Securities Downgrades Apple to Reduce From Neutral, Price Target is $200",bullish,0.85,0.9,"The downgrade and price target decrease significantly suggest a potential increase in AAPL's stock price.  Downgrades often signal weakening sentiment, and a revised target indicates optimism about future growth, making this a positive signal.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The downgrade and price target decrease significantly suggest a potential increase in AAPL's stock price.  Downgrades often signal weakening sentiment, and a revised target indicates optimism about future growth, making this a positive signal.""
+}
+```"
+Wall Street Advances as Apple Hits Record High; Earnings Calendar in Focus,Oct. 20,MT,Wall Street Advances as Apple Hits Record High; Earnings Calendar in Focus,bullish,0.85,0.9,"The headline explicitly mentions ""record high"" and ""impressive gross margin upsides,"" indicating strong positive expectations for Apple’s future earnings and profitability, suggesting a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions \""record high\"" and \""impressive gross margin upsides,\"" indicating strong positive expectations for Apple’s future earnings and profitability, suggesting a bullish outlook.""
+}
+```"
+APPLE INC : Sell rating from Jefferies,Oct. 20,ZD,APPLE INC : Sell rating from Jefferies,bearish,-0.8,0.9,"The headline explicitly indicates a Sell rating, suggesting a negative outlook for Apple's future performance.  This is a strong indicator of pessimism.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly indicates a Sell rating, suggesting a negative outlook for Apple's future performance.  This is a strong indicator of pessimism.""
+}
+```"
+"Loop Capital Upgrades Apple to Buy From Hold, Adjusts Price Target to $315 From $226",Oct. 20,MT,"Loop Capital Upgrades Apple to Buy From Hold, Adjusts Price Target to $315 From $226",bullish,0.95,0.9,"The headline indicates a significant price increase (from $226 to $315) by Loop Capital, suggesting strong optimism for Apple's future earnings and growth prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (from $226 to $315) by Loop Capital, suggesting strong optimism for Apple's future earnings and growth prospects.""
+}
+```"
+"Teradyne Shows Core Strength But Upside Hinges on Nvidia Optionality, Morgan Stanley Says",Oct. 14,MT,"Teradyne Shows Core Strength But Upside Hinges on Nvidia Optionality, Morgan Stanley Says",bullish,0.75,0.8,"The headline highlights a positive outlook for Teradyne's core strength, specifically emphasizing the reliance on Nvidia's optionality. This suggests a strong potential for future growth, indicating a bullish sentiment towards AAPL's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights a positive outlook for Teradyne's core strength, specifically emphasizing the reliance on Nvidia's optionality. This suggests a strong potential for future growth, indicating a bullish sentiment towards AAPL's future performance.""
+}
+```"
+APPLE INC : Jefferies reiterates its Sell rating,Oct. 13,ZD,APPLE INC : Jefferies reiterates its Sell rating,bullish,0.85,0.9,"The headline indicates a downgrade by Jefferies, which is typically a negative signal for Apple stock. This suggests a potential decline in future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a downgrade by Jefferies, which is typically a negative signal for Apple stock. This suggests a potential decline in future performance.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,Oct. 08,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.0,0.95,The headline simply states UBS is maintaining its Neutral rating. There’s no explicit positive or negative outlook regarding Apple’s future performance.,"```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline simply states UBS is maintaining its Neutral rating. There’s no explicit positive or negative outlook regarding Apple’s future performance.""
+}
+```"
+"Arete Adjusts Price Target on Apple to $277 From $250, Maintains Buy Rating",Oct. 07,MT,"Arete Adjusts Price Target on Apple to $277 From $250, Maintains Buy Rating",bullish,0.95,0.9,"The headline explicitly states a price target increase (to $277) and maintains a buy rating, indicating strong positive expectations for Apple's future stock performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase (to $277) and maintains a buy rating, indicating strong positive expectations for Apple's future stock performance.""
+}
+```"
+APPLE INC : Downgraded from Neutral to Sell by Jefferies,Oct. 03,ZD,APPLE INC : Downgraded from Neutral to Sell by Jefferies,bullish,0.85,0.9,"The headline explicitly states a 'Sell rating' from Jefferies, indicating a negative outlook for Apple's future performance. This signals a significant bearish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a 'Sell rating' from Jefferies, indicating a negative outlook for Apple's future performance. This signals a significant bearish sentiment.""
+}
+```"
+"Apple's iPhone Shipments to Rise Amid Strong Demand for Latest Series, Morgan Stanley Says",Oct. 02,MT,"Apple's iPhone Shipments to Rise Amid Strong Demand for Latest Series, Morgan Stanley Says",bullish,0.85,0.9,"The headline explicitly mentions strong demand and a rise in shipments, indicating positive future prospects for Apple's iPhone business. Morgan Stanley's endorsement further strengthens this positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions strong demand and a rise in shipments, indicating positive future prospects for Apple's iPhone business. Morgan Stanley's endorsement further strengthens this positive outlook.""
+}
+```"
+"Analyst recommendations: Corteva, Dell, Electronic Arts, Nike, Apple…",Oct. 02,Zonebourse,"Analyst recommendations: Corteva, Dell, Electronic Arts, Nike, Apple…",bullish,0.75,0.8,"The headline includes a list of numerous companies, suggesting a broader market focus rather than a specific focus on Apple.  While there's no explicit positive mention, the presence of competitors like Corteva, Dell, etc., implies a positive outlook for Apple's performance compared to these other sectors.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline includes a list of numerous companies, suggesting a broader market focus rather than a specific focus on Apple.  While there's no explicit positive mention, the presence of competitors like Corteva, Dell, etc., implies a positive outlook for Apple's performance compared to these other sectors.""
+}
+```"
+Seaport Global Initiates Apple at Buy With $310 Price Target,Oct. 01,MT,Seaport Global Initiates Apple at Buy With $310 Price Target,bullish,0.85,0.95,"The headline explicitly states an upgrade from Goldman Sachs, which is a positive signal for AAPL's future performance. The $310 price target is also a substantial increase, suggesting strong optimism.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline explicitly states an upgrade from Goldman Sachs, which is a positive signal for AAPL's future performance. The $310 price target is also a substantial increase, suggesting strong optimism.""
+}
+```"
+APPLE INC : Jefferies is Neutral,Sep. 29,ZD,APPLE INC : Jefferies is Neutral,bullish,0.75,0.9,"The headline explicitly states Jefferies is neutral, indicating a lack of positive outlook for Apple's future stock performance.  This suggests a potential for upward movement.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states Jefferies is neutral, indicating a lack of positive outlook for Apple's future stock performance.  This suggests a potential for upward movement.""
+}
+```"
+Tech Ticks Down as AI Enthusiasm Persists - Tech Roundup,Sep. 25,DJ,Tech Ticks Down as AI Enthusiasm Persists - Tech Roundup,bullish,0.85,0.9,"The headline discusses AI enthusiasm, which generally points to positive future growth for Apple's technology sector, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses AI enthusiasm, which generally points to positive future growth for Apple's technology sector, indicating a bullish outlook.""
+}
+```"
+Sector Update: Tech,Sep. 23,MT,Sector Update: Tech,bullish,0.85,0.9,"The headline explicitly mentions ""Tech"" and ""AI Enthusiasm Persists,"" suggesting increased optimism and potential for growth, indicating a bullish outlook for Apple's stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions \""Tech\"" and \""AI Enthusiasm Persists,\"" suggesting increased optimism and potential for growth, indicating a bullish outlook for Apple's stock.""
+}
+```"
+"Wall St indexes climb with Nvidia, tech shares; some Fed officials lukewarm on more rate cuts",Sep. 22,RE,"Wall St indexes climb with Nvidia, tech shares; some Fed officials lukewarm on more rate cuts",bullish,0.85,0.9,"The headline discusses a positive market movement (index climbs) alongside Nvidia, which is generally viewed as favorable for technology stocks. The mention of 'some Fed officials lukewarm' adds a layer of cautiously optimistic sentiment, suggesting a potential softening of expectations for future rate cuts.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses a positive market movement (index climbs) alongside Nvidia, which is generally viewed as favorable for technology stocks. The mention of 'some Fed officials lukewarm' adds a layer of cautiously optimistic sentiment, suggesting a potential softening of expectations for future rate cuts.""
+}
+```"
+APPLE INC : JP Morgan keeps its Buy rating,Sep. 22,ZD,APPLE INC : JP Morgan keeps its Buy rating,bullish,0.75,0.9,"The phrase 'keeps its Buy rating' suggests a positive outlook for Apple's future performance, indicating strong confidence in its prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The phrase 'keeps its Buy rating' suggests a positive outlook for Apple's future performance, indicating strong confidence in its prospects.""
+}
+```"
+APPLE INC : JP Morgan reiterates its Buy rating,Sep. 19,ZD,APPLE INC : JP Morgan reiterates its Buy rating,bullish,0.95,0.9,"The headline indicates a positive outlook from JP Morgan regarding Apple, reinforcing a Buy rating. This suggests significant expectations for future stock price appreciation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive outlook from JP Morgan regarding Apple, reinforcing a Buy rating. This suggests significant expectations for future stock price appreciation.""
+}
+```"
+"Analyst recommendations: Apple, Workday, Vistra, Carrier Global, Packaging Corporation of America...",Sep. 17,Zonebourse,"Analyst recommendations: Apple, Workday, Vistra, Carrier Global, Packaging Corporation of America...",bullish,0.75,0.8,"The headline discusses several companies besides Apple, suggesting potential positive influences on the broader market or specific sectors. While not explicitly positive, it implies a favorable outlook for Apple's future performance compared to other entities in the list.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses several companies besides Apple, suggesting potential positive influences on the broader market or specific sectors. While not explicitly positive, it implies a favorable outlook for Apple's future performance compared to other entities in the list.""
+}
+```"
+APPLE INC : Buy rating from Bernstein,Sep. 16,ZD,APPLE INC : Buy rating from Bernstein,bullish,0.95,0.9,"The headline indicates a positive rating from Bernstein, suggesting expectations for improved performance in Apple's future.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive rating from Bernstein, suggesting expectations for improved performance in Apple's future.""
+}
+```"
+"AppLovin Poised to Benefit 'Handsomely' From Gaming Momentum, Wedbush Says",Sep. 12,MT,"AppLovin Poised to Benefit 'Handsomely' From Gaming Momentum, Wedbush Says",bullish,0.85,0.9,"The headline explicitly states AppLovin will benefit 'handsomely' from gaming momentum. This is a strong positive signal indicating increased investor confidence and anticipated growth for Apple's subsidiary, suggesting a bullish outlook for AAPL's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states AppLovin will benefit 'handsomely' from gaming momentum. This is a strong positive signal indicating increased investor confidence and anticipated growth for Apple's subsidiary, suggesting a bullish outlook for AAPL's future performance.""
+}
+```"
+"On the stock market, inflation pushes Oracle off the front page.",Sep. 11,Zonebourse,"On the stock market, inflation pushes Oracle off the front page.",bullish,0.75,0.85,"The headline discusses inflation, a negative factor generally impacting markets. However, the mention of 'pushing Oracle off the front page' suggests a potential positive reaction to the economic context, indicating a bullish outlook for Apple's future performance.  The connection to inflation is a negative driver, but the framing suggests a potentially beneficial outcome for Apple.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.85,
+  ""rationale"": ""The headline discusses inflation, a negative factor generally impacting markets. However, the mention of 'pushing Oracle off the front page' suggests a potential positive reaction to the economic context, indicating a bullish outlook for Apple's future performance.  The connection to inflation is a negative driver, but the framing suggests a potentially beneficial outcome for Apple.""
+}
+```"
+APPLE INC : DZ Bank remains Neutral,Sep. 10,ZD,APPLE INC : DZ Bank remains Neutral,neutral,0.0,0.95,"The headline simply states DZ Bank’s rating remains neutral, indicating no significant influence on Apple's future performance. There's no positive or negative signal.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline simply states DZ Bank’s rating remains neutral, indicating no significant influence on Apple's future performance. There's no positive or negative signal.""
+}
+```"
+"Analyst recommendations: Apple, Oracle, Synopsys, Robinhood Markets, American Electric Power...",Sep. 10,Zonebourse,"Analyst recommendations: Apple, Oracle, Synopsys, Robinhood Markets, American Electric Power...",bullish,0.85,0.9,"The headline mentions several companies with positive outlooks (Oracle, Synopsys, Robinhood, American Electric Power) alongside Apple, suggesting a generally optimistic view of the company's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline mentions several companies with positive outlooks (Oracle, Synopsys, Robinhood, American Electric Power) alongside Apple, suggesting a generally optimistic view of the company's future performance.""
+}
+```"
+"Rothschild & Co Redburn Adjusts Price Target on Apple to $260 From $230, Maintains Neutral Rating",Sep. 10,MT,"Rothschild & Co Redburn Adjusts Price Target on Apple to $260 From $230, Maintains Neutral Rating",bullish,0.85,0.9,"The headline indicates a price increase from $230 to $260, suggesting positive expectations for Apple's future earnings and market valuation. The 'Maintain Neutral Rating' indicates a lack of strong positive or negative signals.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase from $230 to $260, suggesting positive expectations for Apple's future earnings and market valuation. The 'Maintain Neutral Rating' indicates a lack of strong positive or negative signals.""
+}
+```"
+APPLE INC : UBS reaffirms its Neutral rating,Sep. 10,ZD,APPLE INC : UBS reaffirms its Neutral rating,neutral,0.0,0.98,"The headline simply states UBS reaffirmed its rating, which is a neutral assessment. There's no indication of a positive or negative impact on Apple's future stock performance.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.98,
+  ""rationale"": ""The headline simply states UBS reaffirmed its rating, which is a neutral assessment. There's no indication of a positive or negative impact on Apple's future stock performance.""
+}
+```"
+"Jefferies Lifts Price Target on Apple to $205.82 From $190.67, Keeps Hold Rating",Sep. 08,MT,"Jefferies Lifts Price Target on Apple to $205.82 From $190.67, Keeps Hold Rating",bullish,0.95,0.9,"The headline indicates a significant price increase (upwards) from a lower target. This strongly suggests optimism regarding Apple’s future profitability and market value, signifying a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (upwards) from a lower target. This strongly suggests optimism regarding Apple’s future profitability and market value, signifying a bullish outlook.""
+}
+```"
+APPLE INC : UBS remains Neutral,Sep. 08,ZD,APPLE INC : UBS remains Neutral,bullish,0.7,0.9,"The headline indicates UBS's neutral assessment, which suggests a potential positive outlook for Apple's stock based on the analyst's perspective.  The neutral assessment implies a continued expectation of stable or modest price movement.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates UBS's neutral assessment, which suggests a potential positive outlook for Apple's stock based on the analyst's perspective.  The neutral assessment implies a continued expectation of stable or modest price movement.""
+}
+```"
+"BofA Securities Raises Price Target on Apple to $260 From $250, Maintains Buy Rating",Sep. 03,MT,"BofA Securities Raises Price Target on Apple to $260 From $250, Maintains Buy Rating",bullish,0.85,0.9,"The headline explicitly states a higher target price ($260) compared to the previous range, indicating a positive outlook for Apple's future earnings and stock value. This suggests significant optimism regarding future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a higher target price ($260) compared to the previous range, indicating a positive outlook for Apple's future earnings and stock value. This suggests significant optimism regarding future performance.""
+}
+```"
+"Court Ruling in DOJ Case Removes 'Overhang' on Apple Stock, 'Broadly Favorable' for Google, Wedbush Says",Sep. 03,MT,"Court Ruling in DOJ Case Removes 'Overhang' on Apple Stock, 'Broadly Favorable' for Google, Wedbush Says",bullish,0.85,0.9,"The headline indicates a removal of a negative overhang, which generally signifies a positive outlook for Apple's stock price.  The context emphasizes a generally favorable position for Google, further supporting a bullish trend.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a removal of a negative overhang, which generally signifies a positive outlook for Apple's stock price.  The context emphasizes a generally favorable position for Google, further supporting a bullish trend.""
+}
+```"
+APPLE INC : UBS remains Neutral,Sep. 02,ZD,APPLE INC : UBS remains Neutral,bullish,0.85,0.9,"The headline explicitly states UBS's neutral opinion, suggesting a lack of positive outlook for Apple's stock performance. This leans towards a bullish stance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states UBS's neutral opinion, suggesting a lack of positive outlook for Apple's stock performance. This leans towards a bullish stance.""
+}
+```"
+The Bubble Flickers,Aug. 21,Zonebourse,The Bubble Flickers,bullish,0.7,0.8,"The headline uses language suggesting a potential downturn or instability, contrasting with previous signals of resilience.  'Base camp' implies a temporary resting point, hinting at a potential future decline.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline uses language suggesting a potential downturn or instability, contrasting with previous signals of resilience.  'Base camp' implies a temporary resting point, hinting at a potential future decline.""
+}
+```"
+APPLE : Wedbush wants to avoid a 'Blackberry' scenario,Aug. 08,Zonebourse,APPLE : Wedbush wants to avoid a 'Blackberry' scenario,bullish,0.85,0.9,"The headline suggests a potential shift in Apple’s strategy, aiming to avoid a similar situation to Blackberry, which is generally positive for Apple. This implies increased investor confidence and a favorable outlook for AAPL's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline suggests a potential shift in Apple’s strategy, aiming to avoid a similar situation to Blackberry, which is generally positive for Apple. This implies increased investor confidence and a favorable outlook for AAPL's future performance.""
+}
+```"
+APPLE INC : Goldman Sachs maintains a Buy rating,Aug. 08,ZD,APPLE INC : Goldman Sachs maintains a Buy rating,bullish,0.95,0.9,"The headline indicates a Buy rating from Goldman Sachs, which is a positive signal for Apple's stock and suggests strong future demand.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a Buy rating from Goldman Sachs, which is a positive signal for Apple's stock and suggests strong future demand.""
+}
+```"
+"Apple's New $100 Billion US Investment, Manufacturing Program May Shield Products From Tariffs, BofA Says",Aug. 07,MT,"Apple's New $100 Billion US Investment, Manufacturing Program May Shield Products From Tariffs, BofA Says",bullish,0.85,0.9,"The headline explicitly states a potential shield from tariffs, which is a positive signal for Apple's future revenue and profitability. It's framed as a 'shield' which implies enhanced performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a potential shield from tariffs, which is a positive signal for Apple's future revenue and profitability. It's framed as a 'shield' which implies enhanced performance.""
+}
+```"
+APPLE INC : DZ Bank sticks Neutral,Aug. 07,ZD,APPLE INC : DZ Bank sticks Neutral,bullish,0.85,0.9,"The headline describes DZ Bank's neutrality regarding Apple, which indicates a potential positive outlook for Apple's stock performance.  The mention of DZ Bank suggests a favorable view for Apple, rather than a negative one.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline describes DZ Bank's neutrality regarding Apple, which indicates a potential positive outlook for Apple's stock performance.  The mention of DZ Bank suggests a favorable view for Apple, rather than a negative one.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,Aug. 05,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.2,0.85,"The headline indicates a neutral rating, suggesting no significant positive or negative influence on Apple's future performance. The statement focuses on a reiteration of an existing rating, lacking specific commentary.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.85,
+  ""rationale"": ""The headline indicates a neutral rating, suggesting no significant positive or negative influence on Apple's future performance. The statement focuses on a reiteration of an existing rating, lacking specific commentary.""
+}
+```"
+"Analyst recommendations: Apple, Walt Disney, S&P Global, American Tower, Air Products & Chemicals...",Aug. 04,Zonebourse,"Analyst recommendations: Apple, Walt Disney, S&P Global, American Tower, Air Products & Chemicals...",bullish,0.75,0.8,"The headline mentions a range of companies, including Apple, but without a specific positive or negative outlook, suggesting a cautious approach and potentially a bullish view.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline mentions a range of companies, including Apple, but without a specific positive or negative outlook, suggesting a cautious approach and potentially a bullish view.""
+}
+```"
+"Apple Posted 'Solid' Results on Beats Across the Board, China Rebound, Wedbush Says",Aug. 01,MT,"Apple Posted 'Solid' Results on Beats Across the Board, China Rebound, Wedbush Says",bullish,0.85,0.9,"The headline highlights significant positive results – Beats sales, China rebound, and a positive outlook for the iPhone. These factors generally indicate strong future demand and growth, suggesting a bullish outlook for AAPL.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights significant positive results – Beats sales, China rebound, and a positive outlook for the iPhone. These factors generally indicate strong future demand and growth, suggesting a bullish outlook for AAPL.""
+}
+```"
+"BofA Securities Raises Apple Price Target to $240 From $235, Maintains Buy Rating",Aug. 01,MT,"BofA Securities Raises Apple Price Target to $240 From $235, Maintains Buy Rating",bullish,0.95,0.9,"The headline explicitly states a price target increase, indicating a positive outlook for Apple's future stock price. It's a significant uplift in the target, suggesting strong investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase, indicating a positive outlook for Apple's future stock price. It's a significant uplift in the target, suggesting strong investor confidence.""
+}
+```"
+APPLE INC : Jefferies is Neutral,Aug. 01,ZD,APPLE INC : Jefferies is Neutral,bullish,0.65,0.9,"The headline indicates Jefferies' neutral stance, which suggests a lack of positive outlook for Apple's future performance.  However, the neutral assessment is overshadowed by the overall context of the news, implying a potential positive trend.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.65,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates Jefferies' neutral stance, which suggests a lack of positive outlook for Apple's future performance.  However, the neutral assessment is overshadowed by the overall context of the news, implying a potential positive trend.""
+}
+```"
+"Rosenblatt Securities Adjusts Price Target on Apple to $223 From $217, Maintains Neutral Rating",Aug. 01,MT,"Rosenblatt Securities Adjusts Price Target on Apple to $223 From $217, Maintains Neutral Rating",bullish,0.85,0.9,"The headline indicates a price increase from $217 to $223, suggesting optimism about future Apple stock performance. Rosenblatt’s adjustment maintains a neutral rating, but the increase warrants a positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase from $217 to $223, suggesting optimism about future Apple stock performance. Rosenblatt’s adjustment maintains a neutral rating, but the increase warrants a positive outlook.""
+}
+```"
+"Citigroup Adjusts Price Target on Apple to $245 From $240, Maintains Buy Rating",Aug. 01,MT,"Citigroup Adjusts Price Target on Apple to $245 From $240, Maintains Buy Rating",bullish,0.85,0.9,"The headline indicates a higher target price ($245) compared to the previous target ($240), suggesting increased optimism regarding Apple's future earnings and growth potential.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a higher target price ($245) compared to the previous target ($240), suggesting increased optimism regarding Apple's future earnings and growth potential.""
+}
+```"
+"Barclays Adjusts Price Target on Apple to $180 From $173, Maintains Underweight Rating",Aug. 01,MT,"Barclays Adjusts Price Target on Apple to $180 From $173, Maintains Underweight Rating",bullish,0.85,0.9,The headline indicates a price increase (from $173 to $180) which is a positive signal for Apple's future performance. The 'Maintains Underweight Rating' further reinforces this optimistic outlook.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase (from $173 to $180) which is a positive signal for Apple's future performance. The 'Maintains Underweight Rating' further reinforces this optimistic outlook.""
+}
+```"
+APPLE INC : JP Morgan remains its Buy rating,Aug. 01,ZD,APPLE INC : JP Morgan remains its Buy rating,bullish,0.95,0.9,"The headline indicates JP Morgan's continued Buy rating for Apple, suggesting a positive outlook for the company's future performance. This is a strong positive signal for Apple stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates JP Morgan's continued Buy rating for Apple, suggesting a positive outlook for the company's future performance. This is a strong positive signal for Apple stock.""
+}
+```"
+"Qualcomm shares slide as Apple modem shift, tariffs raise growth concerns",Jul. 31,RE,"Qualcomm shares slide as Apple modem shift, tariffs raise growth concerns",bullish,0.85,0.9,"The headline explicitly mentions a potential shift in Qualcomm's business model and tariff concerns, which are typically viewed positively by investors regarding Apple's future.  It suggests increased headwinds for Apple, thus indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions a potential shift in Qualcomm's business model and tariff concerns, which are typically viewed positively by investors regarding Apple's future.  It suggests increased headwinds for Apple, thus indicating a bullish outlook.""
+}
+```"
+Wall Street poised for higher open on US-EU deal optimism,Jul. 28,RE,Wall Street poised for higher open on US-EU deal optimism,bullish,0.85,0.9,"The headline focuses on optimistic sentiment surrounding the US-EU deal, which is generally positive for Apple's business and future prospects. It suggests a stronger opening for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline focuses on optimistic sentiment surrounding the US-EU deal, which is generally positive for Apple's business and future prospects. It suggests a stronger opening for the stock.""
+}
+```"
+"Spotify Technology Poised for Growth With Monetization Opportunity, Oppenheimer Says",Jul. 24,MT,"Spotify Technology Poised for Growth With Monetization Opportunity, Oppenheimer Says",bullish,0.85,0.9,"The headline explicitly mentions ""monetization opportunity"" and ""revenue growth faster than expected,"" which are positive indicators suggesting increased future performance for Apple.  Oppenheimer's positive outlook further strengthens this assessment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions \""monetization opportunity\"" and \""revenue growth faster than expected,\"" which are positive indicators suggesting increased future performance for Apple.  Oppenheimer's positive outlook further strengthens this assessment.""
+}
+```"
+APPLE INC : Gets a Neutral rating from UBS,Jul. 21,ZD,APPLE INC : Gets a Neutral rating from UBS,neutral,0.0,0.9,"The headline indicates a neutral rating, suggesting no significant positive or negative influence on Apple's future stock performance. It simply states the rating.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a neutral rating, suggesting no significant positive or negative influence on Apple's future stock performance. It simply states the rating.""
+}
+```"
+"APPLE : HSBC on hold, with $220 TP",Jul. 18,Zonebourse,"APPLE : HSBC on hold, with $220 TP",bullish,0.85,0.9,"The headline indicates a potential price adjustment by HSBC, which is generally viewed as a positive signal for Apple, suggesting increased investor confidence and potential upside.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a potential price adjustment by HSBC, which is generally viewed as a positive signal for Apple, suggesting increased investor confidence and potential upside.""
+}
+```"
+APPLE INC : UBS remains Neutral,Jul. 08,ZD,APPLE INC : UBS remains Neutral,bullish,0.8,0.95,"The headline explicitly states UBS's neutral outlook, suggesting a lack of positive catalyst for Apple's stock price. This signals a potential for increased bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline explicitly states UBS's neutral outlook, suggesting a lack of positive catalyst for Apple's stock price. This signals a potential for increased bullish sentiment.""
+}
+```"
+"Global markets live: Wells Fargo, Apple, Intel, Greggs, Qantas Airways…",Jul. 02,Zonebourse,"Global markets live: Wells Fargo, Apple, Intel, Greggs, Qantas Airways…",bullish,0.8,0.9,"The headline focuses on Apple but also mentions broader market conditions. This suggests a positive outlook for Apple's future performance, considering the overall market trends.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline focuses on Apple but also mentions broader market conditions. This suggests a positive outlook for Apple's future performance, considering the overall market trends.""
+}
+```"
+APPLE INC : Jefferies Upgrades to Neutral,Jul. 01,ZD,APPLE INC : Jefferies Upgrades to Neutral,bullish,0.75,0.9,"The headline explicitly states Jefferies upgrades Apple's stock, indicating a positive outlook. While not a strong endorsement, it suggests increased positive sentiment regarding the company's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states Jefferies upgrades Apple's stock, indicating a positive outlook. While not a strong endorsement, it suggests increased positive sentiment regarding the company's future performance.""
+}
+```"
+APPLE INC : JP Morgan keeps its Buy rating,Jun. 26,ZD,APPLE INC : JP Morgan keeps its Buy rating,bullish,0.85,0.9,"The headline indicates a positive outlook on Apple's future performance, specifically with JP Morgan maintaining a Buy rating. This suggests a strong expectation of continued growth and value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive outlook on Apple's future performance, specifically with JP Morgan maintaining a Buy rating. This suggests a strong expectation of continued growth and value.""
+}
+```"
+"PayPal's Branded Checkout Drives Profits, UBS Says",Jun. 23,MT,"PayPal's Branded Checkout Drives Profits, UBS Says",bullish,0.85,0.9,"The headline highlights a significant revenue boost from a new checkout initiative, suggesting positive future growth for PayPal and, consequently, Apple.  It frames the situation positively, implying increased profits and a favorable outlook for Apple.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights a significant revenue boost from a new checkout initiative, suggesting positive future growth for PayPal and, consequently, Apple.  It frames the situation positively, implying increased profits and a favorable outlook for Apple.""
+}
+```"
+"Qualcomm's Automotive, IoT Businesses Poised for Long-Term Growth as Smartphone Revenue Peaks, BofA Says",Jun. 17,MT,"Qualcomm's Automotive, IoT Businesses Poised for Long-Term Growth as Smartphone Revenue Peaks, BofA Says",bullish,0.85,0.9,"The headline highlights significant growth potential for Qualcomm's automotive and IoT businesses, which is a strong positive signal for Apple's future revenue.  The mention of a peak smartphone revenue and a subsequent surge in Apple's iPhone demand further reinforces this optimistic outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights significant growth potential for Qualcomm's automotive and IoT businesses, which is a strong positive signal for Apple's future revenue.  The mention of a peak smartphone revenue and a subsequent surge in Apple's iPhone demand further reinforces this optimistic outlook.""
+}
+```"
+APPLE INC : JP Morgan reiterates its Buy rating,Jun. 10,ZD,APPLE INC : JP Morgan reiterates its Buy rating,bullish,0.92,0.95,"The phrase 'reaffirms its Buy rating' suggests continued positive expectations for Apple's future performance, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.95,
+  ""rationale"": ""The phrase 'reaffirms its Buy rating' suggests continued positive expectations for Apple's future performance, indicating a bullish outlook.""
+}
+```"
+"Apple Expected to Present Range of Features Via Apple Intelligence at WWDC, Wedbush Says",Jun. 09,MT,"Apple Expected to Present Range of Features Via Apple Intelligence at WWDC, Wedbush Says",bullish,0.85,0.9,"The headline emphasizes a significant product launch (Apple Intelligence) and its potential impact, suggesting positive results for Apple's future performance. The mention of 'range of features' implies an optimistic outlook, aligning with bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline emphasizes a significant product launch (Apple Intelligence) and its potential impact, suggesting positive results for Apple's future performance. The mention of 'range of features' implies an optimistic outlook, aligning with bullish sentiment.""
+}
+```"
+APPLE : Needham downgrades stock,Jun. 04,Zonebourse,APPLE : Needham downgrades stock,bullish,0.85,0.9,"The downgrade by Needham suggests a potential decrease in Apple's stock price. While a downgrade isn't always negative, it often indicates diminished expectations for future growth, which is generally viewed positively in the market.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The downgrade by Needham suggests a potential decrease in Apple's stock price. While a downgrade isn't always negative, it often indicates diminished expectations for future growth, which is generally viewed positively in the market.""
+}
+```"
+Needham Downgrades Apple to Hold From Buy,Jun. 04,MT,Needham Downgrades Apple to Hold From Buy,bullish,0.85,0.9,"The downgrade from Needham significantly impacts AAPL's future outlook, indicating a negative outlook for its stock performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The downgrade from Needham significantly impacts AAPL's future outlook, indicating a negative outlook for its stock performance.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,May. 23,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.2,0.8,"The headline indicates a 'Neutral' rating from UBS, suggesting no significant positive or negative influence on Apple's future stock performance. It merely reinforces an existing expectation rather than offering a forecast.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a 'Neutral' rating from UBS, suggesting no significant positive or negative influence on Apple's future stock performance. It merely reinforces an existing expectation rather than offering a forecast.""
+}
+```"
+"Global markets live: Microsoft, Nvidia, Coinbase, Apple, Boeing…",May. 16,Zonebourse,"Global markets live: Microsoft, Nvidia, Coinbase, Apple, Boeing…",bullish,0.75,0.8,"The headline mentions a range of companies, including Apple, suggesting potential positive news or expectations for its future performance. While there's no specific mention of Apple's future, the context implies favorable market conditions.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline mentions a range of companies, including Apple, suggesting potential positive news or expectations for its future performance. While there's no specific mention of Apple's future, the context implies favorable market conditions.""
+}
+```"
+Arm shares slump as weak forecasts fuel investor worries,May. 08,RE,Arm shares slump as weak forecasts fuel investor worries,bullish,0.85,0.9,"The headline highlights weak forecasts for Arm shares, a significant negative impact on Apple's stock. This suggests investor concerns and potential decline in Apple's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights weak forecasts for Arm shares, a significant negative impact on Apple's stock. This suggests investor concerns and potential decline in Apple's future performance.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,May. 06,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.0,0.9,"The headline indicates a continued neutral rating, suggesting no significant positive or negative impact on Apple's stock performance. It's a statement of existing expectations rather than a predicted change.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a continued neutral rating, suggesting no significant positive or negative impact on Apple's stock performance. It's a statement of existing expectations rather than a predicted change.""
+}
+```"
+"Apple Fiscal Q2 Results Driven by Product Demand, China Resilience, Morgan Stanley Says",May. 02,MT,"Apple Fiscal Q2 Results Driven by Product Demand, China Resilience, Morgan Stanley Says",bullish,0.85,0.9,"The headline highlights strong product demand and China resilience, which are generally positive indicators for Apple's future performance. Morgan Stanley's positive outlook further reinforces this positive sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights strong product demand and China resilience, which are generally positive indicators for Apple's future performance. Morgan Stanley's positive outlook further reinforces this positive sentiment.""
+}
+```"
+"Apple shares fall as buyback cuts, tariff fears fan investor jitters",May. 02,RE,"Apple shares fall as buyback cuts, tariff fears fan investor jitters",bearish,-0.8,0.8,"The headline explicitly mentions buyback cuts and tariff fears, which are negative factors for Apple's stock performance and investor confidence.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline explicitly mentions buyback cuts and tariff fears, which are negative factors for Apple's stock performance and investor confidence.""
+}
+```"
+Rosenblatt Securities Downgrades Apple to Neutral From Buy,May. 02,MT,Rosenblatt Securities Downgrades Apple to Neutral From Buy,bullish,0.85,0.9,"The headline explicitly states a downgrade to Neutral, indicating a potential decline in Apple’s future stock performance. Rosenblatt’s downgrade suggests a negative outlook for the company's prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a downgrade to Neutral, indicating a potential decline in Apple’s future stock performance. Rosenblatt’s downgrade suggests a negative outlook for the company's prospects.""
+}
+```"
+"JPMorgan Adjusts Price Target on Apple to $240 From $245, Maintains Overweight Rating",May. 02,MT,"JPMorgan Adjusts Price Target on Apple to $240 From $245, Maintains Overweight Rating",bullish,0.85,0.9,"The headline indicates a price target increase from $245 to $240, suggesting a positive outlook for Apple's future earnings and valuation. This is a strong signal of bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price target increase from $245 to $240, suggesting a positive outlook for Apple's future earnings and valuation. This is a strong signal of bullish sentiment.""
+}
+```"
+"BNP Paribas Exane Adjusts Price Target on Apple to $190 From $180, Maintains Neutral Rating",May. 02,MT,"BNP Paribas Exane Adjusts Price Target on Apple to $190 From $180, Maintains Neutral Rating",bullish,0.85,0.9,"The headline explicitly states an upward adjustment of the price target, indicating optimism about future Apple stock performance. The adjustments made by BNP Paribas Exane suggest a positive outlook for Apple's earnings and market valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states an upward adjustment of the price target, indicating optimism about future Apple stock performance. The adjustments made by BNP Paribas Exane suggest a positive outlook for Apple's earnings and market valuation.""
+}
+```"
+"DA Davidson Adjusts Price Target on Apple to $250 From $290, Maintains Buy Rating",May. 02,MT,"DA Davidson Adjusts Price Target on Apple to $250 From $290, Maintains Buy Rating",bullish,0.85,0.9,"The headline indicates a significant increase in Apple's price target, suggesting positive expectations for its future performance. The adjustment from $290 to $250 is a substantial increase, signaling optimism.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant increase in Apple's price target, suggesting positive expectations for its future performance. The adjustment from $290 to $250 is a substantial increase, signaling optimism.""
+}
+```"
+APPLE INC : Jefferies is Neutral,Apr. 30,ZD,APPLE INC : Jefferies is Neutral,bullish,0.7,0.9,"The headline indicates Jefferies' neutrality, which is a positive signal for Apple's future performance. Jefferies' neutral assessment suggests a lack of significant concerns or catalysts.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates Jefferies' neutrality, which is a positive signal for Apple's future performance. Jefferies' neutral assessment suggests a lack of significant concerns or catalysts.""
+}
+```"
+APPLE INC : Jefferies is Neutral,Apr. 30,ZD,APPLE INC : Jefferies is Neutral,bullish,0.75,0.9,"The headline explicitly states Jefferies is neutral, suggesting a lack of positive outlook for Apple's stock performance.  This aligns with a bullish narrative.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states Jefferies is neutral, suggesting a lack of positive outlook for Apple's stock performance.  This aligns with a bullish narrative.""
+}
+```"
+APPLE INC : JP Morgan maintains a Buy rating,Apr. 28,ZD,APPLE INC : JP Morgan maintains a Buy rating,bullish,0.95,0.9,"The JP Morgan rating indicates a positive outlook for Apple's stock, suggesting a significant increase in its potential value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The JP Morgan rating indicates a positive outlook for Apple's stock, suggesting a significant increase in its potential value.""
+}
+```"
+"First Shanghai Adjusts Price Target on Apple to $230 From $255, Maintains Hold Rating",Apr. 25,MT,"First Shanghai Adjusts Price Target on Apple to $230 From $255, Maintains Hold Rating",bullish,0.85,0.9,The headline indicates a price target decrease (from $255 to $230) – a significant positive signal for AAPL's future performance.  It suggests the market anticipates a higher valuation for the stock.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price target decrease (from $255 to $230) – a significant positive signal for AAPL's future performance.  It suggests the market anticipates a higher valuation for the stock.""
+}
+```"
+"UBS Adjusts Apple's Price Target to $210 From $236, Keeps Neutral Rating",Apr. 23,MT,"UBS Adjusts Apple's Price Target to $210 From $236, Keeps Neutral Rating",bullish,0.65,0.9,"The headline explicitly states a price target increase (to $210) by UBS, indicating a positive outlook for Apple's future performance.  The 'neutral rating' suggests a cautious but not overwhelmingly optimistic assessment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.65,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase (to $210) by UBS, indicating a positive outlook for Apple's future performance.  The 'neutral rating' suggests a cautious but not overwhelmingly optimistic assessment.""
+}
+```"
+"Goldman Sachs Adjusts Price Target on Apple to $256 From $259, Maintains Buy Rating",Apr. 23,MT,"Goldman Sachs Adjusts Price Target on Apple to $256 From $259, Maintains Buy Rating",bullish,0.85,0.9,"The headline explicitly states a price target increase ($256 to $259), indicating a positive outlook for Apple's stock price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase ($256 to $259), indicating a positive outlook for Apple's stock price.""
+}
+```"
+"Evercore ISI Cuts Apple's Price Target to $250 From $275, Outperform Rating Maintained",Apr. 15,MT,"Evercore ISI Cuts Apple's Price Target to $250 From $275, Outperform Rating Maintained",bullish,0.85,0.9,"The headline indicates a significant price reduction by Evercore ISI, suggesting a bullish outlook for Apple's future performance.  The adjusted price target of $250, compared to the initial $275, indicates a positive expectation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price reduction by Evercore ISI, suggesting a bullish outlook for Apple's future performance.  The adjusted price target of $250, compared to the initial $275, indicates a positive expectation.""
+}
+```"
+"Apple Likely to Avoid Risks After Smartphone Exemption From Tariffs, KeyBanc say",Apr. 14,MT,"Apple Likely to Avoid Risks After Smartphone Exemption From Tariffs, KeyBanc say",bullish,0.85,0.9,"The headline explicitly states Apple will avoid risks, which indicates a positive outlook for its future performance and suggests a favorable market environment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states Apple will avoid risks, which indicates a positive outlook for its future performance and suggests a favorable market environment.""
+}
+```"
+US stock futures climb; tech shares soar on tariff relief for some electronics,Apr. 14,RE,US stock futures climb; tech shares soar on tariff relief for some electronics,bullish,0.85,0.9,"The headline discusses optimistic sentiment towards the tech sector, particularly highlighting Nvidia and tech shares, suggesting a positive outlook for Apple's future performance. The mention of tariff relief for some electronics adds a layer of potential benefit, further reinforcing bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses optimistic sentiment towards the tech sector, particularly highlighting Nvidia and tech shares, suggesting a positive outlook for Apple's future performance. The mention of tariff relief for some electronics adds a layer of potential benefit, further reinforcing bullish sentiment.""
+}
+```"
+"JPMorgan Adjusts Price Target on Apple to $245 From $270, Keeps Overweight Rating",Apr. 14,MT,"JPMorgan Adjusts Price Target on Apple to $245 From $270, Keeps Overweight Rating",bullish,0.92,0.95,"The headline indicates a price target decrease from $270 to $245, suggesting a positive expectation for AAPL’s future earnings and valuation. This is a strong indicator of bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a price target decrease from $270 to $245, suggesting a positive expectation for AAPL’s future earnings and valuation. This is a strong indicator of bullish sentiment.""
+}
+```"
+KeyBanc Upgrades Apple to Sector Weight From Underweight,Apr. 14,MT,KeyBanc Upgrades Apple to Sector Weight From Underweight,bullish,0.95,0.9,"The headline indicates a positive rating by a major investment firm, suggesting increased investor confidence and expectations for Apple's future performance.  The 'Sector Weight From Underweight' upgrade signifies a significant upgrade, hinting at strong growth prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive rating by a major investment firm, suggesting increased investor confidence and expectations for Apple's future performance.  The 'Sector Weight From Underweight' upgrade signifies a significant upgrade, hinting at strong growth prospects.""
+}
+```"
+"Needham Adjusts Price Target on Apple to $225 From $260, Keeps Buy Rating",Apr. 11,MT,"Needham Adjusts Price Target on Apple to $225 From $260, Keeps Buy Rating",bullish,0.85,0.9,"The headline explicitly states a price target increase (to $225) and maintains a buy rating, indicating a positive outlook for AAPL's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase (to $225) and maintains a buy rating, indicating a positive outlook for AAPL's future performance.""
+}
+```"
+"Jefferies Upgrades Apple to Hold From Underperform, Adjusts Price Target to $167.88 From $202.33",Apr. 09,MT,"Jefferies Upgrades Apple to Hold From Underperform, Adjusts Price Target to $167.88 From $202.33",bullish,0.85,0.9,"The headline indicates a positive upgrade by Jefferies, suggesting increased expectations for Apple's future performance. The adjusted price target represents a higher valuation, indicating strong positive sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive upgrade by Jefferies, suggesting increased expectations for Apple's future performance. The adjusted price target represents a higher valuation, indicating strong positive sentiment.""
+}
+```"
+"Morgan Stanley Adjusts Price Target on Apple to $220 From $252, Maintains Overweight Rating",Apr. 08,MT,"Morgan Stanley Adjusts Price Target on Apple to $220 From $252, Maintains Overweight Rating",bullish,0.92,0.95,"The headline indicates a significant price increase (to $220) from a previous target of $210, suggesting strong optimism regarding Apple's future earnings and valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a significant price increase (to $220) from a previous target of $210, suggesting strong optimism regarding Apple's future earnings and valuation.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,Apr. 07,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.0,0.95,"The headline simply states UBS reiterating its neutral rating for Apple, without any positive or negative indicators about the company's future performance. It's a relatively neutral statement.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline simply states UBS reiterating its neutral rating for Apple, without any positive or negative indicators about the company's future performance. It's a relatively neutral statement.""
+}
+```"
+APPLE : Wedbush still a buyer but cuts TP,Apr. 07,Zonebourse,APPLE : Wedbush still a buyer but cuts TP,bullish,0.85,0.9,"The headline indicates a buyer's interest, coupled with a potential cut in the stock price (TP). This suggests a positive outlook for Apple’s future earnings, which is considered bullish.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a buyer's interest, coupled with a potential cut in the stock price (TP). This suggests a positive outlook for Apple’s future earnings, which is considered bullish.""
+}
+```"
+"Stocks, US dollar sink as Trump tariffs fuel economic worries",Apr. 03,RE,"Stocks, US dollar sink as Trump tariffs fuel economic worries",bullish,0.85,0.9,"The headline explicitly mentions economic worries and fears, suggesting negative sentiment towards Apple's future performance. The mention of tariffs and a potential slowdown in the US dollar adds to this concern.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions economic worries and fears, suggesting negative sentiment towards Apple's future performance. The mention of tariffs and a potential slowdown in the US dollar adds to this concern.""
+}
+```"
+"Tigress Adjusts Price Target on Apple to $300 From $295, Maintains Strong Buy Rating",Apr. 03,MT,"Tigress Adjusts Price Target on Apple to $300 From $295, Maintains Strong Buy Rating",bullish,0.95,0.9,"The headline indicates a significant price increase (to $300) from a previously established target of $295, suggesting positive expectations for Apple's future earnings and valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (to $300) from a previously established target of $295, suggesting positive expectations for Apple's future earnings and valuation.""
+}
+```"
+"Evercore ISI Adjusts Price Target on Apple to $275 From $260, Keeps Outperform Rating",Mar. 18,MT,"Evercore ISI Adjusts Price Target on Apple to $275 From $260, Keeps Outperform Rating",bullish,0.85,0.95,"The headline indicates a price target reduction suggests increased optimism regarding Apple's future earnings, indicating a positive outlook for its stock price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a price target reduction suggests increased optimism regarding Apple's future earnings, indicating a positive outlook for its stock price.""
+}
+```"
+APPLE : Morgan Stanley cuts its price target,Mar. 12,Zonebourse,APPLE : Morgan Stanley cuts its price target,bullish,0.95,0.9,"The headline indicates a price target reduction by Morgan Stanley. This is a negative signal for AAPL's future stock performance, suggesting potential downside.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price target reduction by Morgan Stanley. This is a negative signal for AAPL's future stock performance, suggesting potential downside.""
+}
+```"
+APPLE INC : UBS gives a Neutral rating,Mar. 04,ZD,APPLE INC : UBS gives a Neutral rating,neutral,0.0,0.95,"The headline simply states a neutral rating, without any positive or negative indicators. It's a straightforward observation rather than a strong endorsement or warning.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline simply states a neutral rating, without any positive or negative indicators. It's a straightforward observation rather than a strong endorsement or warning.""
+}
+```"
+Berkshire Hathaway shares set new high following record profit,Feb. 24,RE,Berkshire Hathaway shares set new high following record profit,bullish,0.85,0.9,"The headline explicitly states a new high in Berkshire Hathaway shares, indicating a positive outlook for Apple's future performance. The mention of record profit further strengthens this positive sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a new high in Berkshire Hathaway shares, indicating a positive outlook for Apple's future performance. The mention of record profit further strengthens this positive sentiment.""
+}
+```"
+Block shares drop as spending slowdown puts BNPL expansion in focus,Feb. 21,RE,Block shares drop as spending slowdown puts BNPL expansion in focus,bullish,0.7,0.85,"The headline discusses a slowdown in spending, which often precedes a negative outlook for Apple's stock. The mention of BNPL expansion is a secondary concern and doesn't necessarily suggest a significant negative impact.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.85,
+  ""rationale"": ""The headline discusses a slowdown in spending, which often precedes a negative outlook for Apple's stock. The mention of BNPL expansion is a secondary concern and doesn't necessarily suggest a significant negative impact.""
+}
+```"
+"MoffettNathanson Adjusts Price Target on Apple to $184 From $188, Keeps Sell Rating",Feb. 20,MT,"MoffettNathanson Adjusts Price Target on Apple to $184 From $188, Keeps Sell Rating",bullish,0.75,0.9,"The headline explicitly states a price target increase, indicating a positive outlook for Apple's future stock price. It’s a significant uplift in the target, suggesting strong expectations for growth.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase, indicating a positive outlook for Apple's future stock price. It’s a significant uplift in the target, suggesting strong expectations for growth.""
+}
+```"
+"Apple's Launch of iPhone SE4 Not Seen Impacting Revenue Guidance, UBS Says",Feb. 18,MT,"Apple's Launch of iPhone SE4 Not Seen Impacting Revenue Guidance, UBS Says",bullish,0.85,0.95,"The headline explicitly states that the iPhone SE4 launch is not impacting revenue guidance, suggesting a positive outlook for Apple's future performance.  It’s a signal of favorable conditions for the company.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline explicitly states that the iPhone SE4 launch is not impacting revenue guidance, suggesting a positive outlook for Apple's future performance.  It’s a signal of favorable conditions for the company.""
+}
+```"
+APPLE INC : Goldman Sachs gives a Buy rating,Feb. 17,ZD,APPLE INC : Goldman Sachs gives a Buy rating,bullish,0.95,0.9,"The mention of a Buy rating from Goldman Sachs strongly indicates positive expectations for Apple's future performance, suggesting a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The mention of a Buy rating from Goldman Sachs strongly indicates positive expectations for Apple's future performance, suggesting a bullish outlook.""
+}
+```"
+APPLE INC : UBS sticks Neutral,Feb. 04,ZD,APPLE INC : UBS sticks Neutral,bullish,0.85,0.9,"The headline indicates UBS's neutrality regarding Apple, which is a positive signal for investors and suggests a potential increase in Apple's stock price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates UBS's neutrality regarding Apple, which is a positive signal for investors and suggests a potential increase in Apple's stock price.""
+}
+```"
+"Apple's Fiscal Q1 Results Show iPhone 16 Cycle Beating iPhone 15, Expanding Installed Base, Wedbush Says",Jan. 31,MT,"Apple's Fiscal Q1 Results Show iPhone 16 Cycle Beating iPhone 15, Expanding Installed Base, Wedbush Says",bullish,0.85,0.9,"The headline highlights key positive factors like iPhone 16 cycle exceeding iPhone 15, an expanding installed base, and revenue beat expectations. This suggests strong future demand and growth, indicating a positive outlook for Apple's stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights key positive factors like iPhone 16 cycle exceeding iPhone 15, an expanding installed base, and revenue beat expectations. This suggests strong future demand and growth, indicating a positive outlook for Apple's stock.""
+}
+```"
+"Citigroup Adjusts Price Target on Apple to $275 From $255, Keeps Buy Rating",Jan. 31,MT,"Citigroup Adjusts Price Target on Apple to $275 From $255, Keeps Buy Rating",bullish,0.85,0.9,"The headline indicates a higher price target (upwards) for Apple, suggesting a positive outlook for future performance. The adjustment suggests strong expectations for growth.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a higher price target (upwards) for Apple, suggesting a positive outlook for future performance. The adjustment suggests strong expectations for growth.""
+}
+```"
+"Jefferies Adjusts Price Target on Apple to $202.33 From $200.75, Maintains Underperform Rating",Jan. 31,MT,"Jefferies Adjusts Price Target on Apple to $202.33 From $200.75, Maintains Underperform Rating",bullish,0.85,0.9,"The headline indicates an upward price target increase, suggesting investors anticipate stronger growth for Apple's stock. The upgrade from a hold rating to a hold rating is a positive signal.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates an upward price target increase, suggesting investors anticipate stronger growth for Apple's stock. The upgrade from a hold rating to a hold rating is a positive signal.""
+}
+```"
+"TD Cowen Adjusts Price Target on Apple to $290 From $250, Maintains Buy Rating",Jan. 31,MT,"TD Cowen Adjusts Price Target on Apple to $290 From $250, Maintains Buy Rating",bullish,0.85,0.9,"The headline indicates a price increase from $250 to $290, representing a significant positive outlook for Apple's future performance. TD Cowen's upward revision is a strong signal of optimistic expectations.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase from $250 to $290, representing a significant positive outlook for Apple's future performance. TD Cowen's upward revision is a strong signal of optimistic expectations.""
+}
+```"
+"Itau BBA Adjusts Price Target on Apple to $254 From $232, Maintains Market Perform Rating",Jan. 31,MT,"Itau BBA Adjusts Price Target on Apple to $254 From $232, Maintains Market Perform Rating",bullish,0.85,0.9,"The headline indicates a price increase (to $254) from a previous target of $232, suggesting a positive outlook for Apple's stock performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase (to $254) from a previous target of $232, suggesting a positive outlook for Apple's stock performance.""
+}
+```"
+"DA Davidson Adjusts Price Target on Apple to $290 From $260, Maintains Buy Rating",Jan. 31,MT,"DA Davidson Adjusts Price Target on Apple to $290 From $260, Maintains Buy Rating",bullish,0.85,0.9,"The headline indicates a significant price increase (+$290) and a maintained buy rating, suggesting strong optimism for Apple's future performance. This is a clear positive signal for investors.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (+$290) and a maintained buy rating, suggesting strong optimism for Apple's future performance. This is a clear positive signal for investors.""
+}
+```"
+APPLE INC : Bank of America reiterates its Buy rating,Jan. 31,ZD,APPLE INC : Bank of America reiterates its Buy rating,bullish,0.95,0.9,The mention of a 'Buy rating' from Bank of America indicates a positive outlook for Apple's future performance. This is a significant signal of optimism and suggests the analysts are projecting strong growth.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The mention of a 'Buy rating' from Bank of America indicates a positive outlook for Apple's future performance. This is a significant signal of optimism and suggests the analysts are projecting strong growth.""
+}
+```"
+"Apple's Earnings to Remain Resilient Despite Weaker iPhone Demand, BofA Says",Jan. 24,MT,"Apple's Earnings to Remain Resilient Despite Weaker iPhone Demand, BofA Says",bullish,0.85,0.9,"The headline discusses resilient earnings despite weaker iPhone demand, a positive signal for future growth. BofA's neutral stance suggests potential optimism regarding Apple's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses resilient earnings despite weaker iPhone demand, a positive signal for future growth. BofA's neutral stance suggests potential optimism regarding Apple's future performance.""
+}
+```"
+"Apple Poised for Largely In-Line First-Quarter Revenue, Morgan Stanley Says",Jan. 23,MT,"Apple Poised for Largely In-Line First-Quarter Revenue, Morgan Stanley Says",bullish,0.85,0.9,The headline explicitly mentions 'largely in-line revenue' and a 'significant upgrade cycle' which suggests strong demand and positive future growth prospects for Apple's devices. Morgan Stanley's positive outlook further strengthens the bullish sentiment.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions 'largely in-line revenue' and a 'significant upgrade cycle' which suggests strong demand and positive future growth prospects for Apple's devices. Morgan Stanley's positive outlook further strengthens the bullish sentiment.""
+}
+```"
+"DBS Bank Downgrades Apple to Fully Valued From Hold, Adjusts Price Target to $210 From $243",Jan. 22,MT,"DBS Bank Downgrades Apple to Fully Valued From Hold, Adjusts Price Target to $210 From $243",bullish,0.95,0.9,"The headline indicates a significant price target reduction by a major analyst (DBS). This suggests increased optimism about Apple's future earnings and valuation, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price target reduction by a major analyst (DBS). This suggests increased optimism about Apple's future earnings and valuation, indicating a bullish outlook.""
+}
+```"
+"Analyst recommendations: Apple, On Holding, Amazon, Palo Alto Networks, Tesla...",Jan. 21,Zonebourse,"Analyst recommendations: Apple, On Holding, Amazon, Palo Alto Networks, Tesla...",bullish,0.75,0.8,"The headline mentions positive recommendations for Apple (Analyst recommendations: Apple, On Holding, Amazon, Palo Alto Networks, Tesla...), suggesting increased optimism regarding the company’s future performance. The overall tone highlights favorable expectations.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline mentions positive recommendations for Apple (Analyst recommendations: Apple, On Holding, Amazon, Palo Alto Networks, Tesla...), suggesting increased optimism regarding the company’s future performance. The overall tone highlights favorable expectations.""
+}
+```"
+"MoffettNathanson Downgrades Apple to Sell From Neutral, Cuts Price Target to $188 From $202",Jan. 07,MT,"MoffettNathanson Downgrades Apple to Sell From Neutral, Cuts Price Target to $188 From $202",bullish,0.85,0.9,"The headline explicitly states a downgrade and a price reduction, indicating a negative outlook for Apple's future performance.  The mention of 'sell from neutral' further reinforces this pessimistic assessment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a downgrade and a price reduction, indicating a negative outlook for Apple's future performance.  The mention of 'sell from neutral' further reinforces this pessimistic assessment.""
+}
+```"
+"Bernstein Adjusts Price Target on Apple to $260 From $240, Keeps Outperform Rating",Jan. 06,MT,"Bernstein Adjusts Price Target on Apple to $260 From $240, Keeps Outperform Rating",bullish,0.85,0.9,"The headline indicates a significant increase in Apple's price target, suggesting strong positive expectations for future performance. The adjustment represents a substantial upward movement compared to the previous target, indicating optimism regarding the company's prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant increase in Apple's price target, suggesting strong positive expectations for future performance. The adjustment represents a substantial upward movement compared to the previous target, indicating optimism regarding the company's prospects.""
+}
+```"
+APPLE INC : UBS remains Neutral,Jan. 02,ZD,APPLE INC : UBS remains Neutral,bullish,0.85,0.9,"The headline explicitly states UBS's neutral outlook, suggesting a lack of positive influence on Apple's future performance.  This signifies a positive sentiment towards AAPL's prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states UBS's neutral outlook, suggesting a lack of positive influence on Apple's future performance.  This signifies a positive sentiment towards AAPL's prospects.""
+}
+```"
+"Wedbush Raises Price Target on Apple to $325 From $300 as 'New Era' on Horizon, Keeps Outperform Rating",Dec. 26,MT,"Wedbush Raises Price Target on Apple to $325 From $300 as 'New Era' on Horizon, Keeps Outperform Rating",bullish,0.92,0.95,"The headline emphasizes a significantly higher price target ($325) and a strong outlook for Apple's future performance, indicating considerable positive expectation.  The inclusion of 'New Era' suggests a revolutionary opportunity, which generally aligns with bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline emphasizes a significantly higher price target ($325) and a strong outlook for Apple's future performance, indicating considerable positive expectation.  The inclusion of 'New Era' suggests a revolutionary opportunity, which generally aligns with bullish sentiment.""
+}
+```"
+"Daiwa Securities Adjusts Price Target on Apple to $275 From $255, Keeps Outperform Rating",Dec. 18,MT,"Daiwa Securities Adjusts Price Target on Apple to $275 From $255, Keeps Outperform Rating",bullish,0.85,0.9,"The headline indicates a positive revision of Apple's price target, suggesting increased expectations for future growth. This is a strong signal of bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive revision of Apple's price target, suggesting increased expectations for future growth. This is a strong signal of bullish sentiment.""
+}
+```"
+"CICC Adjusts Price Target on Apple to $285 From $250.20, Keeps Outperform Rating",Dec. 13,MT,"CICC Adjusts Price Target on Apple to $285 From $250.20, Keeps Outperform Rating",bullish,0.85,0.9,"The headline indicates a significant price increase (to $285) compared to the previous target of $250.20, suggesting optimistic outlook for Apple's future earnings and stock price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (to $285) compared to the previous target of $250.20, suggesting optimistic outlook for Apple's future earnings and stock price.""
+}
+```"
+"Apple Set for 'New Era' of Growth Amid AI Features Launch Ahead of Holiday Season, Wedbush Says",Nov. 29,MT,"Apple Set for 'New Era' of Growth Amid AI Features Launch Ahead of Holiday Season, Wedbush Says",bullish,0.85,0.9,"The headline explicitly mentions 'New Era of Growth' and highlights AI features, which are generally viewed positively by investors. The mention of a 'Holiday Season' further suggests a focus on future earnings, indicating optimistic outlook for Apple's performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions 'New Era of Growth' and highlights AI features, which are generally viewed positively by investors. The mention of a 'Holiday Season' further suggests a focus on future earnings, indicating optimistic outlook for Apple's performance.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,Nov. 29,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.0,0.95,"The headline indicates a 'Neutral' rating, suggesting no significant positive or negative influence on Apple's future stock performance.  The mention of UBS's rating is a factual statement, not a prediction of future results.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a 'Neutral' rating, suggesting no significant positive or negative influence on Apple's future stock performance.  The mention of UBS's rating is a factual statement, not a prediction of future results.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,Nov. 07,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.2,0.9,"The headline indicates a continued neutral outlook, with UBS reiterating a neutral rating. There's no explicit indication of a positive or negative shift in sentiment for AAPL's future performance.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a continued neutral outlook, with UBS reiterating a neutral rating. There's no explicit indication of a positive or negative shift in sentiment for AAPL's future performance.""
+}
+```"
+"Loop Capital Adjusts Apple's Price Target to $275 From $300, Keeps Buy Rating",Nov. 04,MT,"Loop Capital Adjusts Apple's Price Target to $275 From $300, Keeps Buy Rating",bullish,0.95,0.9,"The headline indicates a price target increase, suggesting optimism about Apple's future earnings and growth, indicating a positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price target increase, suggesting optimism about Apple's future earnings and growth, indicating a positive outlook.""
+}
+```"
+BNP Paribas Raises Apple's Price Target to $225 From $204,Nov. 01,MT,BNP Paribas Raises Apple's Price Target to $225 From $204,bullish,0.92,0.95,The headline indicates a significantly increased price target (245 vs 190) which suggests strong positive expectations for Apple's future performance. The adjustment to a higher target signals optimism regarding future growth.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a significantly increased price target (245 vs 190) which suggests strong positive expectations for Apple's future performance. The adjustment to a higher target signals optimism regarding future growth.""
+}
+```"
+Jefferies Cuts Apple's Price Target to $211 From $212,Nov. 01,MT,Jefferies Cuts Apple's Price Target to $211 From $212,bullish,0.85,0.9,"The headline indicates a reduction in Apple’s price target, suggesting increased optimism about future growth. This is a positive signal for AAPL.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a reduction in Apple’s price target, suggesting increased optimism about future growth. This is a positive signal for AAPL.""
+}
+```"
+"Barclays Adjusts Price Target on Apple to $184 From $186, Maintains Underweight Rating",Nov. 01,MT,"Barclays Adjusts Price Target on Apple to $184 From $186, Maintains Underweight Rating",bullish,0.85,0.9,"The headline indicates a revision of the price target upwards, suggesting increased optimism about Apple's future earnings.  The 'Maintains Underweight Rating' further reinforces this positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a revision of the price target upwards, suggesting increased optimism about Apple's future earnings.  The 'Maintains Underweight Rating' further reinforces this positive outlook.""
+}
+```"
+"Goldman Sachs Adjusts Price Target on Apple to $286 From $275, Maintains Buy Rating",Nov. 01,MT,"Goldman Sachs Adjusts Price Target on Apple to $286 From $275, Maintains Buy Rating",bullish,0.92,0.95,"The headline indicates a significant price increase (+$286) from $275, suggesting optimistic expectations for Apple's future earnings and valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a significant price increase (+$286) from $275, suggesting optimistic expectations for Apple's future earnings and valuation.""
+}
+```"
+"Apple iPhone 16 Demand Set to Surge Following Launch of Apple Intelligence, BofA Says",24-10-25,MT,"Apple iPhone 16 Demand Set to Surge Following Launch of Apple Intelligence, BofA Says",bullish,0.85,0.9,"The mention of 'Apple Intelligence' and a positive outlook on demand for iPhone 16 strongly suggests increased consumer interest and demand, indicating a bullish outlook for Apple's future stock performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The mention of 'Apple Intelligence' and a positive outlook on demand for iPhone 16 strongly suggests increased consumer interest and demand, indicating a bullish outlook for Apple's future stock performance.""
+}
+```"
+"Goldman Sachs Adjusts Price Target on Apple to $275 From $276, Maintains Buy Rating",24-10-25,MT,"Goldman Sachs Adjusts Price Target on Apple to $275 From $276, Maintains Buy Rating",bullish,0.85,0.9,"The headline explicitly states a price target increase, signaling a positive outlook for Apple's stock price. The adjustment suggests increased investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase, signaling a positive outlook for Apple's stock price. The adjustment suggests increased investor confidence.""
+}
+```"
+Taiwan Semiconductor Manufacturing Offers Upbeat Outlook Following Strong Quarterly Results,24-10-17,MT,Taiwan Semiconductor Manufacturing Offers Upbeat Outlook Following Strong Quarterly Results,bullish,0.85,0.9,"The headline indicates strong quarterly results for Taiwan Semiconductor Manufacturing, suggesting positive future growth prospects for Apple. This aligns with bullish sentiment regarding Apple's overall business and market position.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates strong quarterly results for Taiwan Semiconductor Manufacturing, suggesting positive future growth prospects for Apple. This aligns with bullish sentiment regarding Apple's overall business and market position.""
+}
+```"
+APPLE INC : Jefferies sticks Neutral,24-10-16,ZD,APPLE INC : Jefferies sticks Neutral,bullish,0.85,0.9,"The headline explicitly states Jefferies' neutrality, suggesting a lack of positive outlook for Apple's future performance. This indicates a potential bullish signal.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states Jefferies' neutrality, suggesting a lack of positive outlook for Apple's future performance. This indicates a potential bullish signal.""
+}
+```"
+APPLE : Jefferies downgrades its recommendation,24-10-07,Zonebourse,APPLE : Jefferies downgrades its recommendation,bullish,0.85,0.9,"The headline indicates a downgrade from Jefferies, which typically suggests a negative outlook for Apple's stock. While downgrades aren't always catastrophic, they raise concerns about future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a downgrade from Jefferies, which typically suggests a negative outlook for Apple's stock. While downgrades aren't always catastrophic, they raise concerns about future performance.""
+}
+```"
+APPLE INC : From a Buy to Neutral rating by Jefferies,24-10-07,ZD,APPLE INC : From a Buy to Neutral rating by Jefferies,bullish,0.85,0.9,"The headline indicates a downgrade from Neutral to Sell, which is generally associated with a bearish outlook for Apple’s stock price. The downgrade suggests a reduced expectation for future growth.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a downgrade from Neutral to Sell, which is generally associated with a bearish outlook for Apple’s stock price. The downgrade suggests a reduced expectation for future growth.""
+}
+```"
+APPLE INC : Barclays reiterates its Sell rating,24-10-01,ZD,APPLE INC : Barclays reiterates its Sell rating,bullish,0.95,0.9,"The headline explicitly states a Sell rating, indicating a negative outlook for Apple's future stock performance.  This suggests a significant decline in the stock's value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a Sell rating, indicating a negative outlook for Apple's future stock performance.  This suggests a significant decline in the stock's value.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,24-09-30,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.0,0.95,"The headline indicates a 'Neutral' rating, suggesting no significant positive or negative influence on Apple’s future stock performance. It’s a factual update, not a predictive statement.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a 'Neutral' rating, suggesting no significant positive or negative influence on Apple’s future stock performance. It’s a factual update, not a predictive statement.""
+}
+```"
+APPLE INC : Receives a Buy rating from Goldman Sachs,24-09-23,ZD,APPLE INC : Receives a Buy rating from Goldman Sachs,bullish,0.85,0.9,"The mention of a 'Buy rating' suggests positive expectations for Apple's future performance, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The mention of a 'Buy rating' suggests positive expectations for Apple's future performance, indicating a bullish outlook.""
+}
+```"
+APPLE INC : Gets a Neutral rating from UBS,24-09-18,ZD,APPLE INC : Gets a Neutral rating from UBS,neutral,0.0,0.95,"The headline indicates a neutral rating from UBS, suggesting no significant positive or negative influence on Apple's future stock performance. It’s a standard rating provided by a financial analyst, representing a balanced view.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a neutral rating from UBS, suggesting no significant positive or negative influence on Apple's future stock performance. It’s a standard rating provided by a financial analyst, representing a balanced view.""
+}
+```"
+APPLE INC : Bernstein reiterates its Buy rating,24-09-10,ZD,APPLE INC : Bernstein reiterates its Buy rating,bullish,0.95,0.9,"Bernstein's reiteration of a Buy rating suggests a positive outlook for Apple's future performance, indicating strong bullish expectations.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""Bernstein's reiteration of a Buy rating suggests a positive outlook for Apple's future performance, indicating strong bullish expectations.""
+}
+```"
+APPLE INC : Gets a Neutral rating from UBS,24-09-10,ZD,APPLE INC : Gets a Neutral rating from UBS,neutral,0.0,0.9,"The headline indicates a neutral rating, suggesting no significant positive or negative influence on Apple's future stock performance.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a neutral rating, suggesting no significant positive or negative influence on Apple's future stock performance.""
+}
+```"
+"APPLE : UBS raises price target, remains 'neutral",24-09-04,Zonebourse,"APPLE : UBS raises price target, remains 'neutral",bullish,0.75,0.9,"The headline explicitly states UBS's price target remains neutral, suggesting a lack of positive outlook for Apple’s stock performance. However, the 'neutral' rating implies a cautious approach, which aligns with a bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states UBS's price target remains neutral, suggesting a lack of positive outlook for Apple’s stock performance. However, the 'neutral' rating implies a cautious approach, which aligns with a bullish sentiment.""
+}
+```"
+"Goldman Sachs Adjusts Price Target on Apple to $276 From $275, Maintains Buy Rating",24-09-04,MT,"Goldman Sachs Adjusts Price Target on Apple to $276 From $275, Maintains Buy Rating",bullish,0.85,0.9,"The headline indicates a price increase from $275 to $276, signaling optimism for Apple's future earnings and valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase from $275 to $276, signaling optimism for Apple's future earnings and valuation.""
+}
+```"
+"First Shanghai Securities Downgrades Apple to Hold From Buy, Adjusts Price Target to $240 From $220",24-08-30,MT,"First Shanghai Securities Downgrades Apple to Hold From Buy, Adjusts Price Target to $240 From $220",bullish,0.85,0.9,"The downgrade by Shanghai Securities indicates a potential negative outlook for Apple's future earnings and growth. While the price target adjustment suggests optimism, the downgrade introduces uncertainty, signaling a potential decline in stock value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The downgrade by Shanghai Securities indicates a potential negative outlook for Apple's future earnings and growth. While the price target adjustment suggests optimism, the downgrade introduces uncertainty, signaling a potential decline in stock value.""
+}
+```"
+"Tigress Financial Raises Price Target on Apple to $295 From $245, Maintains Strong Buy Rating",24-08-28,MT,"Tigress Financial Raises Price Target on Apple to $295 From $245, Maintains Strong Buy Rating",bullish,0.95,0.9,"The headline indicates a significantly increased target price (from $245 to $295) suggesting strong optimism regarding Apple's future profitability and growth, indicating a positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significantly increased target price (from $245 to $295) suggesting strong optimism regarding Apple's future profitability and growth, indicating a positive outlook.""
+}
+```"
+APPLE INC : Gets a Buy rating from JP Morgan,24-08-27,ZD,APPLE INC : Gets a Buy rating from JP Morgan,bullish,0.95,0.9,The headline explicitly states a 'Buy rating' which indicates a positive outlook for Apple's future stock performance.  This is a strong signal of bullish sentiment.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a 'Buy rating' which indicates a positive outlook for Apple's future stock performance.  This is a strong signal of bullish sentiment.""
+}
+```"
+Apple to Allow Third Parties to Use iPhone Payment Chip for Transactions,24-08-14,MT,Apple to Allow Third Parties to Use iPhone Payment Chip for Transactions,bullish,0.85,0.9,"The headline discusses expanding payment chip functionality for iPhone, which is generally viewed positively by investors, indicating increased revenue and market share for Apple.  This is a key strategic move that could boost future growth and valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses expanding payment chip functionality for iPhone, which is generally viewed positively by investors, indicating increased revenue and market share for Apple.  This is a key strategic move that could boost future growth and valuation.""
+}
+```"
+APPLE INC : DZ Bank reaffirms its Neutral rating,24-08-05,ZD,APPLE INC : DZ Bank reaffirms its Neutral rating,neutral,0.0,0.95,"The headline discusses a rating change, suggesting a neutral outlook for Apple's future performance. There's no explicit positive or negative indication.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline discusses a rating change, suggesting a neutral outlook for Apple's future performance. There's no explicit positive or negative indication.""
+}
+```"
+ARC Independent Raises Apple's Price Target to $235 From $200,24-08-02,MT,ARC Independent Raises Apple's Price Target to $235 From $200,bullish,0.95,0.9,"The headline indicates a significant increase in Apple's price target, representing a substantial upward movement. This suggests strong optimism regarding future earnings and growth prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant increase in Apple's price target, representing a substantial upward movement. This suggests strong optimism regarding future earnings and growth prospects.""
+}
+```"
+Maxim Raises Apple's Price Target to $203 From $195,24-08-02,MT,Maxim Raises Apple's Price Target to $203 From $195,bullish,0.95,0.9,"The headline explicitly indicates a higher price target, suggesting positive expectations for Apple's future value.  The adjustment of the target upwards is a strong signal of optimism regarding AAPL's prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly indicates a higher price target, suggesting positive expectations for Apple's future value.  The adjustment of the target upwards is a strong signal of optimism regarding AAPL's prospects.""
+}
+```"
+"Rosenblatt Adjusts Price Target on Apple to $261 From $260, Maintains Buy Rating",24-08-02,MT,"Rosenblatt Adjusts Price Target on Apple to $261 From $260, Maintains Buy Rating",bullish,0.85,0.9,The headline indicates a price increase (from $250 to $261) which is a positive signal for Apple's future earnings and valuation. Rosenblatt's adjustment is a supportive observation.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase (from $250 to $261) which is a positive signal for Apple's future earnings and valuation. Rosenblatt's adjustment is a supportive observation.""
+}
+```"
+"Itau BBA Securities Adjusts Price Target on Apple to $241 From $188, Maintains Market Perform Rating",24-08-02,MT,"Itau BBA Securities Adjusts Price Target on Apple to $241 From $188, Maintains Market Perform Rating",bullish,0.85,0.9,The headline indicates a significant price increase (from $188 to $241) suggesting strong optimism for Apple's future earnings and valuation. This is a positive signal.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (from $188 to $241) suggesting strong optimism for Apple's future earnings and valuation. This is a positive signal.""
+}
+```"
+"Barclays Adjusts Price Target on Apple to $186 From $187, Maintains Underweight Rating",24-08-02,MT,"Barclays Adjusts Price Target on Apple to $186 From $187, Maintains Underweight Rating",bullish,0.85,0.9,The headline indicates a price target increase (from $187 to $186) suggests a positive outlook for Apple's stock price. The 'Underweight' rating further reinforces this positive assessment.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price target increase (from $187 to $186) suggests a positive outlook for Apple's stock price. The 'Underweight' rating further reinforces this positive assessment.""
+}
+```"
+APPLE INC : Gets a Buy rating from Goldman Sachs,24-08-02,ZD,APPLE INC : Gets a Buy rating from Goldman Sachs,bullish,0.95,0.9,The headline explicitly indicates a 'Buy rating' suggesting a positive outlook for Apple’s future performance. This is a strong indicator of bullish sentiment.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly indicates a 'Buy rating' suggesting a positive outlook for Apple’s future performance. This is a strong indicator of bullish sentiment.""
+}
+```"
+"PayPal's turnaround plan faces challenges from competition, analysts say",24-07-31,RE,"PayPal's turnaround plan faces challenges from competition, analysts say",bullish,0.75,0.8,"The headline highlights challenges from competition, which is generally a positive signal for Apple's future performance. It suggests a potential shift in the market, implying increased value for Apple's stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights challenges from competition, which is generally a positive signal for Apple's future performance. It suggests a potential shift in the market, implying increased value for Apple's stock.""
+}
+```"
+"TD Cowen Adjusts Price Target on Apple to $250 From $220, Maintains Buy Rating",24-07-29,MT,"TD Cowen Adjusts Price Target on Apple to $250 From $220, Maintains Buy Rating",bullish,0.85,0.9,"The headline indicates a positive revision of Apple's price target from $220 to $250, suggesting increased optimism about the company's future earnings and valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive revision of Apple's price target from $220 to $250, suggesting increased optimism about the company's future earnings and valuation.""
+}
+```"
+"Analyst recommendations: Dexcom, Netflix, Tesla, Visa, Lululemon...",24-07-26,Zonebourse,"Analyst recommendations: Dexcom, Netflix, Tesla, Visa, Lululemon...",bullish,0.85,0.9,"The headline mentions several companies with positive outlooks (Dexcom, Netflix, Tesla, Visa, Lululemon) but doesn’t specifically highlight Apple’s future performance.  It’s a general overview of market trends, suggesting a positive signal for Apple's prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline mentions several companies with positive outlooks (Dexcom, Netflix, Tesla, Visa, Lululemon) but doesn’t specifically highlight Apple’s future performance.  It’s a general overview of market trends, suggesting a positive signal for Apple's prospects.""
+}
+```"
+"Barclays Adjusts Price Target on Apple to $187 From $164, Maintains Underweight Rating",24-07-24,MT,"Barclays Adjusts Price Target on Apple to $187 From $164, Maintains Underweight Rating",bullish,0.85,0.9,The headline indicates a price increase (from $164 to $187) which suggests strong optimism for Apple's future earnings and valuation. The 'Underweight' rating also leans positive.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase (from $164 to $187) which suggests strong optimism for Apple's future earnings and valuation. The 'Underweight' rating also leans positive.""
+}
+```"
+"Apple Cherry Picks Quotes to Justify Motion for Discovery in Patent Case, Omni Bridgeway Tells Court",24-07-23,MT,"Apple Cherry Picks Quotes to Justify Motion for Discovery in Patent Case, Omni Bridgeway Tells Court",bullish,0.85,0.9,"The headline discusses a motion for discovery related to a patent case, which typically signals a positive outcome for the company.  It implies a strategic benefit and improvement, suggesting increased value for Apple's stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses a motion for discovery related to a patent case, which typically signals a positive outcome for the company.  It implies a strategic benefit and improvement, suggesting increased value for Apple's stock.""
+}
+```"
+APPLE INC : Buy rating from Goldman Sachs,24-07-18,ZD,APPLE INC : Buy rating from Goldman Sachs,bullish,0.92,0.9,"The headline indicates a buy rating, which is a positive signal for Apple's stock price. It suggests analysts are optimistic about the company's future earnings and growth prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a buy rating, which is a positive signal for Apple's stock price. It suggests analysts are optimistic about the company's future earnings and growth prospects.""
+}
+```"
+"Apple Likely to Deliver In-Line June Print, Outlook, UBS Says",24-07-17,MT,"Apple Likely to Deliver In-Line June Print, Outlook, UBS Says",bullish,0.75,0.9,"The headline explicitly discusses a 'In-Line June Print' and a positive outlook, suggesting strong revenue and growth expectations, indicating bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly discusses a 'In-Line June Print' and a positive outlook, suggesting strong revenue and growth expectations, indicating bullish sentiment.""
+}
+```"
+"Apple's Apple Intelligence to Catalyze Significant Upgrade Cycle for Devices, Drive Record Shipments, Morgan Stanley Says",24-07-15,MT,"Apple's Apple Intelligence to Catalyze Significant Upgrade Cycle for Devices, Drive Record Shipments, Morgan Stanley Says",bullish,0.92,0.9,"The headline explicitly mentions a 'significant upgrade cycle' and 'record shipments,' all positive indicators for Apple's future performance. Morgan Stanley’s positive outlook further strengthens the bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions a 'significant upgrade cycle' and 'record shipments,' all positive indicators for Apple's future performance. Morgan Stanley’s positive outlook further strengthens the bullish sentiment.""
+}
+```"
+Apple gains after Morgan Stanley calls stock 'top pick' for AI efforts,24-07-15,RE,Apple gains after Morgan Stanley calls stock 'top pick' for AI efforts,bullish,0.85,0.9,"The headline explicitly describes a positive call from Morgan Stanley, indicating strong optimism about Apple's future AI-related investments and, consequently, its stock performance. This suggests a significant positive outlook for AAPL.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly describes a positive call from Morgan Stanley, indicating strong optimism about Apple's future AI-related investments and, consequently, its stock performance. This suggests a significant positive outlook for AAPL.""
+}
+```"
+APPLE INC : UBS remains Neutral,24-07-12,ZD,APPLE INC : UBS remains Neutral,bullish,0.85,0.9,"The headline indicates UBS’s neutral assessment, suggesting a potential positive outlook for Apple’s stock performance based on UBS’s perspective. This suggests a higher likelihood of positive market movement compared to a neutral assessment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates UBS’s neutral assessment, suggesting a potential positive outlook for Apple’s stock performance based on UBS’s perspective. This suggests a higher likelihood of positive market movement compared to a neutral assessment.""
+}
+```"
+APPLE : BofA raises its price target,24-07-11,Zonebourse,APPLE : BofA raises its price target,bullish,0.95,0.9,"The headline explicitly states a price target increase by BofA, which is a positive signal for Apple's stock price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase by BofA, which is a positive signal for Apple's stock price.""
+}
+```"
+Apple staves off EU antitrust fine,24-07-11,RE,Apple staves off EU antitrust fine,bullish,0.85,0.9,"The headline indicates a successful resolution to an antitrust issue, suggesting a positive outcome for Apple’s future and stock price. It’s a significant hurdle avoided, implying increased confidence in the company's position.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a successful resolution to an antitrust issue, suggesting a positive outcome for Apple’s future and stock price. It’s a significant hurdle avoided, implying increased confidence in the company's position.""
+}
+```"
+"Needham Adjusts Price Target on Apple to $260 From $220, Maintains Buy Rating",24-07-10,MT,"Needham Adjusts Price Target on Apple to $260 From $220, Maintains Buy Rating",bullish,0.85,0.9,"The headline explicitly states a price target increase (to $260) from $220, indicating a positive outlook for AAPL's future performance.  The maintain of a buy rating also suggests strong optimism.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase (to $260) from $220, indicating a positive outlook for AAPL's future performance.  The maintain of a buy rating also suggests strong optimism.""
+}
+```"
+Apple Allows Epic to Include Proprietary App Store on iPhones,24-07-08,MT,Apple Allows Epic to Include Proprietary App Store on iPhones,bullish,0.85,0.9,"The headline explicitly indicates Apple granting a third-party access to its app store, which could potentially lead to increased revenue and market share for Epic Games. This is a positive development for Apple and suggests a stronger relationship with Epic, indicating a bullish outlook for AAPL.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly indicates Apple granting a third-party access to its app store, which could potentially lead to increased revenue and market share for Epic Games. This is a positive development for Apple and suggests a stronger relationship with Epic, indicating a bullish outlook for AAPL.""
+}
+```"
+Epic Games Receives Second Rejection from Apple for Europe Game Store,24-07-05,MT,Epic Games Receives Second Rejection from Apple for Europe Game Store,bullish,0.85,0.9,"The headline discusses a second rejection of Epic's game store integration, which is generally considered positive for Apple's potential growth. It suggests increased scrutiny and potential challenges, which could translate into improved investor sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses a second rejection of Epic's game store integration, which is generally considered positive for Apple's potential growth. It suggests increased scrutiny and potential challenges, which could translate into improved investor sentiment.""
+}
+```"
+"Wall St set for lower open as megacaps retreat with jobs data, Powell in focus",24-07-02,RE,"Wall St set for lower open as megacaps retreat with jobs data, Powell in focus",bullish,0.75,0.85,"The headline discusses a retreat of megacaps, which is generally seen as positive for Apple, implying increased investor confidence and potential for higher stock price movements.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.85,
+  ""rationale"": ""The headline discusses a retreat of megacaps, which is generally seen as positive for Apple, implying increased investor confidence and potential for higher stock price movements.""
+}
+```"
+"Apple's Discounts Not Enough to Mitigate Share Loss in China, UBS Says",24-07-01,MT,"Apple's Discounts Not Enough to Mitigate Share Loss in China, UBS Says",bullish,0.85,0.9,"The headline highlights a potential share loss due to discounts, suggesting a negative outlook for Apple's future performance.  While there are discounts, the impact is considered insufficient, indicating a risk and potentially driving positive expectations.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights a potential share loss due to discounts, suggesting a negative outlook for Apple's future performance.  While there are discounts, the impact is considered insufficient, indicating a risk and potentially driving positive expectations.""
+}
+```"
+"Apple's AI Strategy Seen Driving Revenue, Earnings Growth Faster Than Expected, Oppenheimer Says",24-06-28,MT,"Apple's AI Strategy Seen Driving Revenue, Earnings Growth Faster Than Expected, Oppenheimer Says",bullish,0.85,0.9,"The headline explicitly mentions 'driving revenue' and 'earnings growth faster than expected,' which are strong indicators of positive future performance for Apple.  The reference to 'AI' is also a significant positive factor.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions 'driving revenue' and 'earnings growth faster than expected,' which are strong indicators of positive future performance for Apple.  The reference to 'AI' is also a significant positive factor.""
+}
+```"
+"Wall Street ends slightly up, trade choppy ahead of inflation data",24-06-26,RE,"Wall Street ends slightly up, trade choppy ahead of inflation data",bullish,0.85,0.9,"The headline discusses a modest increase in the market, which is typically a positive signal for Apple's future performance. The mention of 'trade choppy' and 'inflation data' suggests potential for increased investor interest and positive market sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses a modest increase in the market, which is typically a positive signal for Apple's future performance. The mention of 'trade choppy' and 'inflation data' suggests potential for increased investor interest and positive market sentiment.""
+}
+```"
+Maxim Adjusts Price Target on Apple to $195 From $178,24-06-25,MT,Maxim Adjusts Price Target on Apple to $195 From $178,bullish,0.92,0.9,"The headline explicitly states a price increase ($195 from $178), signaling positive expectations for Apple's future earnings and stock price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price increase ($195 from $178), signaling positive expectations for Apple's future earnings and stock price.""
+}
+```"
+"Evercore ISI Adjusts Price Target on Apple to $250 From $220, Maintains Outperform Rating",24-06-25,MT,"Evercore ISI Adjusts Price Target on Apple to $250 From $220, Maintains Outperform Rating",bullish,0.85,0.9,"The headline indicates a significant price increase (from $220 to $250) suggests a positive outlook for Apple's stock, strengthening the expectation of higher future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (from $220 to $250) suggests a positive outlook for Apple's stock, strengthening the expectation of higher future performance.""
+}
+```"
+"Analyst recommendations: Home Depot, Apple, Micron Technology, Anglo American, United Utilities...",24-06-21,Zonebourse,"Analyst recommendations: Home Depot, Apple, Micron Technology, Anglo American, United Utilities...",bullish,0.85,0.9,"The headline discusses multiple companies, with Apple appearing prominently. While there are other significant players mentioned, the focus on Apple suggests a positive outlook for its stock performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses multiple companies, with Apple appearing prominently. While there are other significant players mentioned, the focus on Apple suggests a positive outlook for its stock performance.""
+}
+```"
+"JPMorgan Raises Apple's Price Target to $245 From $225, Overweight Rating Maintained",24-06-18,MT,"JPMorgan Raises Apple's Price Target to $245 From $225, Overweight Rating Maintained",bullish,0.85,0.9,"The headline indicates a significant price increase (from $225 to $245) and a continued positive rating assessment, suggesting strong bullish expectations for Apple's future performance. This is a strong positive signal.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (from $225 to $245) and a continued positive rating assessment, suggesting strong bullish expectations for Apple's future performance. This is a strong positive signal.""
+}
+```"
+The winner takes it all,24-06-17,Zonebourse,The winner takes it all,bullish,0.75,0.9,"The headline 'The winner takes it all' suggests a positive outcome for Apple's future, implying strong growth and increased value.  It frames the market's perception positively.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.75,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline 'The winner takes it all' suggests a positive outcome for Apple's future, implying strong growth and increased value.  It frames the market's perception positively.""
+}
+```"
+Investors need more time to assess Fed comments,24-06-14,Zonebourse,Investors need more time to assess Fed comments,bullish,0.8,0.95,"The headline focuses on the assessment of Fed comments, which is generally positive for Apple's stock price. It suggests a potential shift in market sentiment, which often indicates increased investor confidence and potentially a boost to Apple's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline focuses on the assessment of Fed comments, which is generally positive for Apple's stock price. It suggests a potential shift in market sentiment, which often indicates increased investor confidence and potentially a boost to Apple's future performance.""
+}
+```"
+"Analyst recommendations: Apple, Paramount, Nvidia, Broadcom, Fiserv...",24-06-12,Zonebourse,"Analyst recommendations: Apple, Paramount, Nvidia, Broadcom, Fiserv...",bullish,0.85,0.9,"The headline discusses several major tech companies, including Apple. While not explicitly positive or negative, the inclusion of Apple and a list of other companies suggests potential future growth and positive market sentiment towards Apple, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses several major tech companies, including Apple. While not explicitly positive or negative, the inclusion of Apple and a list of other companies suggests potential future growth and positive market sentiment towards Apple, indicating a bullish outlook.""
+}
+```"
+"Apple's New AI Offering Should Accelerate Device Replacement Cycles, Morgan Stanley Says",24-06-11,MT,"Apple's New AI Offering Should Accelerate Device Replacement Cycles, Morgan Stanley Says",bullish,0.85,0.9,"The headline explicitly states the AI offering will accelerate device replacement cycles, suggesting increased demand and positive growth for Apple's devices. This is a strong positive signal for future stock performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states the AI offering will accelerate device replacement cycles, suggesting increased demand and positive growth for Apple's devices. This is a strong positive signal for future stock performance.""
+}
+```"
+"DA Davidson Upgrades Apple to Buy From Neutral, Adjusts Price Target to $230 From $200",24-06-11,MT,"DA Davidson Upgrades Apple to Buy From Neutral, Adjusts Price Target to $230 From $200",bullish,0.95,0.9,"The headline indicates a positive upgrade from DA Davidson, suggesting increased expectations for Apple's future performance.  The adjusted price target significantly increases the bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive upgrade from DA Davidson, suggesting increased expectations for Apple's future performance.  The adjusted price target significantly increases the bullish outlook.""
+}
+```"
+"Goldman Sachs Adjusts Price Target on Apple to $238 From $226, Keeps Buy Rating",24-06-11,MT,"Goldman Sachs Adjusts Price Target on Apple to $238 From $226, Keeps Buy Rating",bullish,0.85,0.9,"The headline indicates a price increase from $226 to $238, signaling optimism regarding Apple's future earnings and valuation. The 'keeps buy rating' further reinforces this positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase from $226 to $238, signaling optimism regarding Apple's future earnings and valuation. The 'keeps buy rating' further reinforces this positive outlook.""
+}
+```"
+Elon Musk: I'll ban Apple phones over OpenAI tie-up,24-06-11,RE,Elon Musk: I'll ban Apple phones over OpenAI tie-up,bullish,0.85,0.9,"The headline explicitly mentions a potential ban on Apple phones, which suggests a positive impact on Apple's future revenue and market position, indicating bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions a potential ban on Apple phones, which suggests a positive impact on Apple's future revenue and market position, indicating bullish sentiment.""
+}
+```"
+"Indexes mostly edge up ahead of Fed meeting, CPI, Apple conference",24-06-10,RE,"Indexes mostly edge up ahead of Fed meeting, CPI, Apple conference",bullish,0.85,0.9,"The headline highlights positive market movement (indexes up) alongside key economic data (Fed meeting, CPI, Apple conference), indicating a favorable outlook for Apple's stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights positive market movement (indexes up) alongside key economic data (Fed meeting, CPI, Apple conference), indicating a favorable outlook for Apple's stock.""
+}
+```"
+APPLE INC : JP Morgan keeps its Buy rating,24-06-04,ZD,APPLE INC : JP Morgan keeps its Buy rating,bullish,0.85,0.9,"The headline indicates a 'Buy' rating from JP Morgan, which is a positive signal for Apple's stock. It suggests they anticipate continued upward price movement.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a 'Buy' rating from JP Morgan, which is a positive signal for Apple's stock. It suggests they anticipate continued upward price movement.""
+}
+```"
+"APPLE : UBS remains 'neutral', concerned about iPhone sales",24-05-30,Zonebourse,"APPLE : UBS remains 'neutral', concerned about iPhone sales",bearish,-0.8,0.95,"The headline explicitly states UBS's concern about iPhone sales, implying a negative outlook for Apple's future performance. It’s a cautious statement suggesting potential declines.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline explicitly states UBS's concern about iPhone sales, implying a negative outlook for Apple's future performance. It’s a cautious statement suggesting potential declines.""
+}
+```"
+APPLE INC : JP Morgan maintains a Buy rating,24-05-28,ZD,APPLE INC : JP Morgan maintains a Buy rating,bullish,0.95,0.9,"The JP Morgan rating upgrade suggests a positive outlook for Apple's future, indicating increased investor confidence and potential for higher stock prices.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The JP Morgan rating upgrade suggests a positive outlook for Apple's future, indicating increased investor confidence and potential for higher stock prices.""
+}
+```"
+"Wedbush Raises Price Target on Apple to $275 From $250 on iPhone demand, Keeps Outperform Rating",24-05-24,MT,"Wedbush Raises Price Target on Apple to $275 From $250 on iPhone demand, Keeps Outperform Rating",bullish,0.88,0.9,"The headline explicitly states a significant increase in projected Apple stock price, indicating strong positive expectations for future performance. The mention of 'new era' and 'accelerate AI efforts' further strengthens this bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.88,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a significant increase in projected Apple stock price, indicating strong positive expectations for future performance. The mention of 'new era' and 'accelerate AI efforts' further strengthens this bullish sentiment.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,24-05-20,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.0,0.95,"The headline indicates UBS's continued neutral rating, suggesting no significant positive or negative impact on Apple's stock performance. It’s a straightforward statement of opinion rather than a prediction of a change.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates UBS's continued neutral rating, suggesting no significant positive or negative impact on Apple's stock performance. It’s a straightforward statement of opinion rather than a prediction of a change.""
+}
+```"
+"New Street Raises Price Target on Apple to $180 From $175, Neutral Rating Maintained",24-05-16,MT,"New Street Raises Price Target on Apple to $180 From $175, Neutral Rating Maintained",bullish,0.85,0.9,"The headline explicitly states a raise in the price target, suggesting optimism regarding future AAPL performance. The 'Neutral Rating Maintained' indicates a cautious outlook, rather than a significant positive or negative signal.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a raise in the price target, suggesting optimism regarding future AAPL performance. The 'Neutral Rating Maintained' indicates a cautious outlook, rather than a significant positive or negative signal.""
+}
+```"
+Apple Defeats Campaign to Unionize New Jersey Retail Store,24-05-13,MT,Apple Defeats Campaign to Unionize New Jersey Retail Store,bullish,0.85,0.9,"The headline indicates Apple successfully avoided a significant unionization campaign. This generally signals positive future growth prospects and reduced regulatory risk, suggesting a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates Apple successfully avoided a significant unionization campaign. This generally signals positive future growth prospects and reduced regulatory risk, suggesting a bullish outlook.""
+}
+```"
+APPLE INC : Gets a Neutral rating from UBS,24-05-09,ZD,APPLE INC : Gets a Neutral rating from UBS,neutral,0.0,0.9,"The headline indicates a 'Neutral' rating from UBS, which suggests no significant positive or negative influence on Apple's future stock performance. It simply states a rating, without offering any directional insight.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.0,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a 'Neutral' rating from UBS, which suggests no significant positive or negative influence on Apple's future stock performance. It simply states a rating, without offering any directional insight.""
+}
+```"
+"BofA Securities Raises Apple's Price Target to $230 From $225, Maintains Buy Rating",24-05-03,MT,"BofA Securities Raises Apple's Price Target to $230 From $225, Maintains Buy Rating",bullish,0.92,0.95,The headline explicitly states a price increase (to $230) which indicates strong positive expectations for Apple's future earnings and stock price.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline explicitly states a price increase (to $230) which indicates strong positive expectations for Apple's future earnings and stock price.""
+}
+```"
+APPLE INC : JP Morgan gives a Buy rating,24-05-03,ZD,APPLE INC : JP Morgan gives a Buy rating,bullish,0.85,0.9,"The phrase 'Buy rating' strongly suggests positive expectations for Apple's future performance, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The phrase 'Buy rating' strongly suggests positive expectations for Apple's future performance, indicating a bullish outlook.""
+}
+```"
+"Canaccord Genuity Adjusts Price Target on Apple to $215 From $200, Keeps Buy Rating",24-05-03,MT,"Canaccord Genuity Adjusts Price Target on Apple to $215 From $200, Keeps Buy Rating",bullish,0.95,0.9,"The headline indicates a price increase from $200 to $215, suggesting a positive outlook for Apple’s stock price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.95,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase from $200 to $215, suggesting a positive outlook for Apple’s stock price.""
+}
+```"
+"Morgan Stanley Adjusts Price Target on Apple to $216 From $210, Keeps Overweight Rating",24-05-03,MT,"Morgan Stanley Adjusts Price Target on Apple to $216 From $210, Keeps Overweight Rating",bullish,0.92,0.95,"The headline indicates a price target increase, signaling positive expectations for Apple's future earnings and valuation. The 'Keeps Overweight Rating' suggests a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.92,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a price target increase, signaling positive expectations for Apple's future earnings and valuation. The 'Keeps Overweight Rating' suggests a bullish outlook.""
+}
+```"
+"Piper Sandler Adjusts Price Target on Apple to $190 From $205, Keeps Neutral Rating",24-05-03,MT,"Piper Sandler Adjusts Price Target on Apple to $190 From $205, Keeps Neutral Rating",bullish,0.85,0.9,The headline explicitly mentions a price target increase ($190 to $205) suggesting positive expectations for Apple's future earnings. The ‘Keep Neutral Rating’ reinforces this positive outlook.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions a price target increase ($190 to $205) suggesting positive expectations for Apple's future earnings. The ‘Keep Neutral Rating’ reinforces this positive outlook.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,24-05-03,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.2,0.9,"The headline simply states a rating change from UBS, lacking any specific positive or negative outlook for AAPL's future performance. It's a standard reporting event.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline simply states a rating change from UBS, lacking any specific positive or negative outlook for AAPL's future performance. It's a standard reporting event.""
+}
+```"
+Apple shares rise 3% after analyst upgrade,24-04-29,RE,Apple shares rise 3% after analyst upgrade,bullish,0.85,0.9,"The headline explicitly states a positive percentage increase, indicating strong investor confidence and expectations for future growth, suggesting a bullish outlook for AAPL.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a positive percentage increase, indicating strong investor confidence and expectations for future growth, suggesting a bullish outlook for AAPL.""
+}
+```"
+APPLE INC : UBS sticks Neutral,24-04-29,ZD,APPLE INC : UBS sticks Neutral,bullish,0.85,0.9,"The headline indicates UBS’s neutral stance on Apple, which suggests a possible upward trend for AAPL's stock price. It’s a cautious observation, implying potential for growth rather than a significant movement.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates UBS’s neutral stance on Apple, which suggests a possible upward trend for AAPL's stock price. It’s a cautious observation, implying potential for growth rather than a significant movement.""
+}
+```"
+"Alphabet, Microsoft shares jump on proof of near-term AI returns",24-04-26,RE,"Alphabet, Microsoft shares jump on proof of near-term AI returns",bullish,0.85,0.9,"The headline explicitly focuses on 'near-term AI returns', which is highly positive for Apple's AI strategy and thus suggests strong future performance.  The mention of 'driving revenue' and 'earnings growth faster than expected' further reinforces this positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly focuses on 'near-term AI returns', which is highly positive for Apple's AI strategy and thus suggests strong future performance.  The mention of 'driving revenue' and 'earnings growth faster than expected' further reinforces this positive outlook.""
+}
+```"
+APPLE INC : UBS reiterates its Neutral rating,24-04-23,ZD,APPLE INC : UBS reiterates its Neutral rating,neutral,0.1,0.9,"The headline reports UBS’s rating remains unchanged, indicating a lack of significant positive or negative sentiment regarding Apple's future performance. It's a typical statement about market expectations, not a strong indicator of an event.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline reports UBS’s rating remains unchanged, indicating a lack of significant positive or negative sentiment regarding Apple's future performance. It's a typical statement about market expectations, not a strong indicator of an event.""
+}
+```"
+"Morgan Stanley Adjusts Apple's Price Target to $210 From $220, Maintains Overweight Rating",24-04-22,MT,"Morgan Stanley Adjusts Apple's Price Target to $210 From $220, Maintains Overweight Rating",bullish,0.85,0.9,"The headline explicitly states a price target decrease, signaling positive expectations for Apple's future earnings and market value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target decrease, signaling positive expectations for Apple's future earnings and market value.""
+}
+```"
+"Maxim Initiates Apple at Hold, $178 Price Target",24-04-17,MT,"Maxim Initiates Apple at Hold, $178 Price Target",bullish,0.85,0.9,"The headline explicitly states a price target increase, suggesting optimism about future Apple stock performance. The mention of 'Raise' also leans towards a positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.85,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly states a price target increase, suggesting optimism about future Apple stock performance. The mention of 'Raise' also leans towards a positive outlook.""
+}
+```"

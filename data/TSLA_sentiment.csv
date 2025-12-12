@@ -1,0 +1,1049 @@
+title,date_raw,source_code,body,sentiment,sentiment_score,sentiment_confidence,sentiment_rationale,sentiment_raw
+Sector Update: Consumer Stocks Fall Monday Afternoon,Dec. 08,MT,Sector Update: Consumer Stocks Fall Monday Afternoon,bearish,-0.6,0.8,"The headline indicates a decline in consumer stocks, specifically Tesla (TSLA), suggesting a negative impact on its future performance.  While not explicitly stated, the context of a Monday afternoon suggests potential downward pressure.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a decline in consumer stocks, specifically Tesla (TSLA), suggesting a negative impact on its future performance.  While not explicitly stated, the context of a Monday afternoon suggests potential downward pressure.""
+}
+```"
+"Morgan Stanley Downgrades Tesla to Equalweight From Overweight, Lifts Price Target to $425 From $410",Dec. 08,MT,"Morgan Stanley Downgrades Tesla to Equalweight From Overweight, Lifts Price Target to $425 From $410",bearish,-0.8,0.7,"Downgrades from overweight to equalweight suggest a significant weakening of Tesla’s prospects, impacting investor confidence and potentially leading to a price decline.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""Downgrades from overweight to equalweight suggest a significant weakening of Tesla’s prospects, impacting investor confidence and potentially leading to a price decline.""
+}
+```"
+BNP Paribas Raises Tesla Price Target to $313 From $307,Dec. 01,MT,BNP Paribas Raises Tesla Price Target to $313 From $307,bullish,0.8,0.9,"The headline indicates a price increase for Tesla (TSLA) by BNP Paribas, suggesting a positive outlook for the stock. This is a positive signal often associated with increased investor confidence and potential value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase for Tesla (TSLA) by BNP Paribas, suggesting a positive outlook for the stock. This is a positive signal often associated with increased investor confidence and potential value.""
+}
+```"
+"Nvidia Sell-Off a 'DeepSeek Moment,' AI Revolution Just Beginning, Wedbush Says",Nov. 21,MT,"Nvidia Sell-Off a 'DeepSeek Moment,' AI Revolution Just Beginning, Wedbush Says",bearish,-0.8,0.7,"The headline explicitly mentions a sell-off, implying a negative outlook for Tesla's stock. The phrases 'DeepSeek Moment' and 'AI Revolution Just Beginning' suggest potential challenges or a slowdown in growth, negatively impacting the stock's future.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline explicitly mentions a sell-off, implying a negative outlook for Tesla's stock. The phrases 'DeepSeek Moment' and 'AI Revolution Just Beginning' suggest potential challenges or a slowdown in growth, negatively impacting the stock's future.""
+}
+```"
+"Tesla AI Projects Face Uncertainty Despite Retention of Musk as CEO, Truist Says",Nov. 10,MT,"Tesla AI Projects Face Uncertainty Despite Retention of Musk as CEO, Truist Says",bearish,-0.6,0.8,"The headline highlights potential challenges to Tesla's AI projects, fueled by uncertainty surrounding Elon Musk's leadership, suggesting a negative outlook for the stock.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights potential challenges to Tesla's AI projects, fueled by uncertainty surrounding Elon Musk's leadership, suggesting a negative outlook for the stock.""
+}
+```"
+"Tesla Needs to Keep Elon Musk as CEO, Ives Says",Nov. 07,MT,"Tesla Needs to Keep Elon Musk as CEO, Ives Says",bearish,-0.6,0.8,"The mention of ‘needs to keep’ Elon Musk suggests potential challenges for the company's leadership, implying a possible decline in performance. While the headline isn't explicitly negative, the focus on his continued role carries a cautious outlook.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The mention of ‘needs to keep’ Elon Musk suggests potential challenges for the company's leadership, implying a possible decline in performance. While the headline isn't explicitly negative, the focus on his continued role carries a cautious outlook.""
+}
+```"
+TESLA : UBS remains a Sell rating,Nov. 07,ZD,TESLA : UBS remains a Sell rating,bearish,-0.8,0.7,"The headline indicates a downgrade by UBS, suggesting potential weakness in Tesla's stock. This is a negative indicator for the future performance of TSLA.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downgrade by UBS, suggesting potential weakness in Tesla's stock. This is a negative indicator for the future performance of TSLA.""
+}
+```"
+"Tesla to See 'Overwhelming' Shareholder Support for Musk's Pay Package, xAI Investment, Wedbush Says",Nov. 03,MT,"Tesla to See 'Overwhelming' Shareholder Support for Musk's Pay Package, xAI Investment, Wedbush Says",bullish,0.8,0.9,"The headline highlights a significant positive outcome for Tesla – a substantial and positive shareholder response to Musk's pay package, a substantial investment in AI, and Wednesday’s Wedbush's endorsement. This suggests strong investor confidence and a favorable outlook for Tesla's future prospects, indicating a bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights a significant positive outcome for Tesla – a substantial and positive shareholder response to Musk's pay package, a substantial investment in AI, and Wednesday’s Wedbush's endorsement. This suggests strong investor confidence and a favorable outlook for Tesla's future prospects, indicating a bullish sentiment.""
+}
+```"
+"Deutsche Bank Adjusts Price Target on Tesla to $470 From $440, Maintains Buy Rating",Nov. 03,MT,"Deutsche Bank Adjusts Price Target on Tesla to $470 From $440, Maintains Buy Rating",bullish,0.6,0.8,"The headline indicates a significant increase in the price target for Tesla (TSLA), suggesting a positive outlook for the stock's future performance.  Adjusting the target to $470 from $440 is a substantial positive signal.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant increase in the price target for Tesla (TSLA), suggesting a positive outlook for the stock's future performance.  Adjusting the target to $470 from $440 is a substantial positive signal.""
+}
+```"
+"President Capital Adjusts Price Target on Tesla to $529 From $373, Maintains Buy Rating",Oct. 29,MT,"President Capital Adjusts Price Target on Tesla to $529 From $373, Maintains Buy Rating",bullish,0.7,0.9,"The headline indicates a positive revision of the price target by the President, suggesting increased investor confidence in Tesla's future value. This is a key signal of bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive revision of the price target by the President, suggesting increased investor confidence in Tesla's future value. This is a key signal of bullish sentiment.""
+}
+```"
+State Board of Administration of Florida supports proposed 2025 Tesla CEO's performance award,Oct. 27,RE,State Board of Administration of Florida supports proposed 2025 Tesla CEO's performance award,bullish,0.7,0.9,"The support from the State Board of Administration of Florida signifies a positive endorsement, which is generally viewed favorably by the market for Tesla (TSLA) and suggests favorable future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The support from the State Board of Administration of Florida signifies a positive endorsement, which is generally viewed favorably by the market for Tesla (TSLA) and suggests favorable future performance.""
+}
+```"
+"China Renaissance Adjusts Price Target on Tesla to $380 From $349, Maintains Hold Rating",Oct. 24,MT,"China Renaissance Adjusts Price Target on Tesla to $380 From $349, Maintains Hold Rating",bullish,0.6,0.8,"The headline indicates a revised price target upwards, suggesting increased optimism regarding Tesla's future performance. The adjustment to $380 from $349 suggests a positive outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a revised price target upwards, suggesting increased optimism regarding Tesla's future performance. The adjustment to $380 from $349 suggests a positive outlook.""
+}
+```"
+Musk's Pay Package Pulls Focus From Tesla Earnings,Oct. 23,MT,Musk's Pay Package Pulls Focus From Tesla Earnings,bearish,-0.8,0.7,"The headline suggests a potential reduction in Tesla’s earnings, which is generally a negative signal for the stock's future performance. It implies a decrease in future growth potential.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline suggests a potential reduction in Tesla’s earnings, which is generally a negative signal for the stock's future performance. It implies a decrease in future growth potential.""
+}
+```"
+"Tesla's Q3 Revenue Beat Driven by Strong Deliveries, Energy Storage Sales, Wedbush Says",Oct. 23,MT,"Tesla's Q3 Revenue Beat Driven by Strong Deliveries, Energy Storage Sales, Wedbush Says",bullish,0.7,0.8,"The headline highlights strong revenue figures and positive growth in energy storage, both significant drivers of Tesla's success. This suggests a strong upward trend for TSLA's stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights strong revenue figures and positive growth in energy storage, both significant drivers of Tesla's success. This suggests a strong upward trend for TSLA's stock.""
+}
+```"
+TESLA : Deutsche Bank maintains a Buy rating,Oct. 23,ZD,TESLA : Deutsche Bank maintains a Buy rating,bullish,0.7,0.8,"The phrase 'maintain a Buy rating' suggests a positive outlook for Tesla's stock, indicating a belief in its future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The phrase 'maintain a Buy rating' suggests a positive outlook for Tesla's stock, indicating a belief in its future performance.""
+}
+```"
+"Deutsche Bank Adjusts Tesla Price Target to $440 From $435, Maintains Buy Rating",Oct. 23,MT,"Deutsche Bank Adjusts Tesla Price Target to $440 From $435, Maintains Buy Rating",bullish,0.7,0.9,"The headline indicates a positive outlook for Tesla's stock price, with a revised target price of $440.  This suggests increased investor confidence and a favorable future performance for the company.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive outlook for Tesla's stock price, with a revised target price of $440.  This suggests increased investor confidence and a favorable future performance for the company.""
+}
+```"
+"Cantor Fitzgerald Adjusts Price Target on Tesla to $510 From $355, Maintains Overweight Rating",Oct. 23,MT,"Cantor Fitzgerald Adjusts Price Target on Tesla to $510 From $355, Maintains Overweight Rating",bullish,0.6,0.8,"The headline indicates a price increase (from $355 to $510) for Tesla (TSLA), which is a positive signal for investors and suggests potential future gains. The 'Maintain Overweight Rating' further reinforces this optimistic outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase (from $355 to $510) for Tesla (TSLA), which is a positive signal for investors and suggests potential future gains. The 'Maintain Overweight Rating' further reinforces this optimistic outlook.""
+}
+```"
+"Tech Earnings Solid After Lam, Tesla: Hedge Fund CIO",Oct. 23,MT,"Tech Earnings Solid After Lam, Tesla: Hedge Fund CIO",bullish,0.7,0.8,"The headline highlights strong earnings figures for Tesla (TSLA) following a meeting with Lam, suggesting positive performance and investor confidence. The mention of a hedge fund CIO adds a layer of positive attention, further bolstering bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights strong earnings figures for Tesla (TSLA) following a meeting with Lam, suggesting positive performance and investor confidence. The mention of a hedge fund CIO adds a layer of positive attention, further bolstering bullish sentiment.""
+}
+```"
+TESLA : Jefferies gives a Neutral rating,Oct. 23,ZD,TESLA : Jefferies gives a Neutral rating,neutral,0.2,0.9,"The headline indicates a 'Neutral' rating by Jefferies, suggesting no significant positive or negative impact on Tesla's stock. It doesn't express bullish or bearish sentiment.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a 'Neutral' rating by Jefferies, suggesting no significant positive or negative impact on Tesla's stock. It doesn't express bullish or bearish sentiment.""
+}
+```"
+ROI-AI bubble isn't near a peak. It's only at 'base camp': Jen,Oct. 22,RE,ROI-AI bubble isn't near a peak. It's only at 'base camp': Jen,neutral,0.2,0.8,"The headline discusses a potential downturn in Tesla's stock, but it doesn't offer strong positive or negative signals. It's a cautious observation rather than a prediction of significant movement.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses a potential downturn in Tesla's stock, but it doesn't offer strong positive or negative signals. It's a cautious observation rather than a prediction of significant movement.""
+}
+```"
+Tech Up as Apple Rises on iPhone 17 Optimism -- Tech Roundup,Oct. 20,DJ,Tech Up as Apple Rises on iPhone 17 Optimism -- Tech Roundup,bullish,0.7,0.8,"The headline highlights Apple's positive performance, specifically on iPhone 17, which is a significant driver of TSLA's price. The 'Tech Roundup' suggests a broader positive outlook for the tech sector, bolstering TSLA's prospects.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights Apple's positive performance, specifically on iPhone 17, which is a significant driver of TSLA's price. The 'Tech Roundup' suggests a broader positive outlook for the tech sector, bolstering TSLA's prospects.""
+}
+```"
+"Tesla Expected to Give 'Positive' EV Demand Commentary, Wedbush Says",Oct. 20,MT,"Tesla Expected to Give 'Positive' EV Demand Commentary, Wedbush Says",bullish,0.7,0.8,"The phrase 'Positive' suggests a favorable outlook for Tesla's stock, indicating increased demand for electric vehicles.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The phrase 'Positive' suggests a favorable outlook for Tesla's stock, indicating increased demand for electric vehicles.""
+}
+```"
+Tech Up as Bubble Fears Ease - Tech Roundup,Oct. 17,DJ,Tech Up as Bubble Fears Ease - Tech Roundup,bullish,0.7,0.8,"The headline explicitly mentions 'Tech Up' and 'Bubble Fears Ease,' indicating a positive outlook for Tesla's stock due to easing concerns. This suggests increased investor confidence and potential for higher prices.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline explicitly mentions 'Tech Up' and 'Bubble Fears Ease,' indicating a positive outlook for Tesla's stock due to easing concerns. This suggests increased investor confidence and potential for higher prices.""
+}
+```"
+"Global markets live: Blackstone, Pfizer, Tesla, Stellantis, AstraZeneca…",Oct. 13,Zonebourse,"Global markets live: Blackstone, Pfizer, Tesla, Stellantis, AstraZeneca…",bearish,-0.8,0.7,"The headline focuses on significant financial entities like Blackstone and Pfizer, suggesting potential challenges or downturns within the broader market. While Tesla is mentioned, the emphasis on 'Blackstone' and 'Pfizer' indicates a negative outlook for the stock, framing the overall market as potentially unstable.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline focuses on significant financial entities like Blackstone and Pfizer, suggesting potential challenges or downturns within the broader market. While Tesla is mentioned, the emphasis on 'Blackstone' and 'Pfizer' indicates a negative outlook for the stock, framing the overall market as potentially unstable.""
+}
+```"
+"Tesla Could Capture 5% of $9 Trillion Humanoid Robot Market by 2050, RBC Says",Oct. 10,MT,"Tesla Could Capture 5% of $9 Trillion Humanoid Robot Market by 2050, RBC Says",bullish,0.7,0.8,The headline highlights Tesla’s potential dominance in a rapidly growing market – the humanoid robot sector. RBC’s positive outlook on this market strongly suggests bullish sentiment towards TSLA.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights Tesla’s potential dominance in a rapidly growing market – the humanoid robot sector. RBC’s positive outlook on this market strongly suggests bullish sentiment towards TSLA.""
+}
+```"
+Tesla CEO Musk to Earn 'Tens of Billions' From Pay Package Even if Most Goals Aren't Met,Oct. 09,MT,Tesla CEO Musk to Earn 'Tens of Billions' From Pay Package Even if Most Goals Aren't Met,bullish,0.7,0.8,"The headline indicates a significant potential windfall for Tesla CEO, suggesting a strong positive outcome based on the anticipated earnings. The phrase 'Tens of Billions' signifies substantial financial gain, lending weight to a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant potential windfall for Tesla CEO, suggesting a strong positive outcome based on the anticipated earnings. The phrase 'Tens of Billions' signifies substantial financial gain, lending weight to a bullish outlook.""
+}
+```"
+"Analysts recommendations: Datadog, Alphabet, AMD, Elevance Health, Tesla…",Oct. 09,Zonebourse,"Analysts recommendations: Datadog, Alphabet, AMD, Elevance Health, Tesla…",neutral,0.2,0.8,"The headline discusses several major tech companies, including Tesla, Alphabet, and Datadog. There’s no explicit bullish or bearish signal related to TSLA itself. It’s a general overview of the tech sector, lacking a strong positive or negative outlook.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses several major tech companies, including Tesla, Alphabet, and Datadog. There’s no explicit bullish or bearish signal related to TSLA itself. It’s a general overview of the tech sector, lacking a strong positive or negative outlook.""
+}
+```"
+TESLA : UBS gives a Sell rating,Oct. 08,ZD,TESLA : UBS gives a Sell rating,bearish,-0.8,0.7,"The Sell rating from UBS suggests a significant negative outlook for Tesla's stock, indicating a potential decline in its future performance. This signals concerns about the company's prospects, impacting investor confidence.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The Sell rating from UBS suggests a significant negative outlook for Tesla's stock, indicating a potential decline in its future performance. This signals concerns about the company's prospects, impacting investor confidence.""
+}
+```"
+Wall Street eases from record highs on rising economic jitters,Oct. 07,RE,Wall Street eases from record highs on rising economic jitters,bullish,0.6,0.8,"The headline highlights easing from record highs, which suggests a positive outlook for TSLA's stock price. 'Rising economic jitters' is a neutral indicator, but the positive sentiment surrounding the easing is strong enough to classify it as bullish.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights easing from record highs, which suggests a positive outlook for TSLA's stock price. 'Rising economic jitters' is a neutral indicator, but the positive sentiment surrounding the easing is strong enough to classify it as bullish.""
+}
+```"
+"UBS Adjusts Tesla Price Target to $247 From $215, Maintains Sell Rating",Oct. 06,MT,"UBS Adjusts Tesla Price Target to $247 From $215, Maintains Sell Rating",bearish,-0.6,0.8,"The headline indicates a significant downward revision of Tesla’s price target, suggesting a potential loss of value for the stock. The ‘Sell’ rating signals a pessimistic outlook for the future.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant downward revision of Tesla’s price target, suggesting a potential loss of value for the stock. The ‘Sell’ rating signals a pessimistic outlook for the future.""
+}
+```"
+JPMorgan Adjusts Tesla Price Target to $150 From $115,Oct. 03,MT,JPMorgan Adjusts Tesla Price Target to $150 From $115,bullish,0.8,0.9,"The headline indicates a significant price increase for Tesla's stock, suggesting a positive outlook for the company's future value.  The adjustment from $115 to $150 is a substantial move that would generally be viewed favorably by investors.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase for Tesla's stock, suggesting a positive outlook for the company's future value.  The adjustment from $115 to $150 is a substantial move that would generally be viewed favorably by investors.""
+}
+```"
+TESLA : RBC reiterates its Buy rating,Oct. 02,ZD,TESLA : RBC reiterates its Buy rating,bullish,0.8,0.9,"The headline indicates a reaffirmation of a previously positive outlook for Tesla's stock, suggesting increased confidence from RBC in its investment. This is a strong signal of potential upside movement for TSLA.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a reaffirmation of a previously positive outlook for Tesla's stock, suggesting increased confidence from RBC in its investment. This is a strong signal of potential upside movement for TSLA.""
+}
+```"
+Tesla's Sales Decline Expected to Slow in Delivery Report,Oct. 02,MT,Tesla's Sales Decline Expected to Slow in Delivery Report,bearish,-0.6,0.8,"The phrase 'decline expected' suggests a negative outlook for Tesla's sales, indicating potential challenges and a weakening performance, hence a bearish sentiment.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The phrase 'decline expected' suggests a negative outlook for Tesla's sales, indicating potential challenges and a weakening performance, hence a bearish sentiment.""
+}
+```"
+"Canaccord Genuity Adjusts Price Target on Tesla to $490 From $333, Maintains Buy Rating",Sep. 30,MT,"Canaccord Genuity Adjusts Price Target on Tesla to $490 From $333, Maintains Buy Rating",bullish,0.6,0.8,"The headline indicates a price target increase for Tesla (TSLA) suggests increased demand and profitability, indicating a positive outlook for the stock.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price target increase for Tesla (TSLA) suggests increased demand and profitability, indicating a positive outlook for the stock.""
+}
+```"
+TESLA : Receives a Buy rating from Deutsche Bank,Sep. 26,ZD,TESLA : Receives a Buy rating from Deutsche Bank,bullish,0.8,0.9,"The mention of a buy rating from Deutsche Bank strongly suggests increased investor confidence and positive prospects for Tesla's stock, indicating a likely upward trend.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The mention of a buy rating from Deutsche Bank strongly suggests increased investor confidence and positive prospects for Tesla's stock, indicating a likely upward trend.""
+}
+```"
+"Tesla Likely to Beat Third-Quarter Delivery Estimates Amid Stabilizing Global Demand, Wedbush Says",Sep. 26,MT,"Tesla Likely to Beat Third-Quarter Delivery Estimates Amid Stabilizing Global Demand, Wedbush Says",bullish,0.6,0.8,"The headline highlights Tesla's expected delivery figures exceeding estimates, suggesting improved performance and a positive outlook for the company. The mention of 'stabilizing global demand' also indicates a favorable market environment, fueling bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights Tesla's expected delivery figures exceeding estimates, suggesting improved performance and a positive outlook for the company. The mention of 'stabilizing global demand' also indicates a favorable market environment, fueling bullish sentiment.""
+}
+```"
+"Wedbush Adjusts Price Target on Tesla to $600 From $500, Maintains Outperform Rating",Sep. 26,MT,"Wedbush Adjusts Price Target on Tesla to $600 From $500, Maintains Outperform Rating",bearish,-0.8,0.7,"The headline indicates a significant price reduction for Tesla's stock, suggesting a potential decline in its value. The 'adjusts price target' implies a negative outlook for the future.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a significant price reduction for Tesla's stock, suggesting a potential decline in its value. The 'adjusts price target' implies a negative outlook for the future.""
+}
+```"
+"Mizuho Adjusts Price Target on Tesla to $450 From $375, Maintains Outperform Rating",Sep. 23,MT,"Mizuho Adjusts Price Target on Tesla to $450 From $375, Maintains Outperform Rating",bullish,0.7,0.9,The headline indicates a price increase target for Tesla (TSLA) – a significant positive signal for the stock's future performance.  The 'Maintain Outperform Rating' further reinforces this optimistic outlook.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase target for Tesla (TSLA) – a significant positive signal for the stock's future performance.  The 'Maintain Outperform Rating' further reinforces this optimistic outlook.""
+}
+```"
+"Piper Sandler Adjusts Price Target on Tesla to $500 From $400, Maintains Overweight Rating",Sep. 22,MT,"Piper Sandler Adjusts Price Target on Tesla to $500 From $400, Maintains Overweight Rating",bullish,0.7,0.9,"The headline indicates a price increase target for Tesla (TSLA) from $400 to $500, which is a positive signal for the stock's future performance. The 'Maintain Overweight' rating suggests a favorable outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase target for Tesla (TSLA) from $400 to $500, which is a positive signal for the stock's future performance. The 'Maintain Overweight' rating suggests a favorable outlook.""
+}
+```"
+"CICC Adjusts Price Target on Tesla to $450 From $360, Maintains Outperform Rating",Sep. 18,MT,"CICC Adjusts Price Target on Tesla to $450 From $360, Maintains Outperform Rating",bullish,0.7,0.8,"The headline indicates a significant price increase for Tesla's stock, reflecting a higher target price. This suggests a positive outlook for the company's future value, leading to a bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price increase for Tesla's stock, reflecting a higher target price. This suggests a positive outlook for the company's future value, leading to a bullish sentiment.""
+}
+```"
+The day the Fed resumed its rate cuts,Sep. 17,Zonebourse,The day the Fed resumed its rate cuts,bearish,-0.8,0.6,"The mention of ‘restarted rate cuts’ suggests a potential slowdown in the economy, which negatively impacts Tesla's stock price due to its reliance on growth and investment.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.6,
+  ""rationale"": ""The mention of ‘restarted rate cuts’ suggests a potential slowdown in the economy, which negatively impacts Tesla's stock price due to its reliance on growth and investment.""
+}
+```"
+"Tesla's Proposed Incentive Package for Musk 'Smart Move' to Keep CEO Engaged at Critical Juncture, Wedbush Says",Sep. 05,MT,"Tesla's Proposed Incentive Package for Musk 'Smart Move' to Keep CEO Engaged at Critical Juncture, Wedbush Says",bullish,0.6,0.8,"The headline highlights Musk's engagement and potential future benefits for Tesla, suggesting a positive outlook for the company's stock price. The phrase 'Smart Move' implies a strategic advantage that investors might anticipate.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights Musk's engagement and potential future benefits for Tesla, suggesting a positive outlook for the company's stock price. The phrase 'Smart Move' implies a strategic advantage that investors might anticipate.""
+}
+```"
+"Analyst recommendations: Apple, Tesla, Block, Eli Lilly, Fortinet…",Aug. 08,Zonebourse,"Analyst recommendations: Apple, Tesla, Block, Eli Lilly, Fortinet…",bearish,-0.7,0.8,"The headline discusses several major tech companies – Apple, Tesla, Block, Eli Lilly, and Fortinet – suggesting potential market turbulence or a lack of optimism regarding their future prospects.  It’s not a strong, positive signal.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses several major tech companies – Apple, Tesla, Block, Eli Lilly, and Fortinet – suggesting potential market turbulence or a lack of optimism regarding their future prospects.  It’s not a strong, positive signal.""
+}
+```"
+TESLA : Deutsche Bank reiterates its Buy rating,Jul. 28,ZD,TESLA : Deutsche Bank reiterates its Buy rating,bullish,0.7,0.8,"The phrase 'reiterates its Buy rating' suggests a positive outlook for Tesla's stock, indicating a stronger bullish expectation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The phrase 'reiterates its Buy rating' suggests a positive outlook for Tesla's stock, indicating a stronger bullish expectation.""
+}
+```"
+Wall Street poised for higher open on US-EU deal optimism,Jul. 28,RE,Wall Street poised for higher open on US-EU deal optimism,bullish,0.8,0.9,"The phrase 'US-EU deal optimism' strongly indicates positive market sentiment towards Tesla (TSLA), suggesting increased investor confidence and potential for higher stock prices.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The phrase 'US-EU deal optimism' strongly indicates positive market sentiment towards Tesla (TSLA), suggesting increased investor confidence and potential for higher stock prices.""
+}
+```"
+Stifel Adjusts Price Target on Tesla to $440 From $450,Jul. 25,MT,Stifel Adjusts Price Target on Tesla to $440 From $450,bullish,0.8,0.9,"The headline indicates a positive revision of Tesla's price target, suggesting increased investor confidence in the company's future earnings and valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive revision of Tesla's price target, suggesting increased investor confidence in the company's future earnings and valuation.""
+}
+```"
+"China Renaissance Downgrades Tesla to Hold From Buy, Adjusts Price Target to $349 From $410",Jul. 25,MT,"China Renaissance Downgrades Tesla to Hold From Buy, Adjusts Price Target to $349 From $410",bearish,-0.6,0.8,"The downgrade from buy to hold suggests a significant decline in Tesla's stock price. The revised target price is a substantial drop, indicating growing concern about the company's future prospects.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The downgrade from buy to hold suggests a significant decline in Tesla's stock price. The revised target price is a substantial drop, indicating growing concern about the company's future prospects.""
+}
+```"
+TESLA : Goldman Sachs reiterates its Neutral rating,Jul. 24,ZD,TESLA : Goldman Sachs reiterates its Neutral rating,neutral,0.2,0.9,"The headline indicates a reassessment of Tesla's stock rating, which is a neutral stance. There's no clear indication of a positive or negative impact on the stock's future performance.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a reassessment of Tesla's stock rating, which is a neutral stance. There's no clear indication of a positive or negative impact on the stock's future performance.""
+}
+```"
+"TD Cowen Adjusts Price Target on Tesla to $374 From $330, Maintains Buy Rating",Jul. 24,MT,"TD Cowen Adjusts Price Target on Tesla to $374 From $330, Maintains Buy Rating",bullish,0.8,0.9,"The headline indicates a significant price increase (from $330 to $374) for Tesla's stock, suggesting positive future growth expectations based on TD Cowen's recommendation. This is a strong signal of bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase (from $330 to $374) for Tesla's stock, suggesting positive future growth expectations based on TD Cowen's recommendation. This is a strong signal of bullish sentiment.""
+}
+```"
+"Canaccord Genuity Adjusts Price Target on Tesla to $333 From $303, Maintains Buy Rating",Jul. 24,MT,"Canaccord Genuity Adjusts Price Target on Tesla to $333 From $303, Maintains Buy Rating",bullish,0.6,0.8,"The headline indicates a price increase for Tesla (TSLA) suggests a positive outlook for the company, aligning with bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase for Tesla (TSLA) suggests a positive outlook for the company, aligning with bullish sentiment.""
+}
+```"
+TESLA : RBC maintains a Buy rating,Jul. 24,ZD,TESLA : RBC maintains a Buy rating,bullish,0.8,0.9,"The 'Buy' rating from RBC indicates a positive outlook for Tesla's stock, suggesting increased investor confidence and a potential price increase.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The 'Buy' rating from RBC indicates a positive outlook for Tesla's stock, suggesting increased investor confidence and a potential price increase.""
+}
+```"
+TESLA : BofA raises target price,Jul. 22,Zonebourse,TESLA : BofA raises target price,bearish,-0.8,0.7,"The headline indicates a downgrade of Tesla's price target by BofA, suggesting potential downside for the stock. This is a significant negative signal for investors.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downgrade of Tesla's price target by BofA, suggesting potential downside for the stock. This is a significant negative signal for investors.""
+}
+```"
+"BofA Securities Adjusts Price Target on Tesla to $341 From $305, Maintains Neutral Rating",Jul. 21,MT,"BofA Securities Adjusts Price Target on Tesla to $341 From $305, Maintains Neutral Rating",bullish,0.5,0.8,"The headline indicates a price increase for Tesla's stock, suggesting a positive outlook for the company. The analyst's adjustment of the price target and maintaining a neutral rating indicates a generally favorable assessment of the stock's future value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.5,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase for Tesla's stock, suggesting a positive outlook for the company. The analyst's adjustment of the price target and maintaining a neutral rating indicates a generally favorable assessment of the stock's future value.""
+}
+```"
+"Uber, Lyft Facing Disruption as Tesla Seeks to Expand Robotaxi Services, Wedbush Says",Jul. 11,MT,"Uber, Lyft Facing Disruption as Tesla Seeks to Expand Robotaxi Services, Wedbush Says",bearish,-0.6,0.8,"The headline highlights a potential disruption to Uber and Lyft by Tesla, which is investing in robotaxi services. This suggests a negative impact on the companies' future prospects, potentially affecting their revenue and market share.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights a potential disruption to Uber and Lyft by Tesla, which is investing in robotaxi services. This suggests a negative impact on the companies' future prospects, potentially affecting their revenue and market share.""
+}
+```"
+"RBC Capital Adjusts Price Target on Tesla to $319 From $307, Maintains Outperform Rating",Jul. 09,MT,"RBC Capital Adjusts Price Target on Tesla to $319 From $307, Maintains Outperform Rating",bullish,0.6,0.8,"The headline indicates a price target increase for Tesla (TSLA) by RBC Capital, suggesting positive future performance and increased investor confidence.  The 'Maintain Outperform Rating' adds further positive momentum.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price target increase for Tesla (TSLA) by RBC Capital, suggesting positive future performance and increased investor confidence.  The 'Maintain Outperform Rating' adds further positive momentum.""
+}
+```"
+TESLA : Gets a Sell rating from JP Morgan,Jul. 07,ZD,TESLA : Gets a Sell rating from JP Morgan,bearish,-0.8,0.7,"The mention of a ‘Sell’ rating by JP Morgan signals a significant decline in the stock’s price outlook, indicating bearish sentiment towards Tesla.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The mention of a ‘Sell’ rating by JP Morgan signals a significant decline in the stock’s price outlook, indicating bearish sentiment towards Tesla.""
+}
+```"
+Tesla slides as Musk's 'America Party' heightens investor worries,Jul. 07,RE,Tesla slides as Musk's 'America Party' heightens investor worries,bearish,-0.6,0.8,"The headline explicitly mentions Musk's 'America Party' and its potential impact on investor confidence. This suggests increased risk and uncertainty, indicating a negative outlook for Tesla's stock.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline explicitly mentions Musk's 'America Party' and its potential impact on investor confidence. This suggests increased risk and uncertainty, indicating a negative outlook for Tesla's stock.""
+}
+```"
+TESLA : Gets a Buy rating from RBC,Jul. 02,ZD,TESLA : Gets a Buy rating from RBC,bullish,0.8,0.9,"The mention of a ‘Buy’ rating from RBC suggests a positive outlook for Tesla's stock, indicating increased investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The mention of a ‘Buy’ rating from RBC suggests a positive outlook for Tesla's stock, indicating increased investor confidence.""
+}
+```"
+"Global markets live: Wells Fargo, Apple, Intel, Greggs, Qantas Airways…",Jul. 02,Zonebourse,"Global markets live: Wells Fargo, Apple, Intel, Greggs, Qantas Airways…",bearish,-0.7,0.6,"The headline mentions a significant downturn in global markets, which generally indicates negative expectations for a stock like TSLA.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.7,
+  ""confidence"": 0.6,
+  ""rationale"": ""The headline mentions a significant downturn in global markets, which generally indicates negative expectations for a stock like TSLA.""
+}
+```"
+TESLA : Buy rating from RBC,Jun. 26,ZD,TESLA : Buy rating from RBC,bullish,0.8,0.9,"The 'Buy' rating from RBC suggests a positive outlook for Tesla's stock, implying increased investor confidence and potential price appreciation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The 'Buy' rating from RBC suggests a positive outlook for Tesla's stock, implying increased investor confidence and potential price appreciation.""
+}
+```"
+China Renaissance Adjusts Price Target on Tesla to $410 From $367,Jun. 25,MT,China Renaissance Adjusts Price Target on Tesla to $410 From $367,bullish,0.8,0.95,"The headline indicates a revised price target upwards, suggesting a positive outlook for Tesla's stock price.  The adjustment from $367 to $410 represents a substantial increase, signaling increased investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.95,
+  ""rationale"": ""The headline indicates a revised price target upwards, suggesting a positive outlook for Tesla's stock price.  The adjustment from $367 to $410 represents a substantial increase, signaling increased investor confidence.""
+}
+```"
+TESLA : Sell rating from UBS,Jun. 23,ZD,TESLA : Sell rating from UBS,bearish,-0.8,0.7,"The 'Sell' rating from UBS signals a significant and negative outlook for Tesla's stock. This suggests UBS believes the company's future prospects are compromised, indicating a potential decline in its price.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The 'Sell' rating from UBS signals a significant and negative outlook for Tesla's stock. This suggests UBS believes the company's future prospects are compromised, indicating a potential decline in its price.""
+}
+```"
+BNP Paribas Exane Adjusts Price Target on Tesla to $142 From $150,Jun. 20,MT,BNP Paribas Exane Adjusts Price Target on Tesla to $142 From $150,bearish,-0.8,0.7,The headline indicates a downward revision of Tesla’s price target by BNP Paribas Exane. This suggests potential losses for the stock and is viewed negatively by investors.,"```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downward revision of Tesla’s price target by BNP Paribas Exane. This suggests potential losses for the stock and is viewed negatively by investors.""
+}
+```"
+Argus Research Downgrades Tesla to Hold From Buy as Stock Trading at 'Non-Fundamental Events',Jun. 09,MT,Argus Research Downgrades Tesla to Hold From Buy as Stock Trading at 'Non-Fundamental Events',bearish,-0.8,0.7,"The downgrade from buy to hold suggests a significant drop in Tesla's future prospects, indicating potential instability and decreased investor confidence.  The mention of 'non-fundamental events' highlights a potential disruptive factor affecting the stock.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The downgrade from buy to hold suggests a significant drop in Tesla's future prospects, indicating potential instability and decreased investor confidence.  The mention of 'non-fundamental events' highlights a potential disruptive factor affecting the stock.""
+}
+```"
+Wall Street set to open higher as US-China trade talks begin,Jun. 09,RE,Wall Street set to open higher as US-China trade talks begin,bullish,0.7,0.8,"The mention of ‘open higher’ and ‘trade talks’ suggests positive expectations for Tesla’s stock, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The mention of ‘open higher’ and ‘trade talks’ suggests positive expectations for Tesla’s stock, indicating a bullish outlook.""
+}
+```"
+"Analyst recommendations: Broadcom, Lululemon, McDonald's, Tesla, Etsy…",Jun. 09,Zonebourse,"Analyst recommendations: Broadcom, Lululemon, McDonald's, Tesla, Etsy…",bearish,-0.5,0.6,"The headline discusses a range of companies, including Tesla and McDonald's, which are generally considered positive. The inclusion of Broadcom, Lululemon, and Etsy, while relevant, does not present a positive outlook for TSLA.  The focus on negative influences suggests a potential risk or concern for the stock's performance.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.6,
+  ""rationale"": ""The headline discusses a range of companies, including Tesla and McDonald's, which are generally considered positive. The inclusion of Broadcom, Lululemon, and Etsy, while relevant, does not present a positive outlook for TSLA.  The focus on negative influences suggests a potential risk or concern for the stock's performance.""
+}
+```"
+Wall Street stocks end down as Tesla slumps 14% on Trump-Musk feud,Jun. 05,RE,Wall Street stocks end down as Tesla slumps 14% on Trump-Musk feud,bearish,-0.8,0.7,"The headline explicitly states a significant drop in Tesla's stock price, indicating a negative outlook for its future performance. The mention of a 'Trump-Musk feud' adds further context suggesting potential instability and risks, contributing to a bearish sentiment.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline explicitly states a significant drop in Tesla's stock price, indicating a negative outlook for its future performance. The mention of a 'Trump-Musk feud' adds further context suggesting potential instability and risks, contributing to a bearish sentiment.""
+}
+```"
+"Wall Street dips as Tesla falls, investors focus on jobs data",Jun. 05,RE,"Wall Street dips as Tesla falls, investors focus on jobs data",bearish,-0.8,0.7,"The headline explicitly mentions a decline in Tesla's stock ('falls'), indicating a negative outlook for its future performance. The focus on 'jobs data' is a relatively minor detail and doesn't necessarily indicate a significant downturn.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline explicitly mentions a decline in Tesla's stock ('falls'), indicating a negative outlook for its future performance. The focus on 'jobs data' is a relatively minor detail and doesn't necessarily indicate a significant downturn.""
+}
+```"
+Wall Street futures muted as investors await key jobs data,Jun. 05,RE,Wall Street futures muted as investors await key jobs data,bearish,-0.8,0.7,"The headline indicates a lack of activity in the TSLA market, suggesting uncertainty and potential negative performance due to the upcoming jobs report.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a lack of activity in the TSLA market, suggesting uncertainty and potential negative performance due to the upcoming jobs report.""
+}
+```"
+TESLA : Wedbush welcomes Elon Musk's departure from DOGE,May. 29,Zonebourse,TESLA : Wedbush welcomes Elon Musk's departure from DOGE,bearish,-0.8,0.7,"The headline explicitly mentions Elon Musk's departure from Doge, a significant event for Tesla. This suggests potential instability and challenges for Tesla's stock, leading to a negative outlook.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline explicitly mentions Elon Musk's departure from Doge, a significant event for Tesla. This suggests potential instability and challenges for Tesla's stock, leading to a negative outlook.""
+}
+```"
+"Wedbush Ups Price Target on Tesla to $500 From $350 Highlighting Key Launch in June, Maintains Outperform Rating",May. 23,MT,"Wedbush Ups Price Target on Tesla to $500 From $350 Highlighting Key Launch in June, Maintains Outperform Rating",bullish,0.7,0.9,"The headline explicitly mentions a significant price target increase and highlights a crucial launch event, indicating positive expectations for Tesla's stock price.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline explicitly mentions a significant price target increase and highlights a crucial launch event, indicating positive expectations for Tesla's stock price.""
+}
+```"
+"Mizuho Adjusts Price Target on Tesla to $390 From $325, Maintains Outperform Rating",May. 16,MT,"Mizuho Adjusts Price Target on Tesla to $390 From $325, Maintains Outperform Rating",bullish,0.6,0.8,"The headline indicates a price increase for Tesla (TSLA) from a lower target, suggesting a positive outlook for the stock's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase for Tesla (TSLA) from a lower target, suggesting a positive outlook for the stock's future performance.""
+}
+```"
+"Analyst recommendations: Caterpillar, Chevron, Reddit, Tesla, United Airlines…",May. 13,Zonebourse,"Analyst recommendations: Caterpillar, Chevron, Reddit, Tesla, United Airlines…",bearish,-0.5,0.8,"The headline discusses a range of companies, including Tesla and United Airlines, suggesting a cautious outlook for TSLA, hinting at potential challenges or decreased growth prospects.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses a range of companies, including Tesla and United Airlines, suggesting a cautious outlook for TSLA, hinting at potential challenges or decreased growth prospects.""
+}
+```"
+TESLA : UBS remains a Sell rating,May. 01,ZD,TESLA : UBS remains a Sell rating,bearish,-0.8,0.7,"The headline indicates a downgrade of UBS's rating on Tesla, suggesting a potential decline in the stock's value. This is a negative signal for the company's future performance.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downgrade of UBS's rating on Tesla, suggesting a potential decline in the stock's value. This is a negative signal for the company's future performance.""
+}
+```"
+"Monolithic Power Systems Likely to See 'Modest Upside' to Q1 Results, Q2 Outlook, Oppenheimer Says",Apr. 29,MT,"Monolithic Power Systems Likely to See 'Modest Upside' to Q1 Results, Q2 Outlook, Oppenheimer Says",bearish,-0.5,0.7,"The phrase 'Modest Upside' suggests a slight decline in TSLA's future performance, signaling potential weakness despite positive results.  Oppenheimer's commentary indicates caution, which often precedes a downturn.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.7,
+  ""rationale"": ""The phrase 'Modest Upside' suggests a slight decline in TSLA's future performance, signaling potential weakness despite positive results.  Oppenheimer's commentary indicates caution, which often precedes a downturn.""
+}
+```"
+"China Renaissance Adjusts Price Target on Tesla to $367 From $429, Maintains Buy Rating",Apr. 24,MT,"China Renaissance Adjusts Price Target on Tesla to $367 From $429, Maintains Buy Rating",bullish,0.6,0.8,The headline indicates a significant price increase for Tesla's stock (TSLA) due to a revised target price from China. This suggests increased investor confidence and a positive outlook for the company's future valuation.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price increase for Tesla's stock (TSLA) due to a revised target price from China. This suggests increased investor confidence and a positive outlook for the company's future valuation.""
+}
+```"
+"Analyst recommendations: Ge Aerospace, ServiceNow, Texas Instruments, AT&T, Tesla…",Apr. 24,Zonebourse,"Analyst recommendations: Ge Aerospace, ServiceNow, Texas Instruments, AT&T, Tesla…",neutral,0.1,0.9,"The headline discusses several large, well-known companies. There’s no explicit bullish or bearish signal regarding Tesla itself, suggesting a relatively neutral outlook.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses several large, well-known companies. There’s no explicit bullish or bearish signal regarding Tesla itself, suggesting a relatively neutral outlook.""
+}
+```"
+"Investors relieved Musk will refocus on Tesla, but worry about brand damage",Apr. 23,RE,"Investors relieved Musk will refocus on Tesla, but worry about brand damage",bearish,-0.6,0.8,The headline highlights a potential negative outcome – brand damage – despite a positive refocusing move by Musk. This suggests caution and uncertainty about the future performance of Tesla.,"```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights a potential negative outcome – brand damage – despite a positive refocusing move by Musk. This suggests caution and uncertainty about the future performance of Tesla.""
+}
+```"
+TESLA : JP Morgan reiterates its Sell rating,Apr. 23,ZD,TESLA : JP Morgan reiterates its Sell rating,bearish,-0.8,0.7,"The headline indicates a downgrade of Tesla's stock rating by JP Morgan, suggesting a potential decline in future stock performance. This is a significant negative signal for the company.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downgrade of Tesla's stock rating by JP Morgan, suggesting a potential decline in future stock performance. This is a significant negative signal for the company.""
+}
+```"
+Roth Adjusts Price Target on Tesla to $395 From $450,Apr. 23,MT,Roth Adjusts Price Target on Tesla to $395 From $450,bearish,-0.8,0.7,"The headline indicates a downward revision of the price target. This suggests a diminished expectation for Tesla's stock price, indicating potential losses for investors.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downward revision of the price target. This suggests a diminished expectation for Tesla's stock price, indicating potential losses for investors.""
+}
+```"
+"Cantor Fitzgerald Adjusts Price Target on Tesla to $355 From $425, Keeps Overweight Rating",Apr. 23,MT,"Cantor Fitzgerald Adjusts Price Target on Tesla to $355 From $425, Keeps Overweight Rating",bullish,0.6,0.8,"The headline indicates a positive adjustment of the price target, suggesting increased investor confidence and a favorable outlook for Tesla's stock price. The ‘Keeps Overweight Rating’ is a bullish indicator.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a positive adjustment of the price target, suggesting increased investor confidence and a favorable outlook for Tesla's stock price. The ‘Keeps Overweight Rating’ is a bullish indicator.""
+}
+```"
+"Baird Adjusts Price Target on Tesla to $320 From $370, Maintains Outperform Rating",Apr. 23,MT,"Baird Adjusts Price Target on Tesla to $320 From $370, Maintains Outperform Rating",bullish,0.7,0.9,"The headline indicates a price increase target ($320) from $370, suggesting a positive outlook for Tesla (TSLA). Maintaining an outperform rating further reinforces this optimistic outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a price increase target ($320) from $370, suggesting a positive outlook for Tesla (TSLA). Maintaining an outperform rating further reinforces this optimistic outlook.""
+}
+```"
+"Analyst recommendations: Amex, Chevron, Applovin, Hasbro, Tesla…",Apr. 23,Zonebourse,"Analyst recommendations: Amex, Chevron, Applovin, Hasbro, Tesla…",neutral,0.2,0.9,"The headline discusses multiple companies – Amex, Chevron, Applovin, Hasbro, and Tesla – without any explicitly positive or negative sentiment towards TSLA. It’s a general market update rather than a specific investment recommendation.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline discusses multiple companies – Amex, Chevron, Applovin, Hasbro, and Tesla – without any explicitly positive or negative sentiment towards TSLA. It’s a general market update rather than a specific investment recommendation.""
+}
+```"
+"Fubon Securities Adjusts Price Target on Tesla to $470 From $764, Maintains Buy Rating",Apr. 23,MT,"Fubon Securities Adjusts Price Target on Tesla to $470 From $764, Maintains Buy Rating",bullish,0.8,0.9,"The headline indicates a positive revision of Tesla's price target by Fubon Securities, suggesting increased expectations for the stock's future performance. The 'Maintain Buy Rating' adds further positive momentum.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive revision of Tesla's price target by Fubon Securities, suggesting increased expectations for the stock's future performance. The 'Maintain Buy Rating' adds further positive momentum.""
+}
+```"
+"Goldman Sachs Adjusts Price Target on Tesla to $235 From $260, Maintains Neutral Rating",Apr. 23,MT,"Goldman Sachs Adjusts Price Target on Tesla to $235 From $260, Maintains Neutral Rating",bearish,-0.5,0.8,"The headline indicates a significant price cut by Goldman Sachs for Tesla, which is generally viewed as a negative signal for the stock. The adjustment to a lower target price suggests a pessimistic outlook for the company’s future performance.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price cut by Goldman Sachs for Tesla, which is generally viewed as a negative signal for the stock. The adjustment to a lower target price suggests a pessimistic outlook for the company’s future performance.""
+}
+```"
+"BofA Securities Adjusts Price Target on Tesla to $305 From $380, Maintains Neutral Rating",Apr. 22,MT,"BofA Securities Adjusts Price Target on Tesla to $305 From $380, Maintains Neutral Rating",bearish,-0.6,0.8,"The downgrade from $380 to $305 significantly reduces investor confidence in Tesla, suggesting a potential downturn in the stock's future performance.  The adjustment indicates a more negative outlook than previously projected.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The downgrade from $380 to $305 significantly reduces investor confidence in Tesla, suggesting a potential downturn in the stock's future performance.  The adjustment indicates a more negative outlook than previously projected.""
+}
+```"
+"BNP Paribas Exane Adjusts Price Target on Tesla to $137 From $150, Keeps Underperform Rating",Apr. 16,MT,"BNP Paribas Exane Adjusts Price Target on Tesla to $137 From $150, Keeps Underperform Rating",bearish,-0.8,0.7,"The headline details a price adjustment downward, suggesting a downgrade of Tesla's stock. This signals a potential decline in future performance, indicating a bearish outlook.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline details a price adjustment downward, suggesting a downgrade of Tesla's stock. This signals a potential decline in future performance, indicating a bearish outlook.""
+}
+```"
+"RBC Capital Adjusts Price Target on Tesla to $314 From $320, Keeps Outperform Rating",Apr. 11,MT,"RBC Capital Adjusts Price Target on Tesla to $314 From $320, Keeps Outperform Rating",bearish,-0.8,0.7,"The headline indicates a price target reduction, suggesting a downgrade by RBC Capital. This is a negative signal for Tesla stock, as it implies a potential decline in its valuation and market value.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a price target reduction, suggesting a downgrade by RBC Capital. This is a negative signal for Tesla stock, as it implies a potential decline in its valuation and market value.""
+}
+```"
+"Mizuho Adjusts Price Target on Tesla to $375 From $430, Keeps Outperform Rating",Apr. 10,MT,"Mizuho Adjusts Price Target on Tesla to $375 From $430, Keeps Outperform Rating",bearish,-0.8,0.7,"The price target reduction by Mizuho suggests a significant downward revision of Tesla's future earnings potential, indicating a pessimistic outlook for the stock.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The price target reduction by Mizuho suggests a significant downward revision of Tesla's future earnings potential, indicating a pessimistic outlook for the stock.""
+}
+```"
+TESLA : a double whammy Wedbush says,Apr. 07,Zonebourse,TESLA : a double whammy Wedbush says,bearish,-0.8,0.7,"The mention of 'Wedbush' suggests a potential negative assessment of Tesla's financials or future prospects, indicating a concerning outlook.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The mention of 'Wedbush' suggests a potential negative assessment of Tesla's financials or future prospects, indicating a concerning outlook.""
+}
+```"
+TESLA : Gets a Sell rating from JP Morgan,Apr. 04,ZD,TESLA : Gets a Sell rating from JP Morgan,bearish,-0.8,0.7,"The mention of a sell rating from JP Morgan indicates a significant and likely negative outlook for Tesla's stock, suggesting potential downward pressure.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The mention of a sell rating from JP Morgan indicates a significant and likely negative outlook for Tesla's stock, suggesting potential downward pressure.""
+}
+```"
+"Goldman Sachs Adjusts Price Target on Tesla to $275 From $320, Maintains Neutral Rating",Apr. 03,MT,"Goldman Sachs Adjusts Price Target on Tesla to $275 From $320, Maintains Neutral Rating",neutral,0.1,0.9,"The headline describes a price target adjustment by a financial firm, which is a standard, relatively routine action. It doesn't inherently indicate a bullish or bearish outlook on Tesla itself, simply a professional assessment and doesn’t suggest significant upward or downward movement.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline describes a price target adjustment by a financial firm, which is a standard, relatively routine action. It doesn't inherently indicate a bullish or bearish outlook on Tesla itself, simply a professional assessment and doesn’t suggest significant upward or downward movement.""
+}
+```"
+TESLA : UBS reiterates its Sell rating,Apr. 03,ZD,TESLA : UBS reiterates its Sell rating,bearish,-0.8,0.7,"The headline indicates a downgrade by UBS, suggesting a negative outlook for Tesla's stock. This is a significant signal for bearish investors.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downgrade by UBS, suggesting a negative outlook for Tesla's stock. This is a significant signal for bearish investors.""
+}
+```"
+TESLA : Deutsche Bank gives a Buy rating,Mar. 28,ZD,TESLA : Deutsche Bank gives a Buy rating,bullish,0.8,0.9,"The 'Buy' rating from Deutsche Bank signals a positive outlook for Tesla's stock, suggesting increased investor confidence and potential for upward price movement.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The 'Buy' rating from Deutsche Bank signals a positive outlook for Tesla's stock, suggesting increased investor confidence and potential for upward price movement.""
+}
+```"
+TESLA : RBC gives a Buy rating,Mar. 28,ZD,TESLA : RBC gives a Buy rating,bullish,0.7,0.9,"The phrase 'Buy rating' indicates a positive outlook for Tesla's stock, suggesting increased investor confidence and potential for price appreciation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The phrase 'Buy rating' indicates a positive outlook for Tesla's stock, suggesting increased investor confidence and potential for price appreciation.""
+}
+```"
+"Tesla's Q1 Deliveries Expected to Be Weak Due to Demand Softness, Wedbush Securities Says",Mar. 27,MT,"Tesla's Q1 Deliveries Expected to Be Weak Due to Demand Softness, Wedbush Securities Says",bearish,-0.6,0.8,"The headline explicitly states 'Weak' delivery expectations, indicating a likely decline in future stock performance.  The mention of 'Demand Softness' is a key negative indicator.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline explicitly states 'Weak' delivery expectations, indicating a likely decline in future stock performance.  The mention of 'Demand Softness' is a key negative indicator.""
+}
+```"
+"Daiwa Securities Adjusts Price Target on Tesla to $300 From $420, Keeps Neutral Rating",Mar. 27,MT,"Daiwa Securities Adjusts Price Target on Tesla to $300 From $420, Keeps Neutral Rating",bearish,-0.8,0.7,"The headline indicates a revised price target downward, suggesting a significant decline in Tesla's stock price. The 'Neutral Rating' further reinforces the bearish outlook.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a revised price target downward, suggesting a significant decline in Tesla's stock price. The 'Neutral Rating' further reinforces the bearish outlook.""
+}
+```"
+"Piper Sandler Adjusts Price Target on Tesla to $450 From $500, Maintains Overweight Rating",Mar. 20,MT,"Piper Sandler Adjusts Price Target on Tesla to $450 From $500, Maintains Overweight Rating",bearish,-0.8,0.7,"The adjusted price target significantly lower than the previous estimate suggests a potential decline in Tesla's stock price. Maintaining an 'Overweight' rating implies a cautious outlook, suggesting a possible negative impact on the stock's future value.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The adjusted price target significantly lower than the previous estimate suggests a potential decline in Tesla's stock price. Maintaining an 'Overweight' rating implies a cautious outlook, suggesting a possible negative impact on the stock's future value.""
+}
+```"
+"Cantor Fitzgerald Upgrades Tesla to Overweight From Neutral, Price Target is $425",Mar. 19,MT,"Cantor Fitzgerald Upgrades Tesla to Overweight From Neutral, Price Target is $425",bullish,0.8,0.9,"The headline indicates an upgrade to overweight from neutral, suggesting a positive outlook for Tesla's stock. The price target increase is a key indicator of optimism.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates an upgrade to overweight from neutral, suggesting a positive outlook for Tesla's stock. The price target increase is a key indicator of optimism.""
+}
+```"
+"RBC Capital Adjusts Price Target on Tesla to $320 From $440, Keeps Outperform Rating",Mar. 18,MT,"RBC Capital Adjusts Price Target on Tesla to $320 From $440, Keeps Outperform Rating",bearish,-0.6,0.8,"The headline indicates a significant price cut for Tesla (TSLA) by RBC Capital, suggesting a potential decline in the stock's value.  This is a negative signal for investors.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price cut for Tesla (TSLA) by RBC Capital, suggesting a potential decline in the stock's value.  This is a negative signal for investors.""
+}
+```"
+"Mizuho Adjusts Price Target on Tesla to $430 From $515, Keeps Outperform Rating",Mar. 17,MT,"Mizuho Adjusts Price Target on Tesla to $430 From $515, Keeps Outperform Rating",bullish,0.6,0.8,"The headline indicates a price increase target for Tesla (TSLA) by Mizuho. This suggests a positive outlook for the stock, indicating potential for increased value and thus bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase target for Tesla (TSLA) by Mizuho. This suggests a positive outlook for the stock, indicating potential for increased value and thus bullish sentiment.""
+}
+```"
+JPMorgan Adjusts Tesla Price Target to $120 From $135,Mar. 12,MT,JPMorgan Adjusts Tesla Price Target to $120 From $135,bullish,0.7,0.9,The headline indicates a significant price increase for Tesla (TSLA) from a previous target of $135 to $120. This is a positive signal and suggests increased investor confidence.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant price increase for Tesla (TSLA) from a previous target of $135 to $120. This is a positive signal and suggests increased investor confidence.""
+}
+```"
+"Evercore ISI Adjusts Price Target on Tesla to $235 From $275, Maintains In Line Rating",Mar. 12,MT,"Evercore ISI Adjusts Price Target on Tesla to $235 From $275, Maintains In Line Rating",bearish,-0.6,0.8,"The headline indicates a downward revision of Tesla’s price target by Evercore ISI, suggesting a potential decline in stock value. The 'maintain in line rating' adds further weight to the bearish outlook.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a downward revision of Tesla’s price target by Evercore ISI, suggesting a potential decline in stock value. The 'maintain in line rating' adds further weight to the bearish outlook.""
+}
+```"
+"Tesla's Musk Has to Step Up as CEO Amid 'Brewing Political Firestorm,' Wedbush Says",Mar. 11,MT,"Tesla's Musk Has to Step Up as CEO Amid 'Brewing Political Firestorm,' Wedbush Says",bearish,-0.6,0.8,"The headline indicates potential instability and disruption within Tesla, likely stemming from Musk's leadership, which is viewed negatively by Wedbush.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates potential instability and disruption within Tesla, likely stemming from Musk's leadership, which is viewed negatively by Wedbush.""
+}
+```"
+"Analyst recommendations: Ford, Tesla, ServiceNow, Rio Tinto, FedEx…",Mar. 10,Zonebourse,"Analyst recommendations: Ford, Tesla, ServiceNow, Rio Tinto, FedEx…",bearish,-0.6,0.8,"The headline discusses major automotive companies, which typically aren't considered a positive investment focus. The mention of ServiceNow, Rio Tinto, and FedEx suggests potential risks or uncertainties in the broader market, leading to a negative outlook for TSLA.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses major automotive companies, which typically aren't considered a positive investment focus. The mention of ServiceNow, Rio Tinto, and FedEx suggests potential risks or uncertainties in the broader market, leading to a negative outlook for TSLA.""
+}
+```"
+"Baird Adjusts Price Target on Tesla to $370 From $440, Maintains Outperform Rating",Mar. 06,MT,"Baird Adjusts Price Target on Tesla to $370 From $440, Maintains Outperform Rating",bullish,0.6,0.8,The headline indicates a price increase target adjustment for Tesla (TSLA) – a positive signal for the stock's future performance. Maintaining an outperform rating suggests strong optimism about the company's prospects.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase target adjustment for Tesla (TSLA) – a positive signal for the stock's future performance. Maintaining an outperform rating suggests strong optimism about the company's prospects.""
+}
+```"
+"Analyst recommendations: Booking, Marvell, Target, Dell, Tesla...",Mar. 06,Zonebourse,"Analyst recommendations: Booking, Marvell, Target, Dell, Tesla...",bearish,-0.5,0.8,"The headline discusses a group of large tech companies (Booking, Marvell, Target, Dell, Tesla) and suggests analyst recommendations, which often indicate a potential downward trend in their stock prices.  It's a somewhat negative signal regarding the overall market, suggesting a possible decline in these companies' performance.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses a group of large tech companies (Booking, Marvell, Target, Dell, Tesla) and suggests analyst recommendations, which often indicate a potential downward trend in their stock prices.  It's a somewhat negative signal regarding the overall market, suggesting a possible decline in these companies' performance.""
+}
+```"
+"Tesla rises 2% as Morgan Stanley backs AI, robotics efforts with 'top pick' status",Mar. 03,RE,"Tesla rises 2% as Morgan Stanley backs AI, robotics efforts with 'top pick' status",bullish,0.7,0.9,The headline indicates a positive catalyst – Morgan Stanley's support for Tesla's AI and robotics initiatives – suggesting increased investor confidence and a potential price movement upwards. This is a significant positive signal for TSLA.,"```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive catalyst – Morgan Stanley's support for Tesla's AI and robotics initiatives – suggesting increased investor confidence and a potential price movement upwards. This is a significant positive signal for TSLA.""
+}
+```"
+TESLA : Receives a Buy rating from RBC,Feb. 28,ZD,TESLA : Receives a Buy rating from RBC,bullish,0.8,0.9,"The mention of a buy rating from RBC suggests positive expectations for Tesla's stock performance, indicating a favorable outlook for the company's future valuation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The mention of a buy rating from RBC suggests positive expectations for Tesla's stock performance, indicating a favorable outlook for the company's future valuation.""
+}
+```"
+"CICC Adjusts Price Target on Tesla to $425 From $300, Keeps Outperform Rating",Feb. 24,MT,"CICC Adjusts Price Target on Tesla to $425 From $300, Keeps Outperform Rating",bullish,0.6,0.8,"The headline indicates a significant price increase target for Tesla's stock, suggesting a positive outlook for its future value. The adjustment from $300 to $425 represents substantial optimism and a favorable recommendation.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant price increase target for Tesla's stock, suggesting a positive outlook for its future value. The adjustment from $300 to $425 represents substantial optimism and a favorable recommendation.""
+}
+```"
+The glass is always half full,Feb. 14,Zonebourse,The glass is always half full,bullish,0.7,0.9,"The phrase 'The glass is always half full' is a widely recognized proverb associated with optimism and positive prospects. Its message of abundance and potential growth aligns strongly with a bullish outlook for TSLA, suggesting increased investor confidence.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The phrase 'The glass is always half full' is a widely recognized proverb associated with optimism and positive prospects. Its message of abundance and potential growth aligns strongly with a bullish outlook for TSLA, suggesting increased investor confidence.""
+}
+```"
+"President Capital Adjusts Price Target on Tesla to $426 From $278, Maintains Buy Rating",Feb. 10,MT,"President Capital Adjusts Price Target on Tesla to $426 From $278, Maintains Buy Rating",bullish,0.7,0.9,"The headline indicates a significant increase in the price target for Tesla (TSLA) – a positive signal for investors. The adjustment upwards is viewed as a favorable move by analysts, suggesting improved expectations for the stock's future performance.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a significant increase in the price target for Tesla (TSLA) – a positive signal for investors. The adjustment upwards is viewed as a favorable move by analysts, suggesting improved expectations for the stock's future performance.""
+}
+```"
+"China Renaissance Adjusts Price Target on Tesla to $429 From $270, Keeps Buy Rating",Feb. 07,MT,"China Renaissance Adjusts Price Target on Tesla to $429 From $270, Keeps Buy Rating",bullish,0.7,0.8,"The headline indicates a significant increase in Tesla's price target, suggesting optimism about future growth. The adjustment to $429 from $270 represents a substantial positive uplift.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a significant increase in Tesla's price target, suggesting optimism about future growth. The adjustment to $429 from $270 represents a substantial positive uplift.""
+}
+```"
+"Analysts recommendations: Alphabet, Cava Group, Cigna, Spotify, Tesla...",Feb. 06,Zonebourse,"Analysts recommendations: Alphabet, Cava Group, Cigna, Spotify, Tesla...",neutral,0.2,0.8,"The headline discusses several companies, including Tesla, but does not provide any specific commentary regarding Alphabet, Cava Group, or Cigna.  It simply highlights a list of companies, implying a generally neutral outlook.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses several companies, including Tesla, but does not provide any specific commentary regarding Alphabet, Cava Group, or Cigna.  It simply highlights a list of companies, implying a generally neutral outlook.""
+}
+```"
+TESLA : RBC reiterates its Buy rating,Feb. 03,ZD,TESLA : RBC reiterates its Buy rating,bullish,0.8,0.9,"The headline indicates a positive reaffirmation of a Buy rating by RBC, suggesting a potential increase in the stock's price. This is a strong signal of optimism regarding Tesla's future.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a positive reaffirmation of a Buy rating by RBC, suggesting a potential increase in the stock's price. This is a strong signal of optimism regarding Tesla's future.""
+}
+```"
+TESLA : Deutsche Bank reaffirms its Buy rating,Jan. 30,ZD,TESLA : Deutsche Bank reaffirms its Buy rating,bullish,0.7,0.8,"The phrase 'reaffirms its Buy rating' indicates a positive outlook for Tesla's stock, suggesting increased confidence and potential for upward price movement.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The phrase 'reaffirms its Buy rating' indicates a positive outlook for Tesla's stock, suggesting increased confidence and potential for upward price movement.""
+}
+```"
+"Tesla's Q4 Results Excluding Bitcoin Gain 'Weaker Than Expected,' BofA Says",Jan. 30,MT,"Tesla's Q4 Results Excluding Bitcoin Gain 'Weaker Than Expected,' BofA Says",bearish,-0.6,0.8,"The headline highlights a disappointing Q4 earnings report excluding Bitcoin, suggesting a weakening outlook for Tesla's stock. This is a key negative indicator for investors.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline highlights a disappointing Q4 earnings report excluding Bitcoin, suggesting a weakening outlook for Tesla's stock. This is a key negative indicator for investors.""
+}
+```"
+"Cantor Fitzgerald Adjusts Price Target on Tesla to $425 From $365, Maintains Neutral Rating",Jan. 30,MT,"Cantor Fitzgerald Adjusts Price Target on Tesla to $425 From $365, Maintains Neutral Rating",neutral,0.1,0.9,"The headline reports a price target adjustment by Cantor Fitzgerald for Tesla (TSLA). While a price increase is mentioned, the rating remains neutral, indicating a lack of significant positive or negative impact on the stock's future performance. It's a factual update rather than a strong recommendation.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.1,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline reports a price target adjustment by Cantor Fitzgerald for Tesla (TSLA). While a price increase is mentioned, the rating remains neutral, indicating a lack of significant positive or negative impact on the stock's future performance. It's a factual update rather than a strong recommendation.""
+}
+```"
+"Truist Securities Adjusts Price Target on Tesla to $373 From $351, Keeps Hold Rating",Jan. 30,MT,"Truist Securities Adjusts Price Target on Tesla to $373 From $351, Keeps Hold Rating",bullish,0.7,0.8,"The headline indicates an upward revision of Tesla’s price target by Truist Securities. This suggests increased optimism regarding the stock’s future performance, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates an upward revision of Tesla’s price target by Truist Securities. This suggests increased optimism regarding the stock’s future performance, indicating a bullish outlook.""
+}
+```"
+TESLA : Jefferies remains Neutral,Jan. 30,ZD,TESLA : Jefferies remains Neutral,neutral,0.2,0.9,"The headline indicates a lack of strong sentiment regarding Tesla's stock. Jefferies' neutrality suggests a relatively stable outlook, without expressing bullish or bearish opinion.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a lack of strong sentiment regarding Tesla's stock. Jefferies' neutrality suggests a relatively stable outlook, without expressing bullish or bearish opinion.""
+}
+```"
+TESLA : UBS remains a Sell rating,Jan. 30,ZD,TESLA : UBS remains a Sell rating,bearish,-0.8,0.7,"The headline indicates a downgrade of Tesla's stock rating by UBS, suggesting a potential decline in its future performance. This is a significant negative signal.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a downgrade of Tesla's stock rating by UBS, suggesting a potential decline in its future performance. This is a significant negative signal.""
+}
+```"
+"Wedbush Raises Tesla's Price Target to $550 From $515, Keeps Outperform Rating",Jan. 22,MT,"Wedbush Raises Tesla's Price Target to $550 From $515, Keeps Outperform Rating",bullish,0.6,0.8,"The headline indicates a price increase for Tesla's stock (TSLA) due to Wedbush's upgrade, suggesting a positive future outlook for the company.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.6,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline indicates a price increase for Tesla's stock (TSLA) due to Wedbush's upgrade, suggesting a positive future outlook for the company.""
+}
+```"
+"Piper Sandler Adjusts Price Target on Tesla to $500 From $315, Maintains Overweight Rating",Jan. 21,MT,"Piper Sandler Adjusts Price Target on Tesla to $500 From $315, Maintains Overweight Rating",bearish,-0.8,0.7,"The headline indicates a price reduction of $500 for Tesla, suggesting a downgrade and potential downward pressure on the stock's value. This is a negative signal for the investor.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a price reduction of $500 for Tesla, suggesting a downgrade and potential downward pressure on the stock's value. This is a negative signal for the investor.""
+}
+```"
+"Analyst recommendations: Adobe, Intuit, XPO, Netflix, Tesla...",Jan. 15,Zonebourse,"Analyst recommendations: Adobe, Intuit, XPO, Netflix, Tesla...",bearish,-0.5,0.8,"The headline discusses a variety of companies, including Tesla, which carries a significant risk profile. While the headline doesn't explicitly criticize the stock, the mention of 'analyst recommendations' suggests a potential concern about the future of the company, particularly considering the volatile nature of Tesla.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.5,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline discusses a variety of companies, including Tesla, which carries a significant risk profile. While the headline doesn't explicitly criticize the stock, the mention of 'analyst recommendations' suggests a potential concern about the future of the company, particularly considering the volatile nature of Tesla.""
+}
+```"
+"Tesla's Edge in AI, Mobility Backs Leadership Potential in Autonomous Rideshare Market, Morgan Stanley Says",Jan. 13,MT,"Tesla's Edge in AI, Mobility Backs Leadership Potential in Autonomous Rideshare Market, Morgan Stanley Says",bullish,0.8,0.9,"The headline highlights Tesla's advancements in AI, which is a significant positive for the company's future.  Morgan Stanley's positive outlook on the autonomous rideshare market further strengthens Tesla’s position and suggests increased value.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.8,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline highlights Tesla's advancements in AI, which is a significant positive for the company's future.  Morgan Stanley's positive outlook on the autonomous rideshare market further strengthens Tesla’s position and suggests increased value.""
+}
+```"
+"BNP Paribas Exane Adjusts Tesla's Price Target to $157 From $155, Keeps Underperform Rating",Jan. 08,MT,"BNP Paribas Exane Adjusts Tesla's Price Target to $157 From $155, Keeps Underperform Rating",bearish,-0.6,0.7,"The statement about adjusting the price target suggests a downgrade, indicating a potential decline in the stock's value. It’s a significant negative event for the target.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.6,
+  ""confidence"": 0.7,
+  ""rationale"": ""The statement about adjusting the price target suggests a downgrade, indicating a potential decline in the stock's value. It’s a significant negative event for the target.""
+}
+```"
+BofA Downgrades Tesla to Neutral From Buy,Jan. 07,MT,BofA Downgrades Tesla to Neutral From Buy,bearish,-0.8,0.7,"The downgrade from buy by Bank of America suggests a significant decrease in Tesla's future prospects, indicating potential for a substantial decline in the stock's price.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The downgrade from buy by Bank of America suggests a significant decrease in Tesla's future prospects, indicating potential for a substantial decline in the stock's price.""
+}
+```"
+Tesla: on the rebound with broker's comments,Jan. 03,Zonebourse,Tesla: on the rebound with broker's comments,bullish,0.7,0.8,"The headline explicitly mentions 'broker's comments' which suggests positive assessment of Tesla's stock, indicating a bullish outlook.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.8,
+  ""rationale"": ""The headline explicitly mentions 'broker's comments' which suggests positive assessment of Tesla's stock, indicating a bullish outlook.""
+}
+```"
+TESLA : price target raised at Canaccord,Jan. 03,Zonebourse,TESLA : price target raised at Canaccord,bearish,-0.8,0.7,"The headline indicates a raised price target suggests potential downside for Tesla's stock, indicating concerns about future earnings or valuation.","```json
+{
+  ""sentiment"": ""bearish"",
+  ""score"": -0.8,
+  ""confidence"": 0.7,
+  ""rationale"": ""The headline indicates a raised price target suggests potential downside for Tesla's stock, indicating concerns about future earnings or valuation.""
+}
+```"
+TESLA : RBC reaffirms its Buy rating,Jan. 02,ZD,TESLA : RBC reaffirms its Buy rating,bullish,0.7,0.9,"The phrase 'reaffirms its Buy rating' suggests a positive outlook for Tesla's stock, indicating increased confidence in its future prospects. This is a key indicator of bullish sentiment.","```json
+{
+  ""sentiment"": ""bullish"",
+  ""score"": 0.7,
+  ""confidence"": 0.9,
+  ""rationale"": ""The phrase 'reaffirms its Buy rating' suggests a positive outlook for Tesla's stock, indicating increased confidence in its future prospects. This is a key indicator of bullish sentiment.""
+}
+```"
+TESLA : Jefferies reiterates its Neutral rating,Jan. 02,ZD,TESLA : Jefferies reiterates its Neutral rating,neutral,0.2,0.9,"The headline indicates a reassessment of Tesla’s stock rating by Jefferies, which is a relatively neutral statement with no strong positive or negative indicators. It simply confirms a previously existing rating, without suggesting a significant shift or improvement.","```json
+{
+  ""sentiment"": ""neutral"",
+  ""score"": 0.2,
+  ""confidence"": 0.9,
+  ""rationale"": ""The headline indicates a reassessment of Tesla’s stock rating by Jefferies, which is a relatively neutral statement with no strong positive or negative indicators. It simply confirms a previously existing rating, without suggesting a significant shift or improvement.""
+}
+```"

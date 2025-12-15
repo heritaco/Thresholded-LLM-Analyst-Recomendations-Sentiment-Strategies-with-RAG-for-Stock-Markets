@@ -3,7 +3,7 @@ from typing import List, Dict, Optional
 import pandas as pd
 
 
-def load_triplet_news_txt(path: str = "data/AAPL.txt") -> pd.DataFrame:
+def triplet_news_txt(path: str = "data/AAPL.txt") -> pd.DataFrame:
     """
     Parse a simple text file where each article is encoded as 3 consecutive lines:
         1) title/headline

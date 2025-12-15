@@ -1,4 +1,4 @@
-# Thresholded LLM Analyst Recomendations Sentiment Strategies with RAG
+# Thresholded LLM Analyst Recomendations Sentiment Strategies with RAG for Stock Markets
 
 
 ![alt text](images/image.png)
